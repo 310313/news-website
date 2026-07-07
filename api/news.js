@@ -226,7 +226,7 @@ module.exports = async (req, res) => {
     try {
       const byCategory = await fetchAllCategoriesRaw();
       const overview = await synthesizeOverview(byCategory);
-      res.setHeader("Cache-Control", "no-store");
+      res.setHeader('Cache-Control', 's-maxage=900, stale-while-revalidate=300');
       res.status(200).json({
         mode: "overview",
         updatedAt: new Date().toISOString(),
@@ -271,7 +271,7 @@ module.exports = async (req, res) => {
 
     deduped.sort((a, b) => (IMPORTANCE_ORDER[a.importance] ?? 1) - (IMPORTANCE_ORDER[b.importance] ?? 1));
 
-    res.setHeader("Cache-Control", "no-store");
+    res.setHeader('Cache-Control', 's-maxage=900, stale-while-revalidate=300');
     res.status(200).json({
       mode: "list",
       category,
