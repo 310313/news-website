@@ -1,0 +1,6782 @@
+[
+  {
+    "id": "abandon",
+    "word": "abandon",
+    "pos": "v.",
+    "zh": "遺棄；中止"
+  },
+  {
+    "id": "abbey",
+    "word": "abbey",
+    "pos": "n.",
+    "zh": "修道院"
+  },
+  {
+    "id": "abbreviation",
+    "word": "abbreviation",
+    "pos": "n.",
+    "zh": "縮略語"
+  },
+  {
+    "id": "abide",
+    "word": "abide",
+    "pos": "v.",
+    "zh": "遵守"
+  },
+  {
+    "id": "ability",
+    "word": "ability",
+    "pos": "n.",
+    "zh": "能力；才能"
+  },
+  {
+    "id": "able",
+    "word": "able",
+    "pos": "adj.",
+    "zh": "能；有能力的"
+  },
+  {
+    "id": "abnormal",
+    "word": "abnormal",
+    "pos": "adj.",
+    "zh": "反常的"
+  },
+  {
+    "id": "aboardprep",
+    "word": "aboard prep.",
+    "pos": "adv.",
+    "zh": "在(船、飛機、車)上"
+  },
+  {
+    "id": "abolish",
+    "word": "abolish",
+    "pos": "v.",
+    "zh": "廢除"
+  },
+  {
+    "id": "abolition",
+    "word": "abolition",
+    "pos": "n.",
+    "zh": "廢除"
+  },
+  {
+    "id": "aboriginal",
+    "word": "aboriginal",
+    "pos": "adj.",
+    "zh": "adj.原住民的"
+  },
+  {
+    "id": "aborigine",
+    "word": "aborigine",
+    "pos": "n.",
+    "zh": "土著居民"
+  },
+  {
+    "id": "abortion",
+    "word": "abortion",
+    "pos": "n.",
+    "zh": "墮胎"
+  },
+  {
+    "id": "aboutprep",
+    "word": "about prep.",
+    "pos": "adv.",
+    "zh": "關於"
+  },
+  {
+    "id": "aboveprep",
+    "word": "above prep.",
+    "pos": "adv.",
+    "zh": "adj. 在…上面；優於，勝過"
+  },
+  {
+    "id": "abroad",
+    "word": "abroad",
+    "pos": "adv.",
+    "zh": "在(到)國外"
+  },
+  {
+    "id": "abrupt",
+    "word": "abrupt",
+    "pos": "adj.",
+    "zh": "突然的；魯莽的"
+  },
+  {
+    "id": "absence",
+    "word": "absence",
+    "pos": "n.",
+    "zh": "缺席；缺少"
+  },
+  {
+    "id": "absent",
+    "word": "absent",
+    "pos": "adj.",
+    "zh": "缺席的"
+  },
+  {
+    "id": "absolute",
+    "word": "absolute",
+    "pos": "adj.",
+    "zh": "完全的；絕對的"
+  },
+  {
+    "id": "absorb",
+    "word": "absorb",
+    "pos": "v.",
+    "zh": "吸收；理解"
+  },
+  {
+    "id": "absorbing",
+    "word": "absorbing",
+    "pos": "adj.",
+    "zh": "極有趣的"
+  },
+  {
+    "id": "abstract",
+    "word": "abstract",
+    "pos": "adj.",
+    "zh": "抽象的"
+  },
+  {
+    "id": "abstraction",
+    "word": "abstraction",
+    "pos": "n.",
+    "zh": "心不在焉／抽象概念"
+  },
+  {
+    "id": "absurd",
+    "word": "absurd",
+    "pos": "adj.",
+    "zh": "荒唐的"
+  },
+  {
+    "id": "abundance",
+    "word": "abundance",
+    "pos": "n.",
+    "zh": "豐富"
+  },
+  {
+    "id": "academic",
+    "word": "academic",
+    "pos": "adj.",
+    "zh": "學院的；學術的"
+  },
+  {
+    "id": "acceleration",
+    "word": "acceleration",
+    "pos": "n.",
+    "zh": "加速"
+  },
+  {
+    "id": "acceptv",
+    "word": "accept v.",
+    "pos": "n.",
+    "zh": "接受"
+  },
+  {
+    "id": "acceptable",
+    "word": "acceptable",
+    "pos": "adj.",
+    "zh": "可以接受的"
+  },
+  {
+    "id": "acceptance",
+    "word": "acceptance",
+    "pos": "n.",
+    "zh": "接受"
+  },
+  {
+    "id": "accessible",
+    "word": "accessible",
+    "pos": "adj.",
+    "zh": "易接近的"
+  },
+  {
+    "id": "accessory",
+    "word": "accessory",
+    "pos": "n.",
+    "zh": "附件"
+  },
+  {
+    "id": "accident",
+    "word": "accident",
+    "pos": "n.",
+    "zh": "事故"
+  },
+  {
+    "id": "accidental",
+    "word": "accidental",
+    "pos": "adj.",
+    "zh": "偶然的；意外的"
+  },
+  {
+    "id": "acclaimv",
+    "word": "acclaim v.",
+    "pos": "n.",
+    "zh": "歡呼；歡呼聲"
+  },
+  {
+    "id": "accommodation",
+    "word": "accommodation",
+    "pos": "",
+    "zh": "n住所"
+  },
+  {
+    "id": "accompany",
+    "word": "accompany",
+    "pos": "v.",
+    "zh": "陪同"
+  },
+  {
+    "id": "accomplish",
+    "word": "accomplish",
+    "pos": "v.",
+    "zh": "完成"
+  },
+  {
+    "id": "accomplished",
+    "word": "accomplished",
+    "pos": "adj.",
+    "zh": "有才藝的"
+  },
+  {
+    "id": "accomplishment",
+    "word": "accomplishment",
+    "pos": "n.",
+    "zh": "[C]才藝；[U]完成"
+  },
+  {
+    "id": "accord",
+    "word": "accord",
+    "pos": "v.",
+    "zh": "符合"
+  },
+  {
+    "id": "accordingly",
+    "word": "accordingly",
+    "pos": "adv.",
+    "zh": "因此"
+  },
+  {
+    "id": "account",
+    "word": "account",
+    "pos": "n./v.",
+    "zh": "n. 帳戶；描述　v. 認為；解釋"
+  },
+  {
+    "id": "accountable",
+    "word": "accountable",
+    "pos": "adj.",
+    "zh": "負有責任的"
+  },
+  {
+    "id": "accountant",
+    "word": "accountant",
+    "pos": "n.",
+    "zh": "會計師"
+  },
+  {
+    "id": "accounting",
+    "word": "accounting",
+    "pos": "n.",
+    "zh": "會計學"
+  },
+  {
+    "id": "accumulate",
+    "word": "accumulate",
+    "pos": "v.",
+    "zh": "積累"
+  },
+  {
+    "id": "accumulation",
+    "word": "accumulation",
+    "pos": "n.",
+    "zh": "累積"
+  },
+  {
+    "id": "accuracy",
+    "word": "accuracy",
+    "pos": "n.",
+    "zh": "正確(性)"
+  },
+  {
+    "id": "accurate",
+    "word": "accurate",
+    "pos": "adj.",
+    "zh": "準確的"
+  },
+  {
+    "id": "accusation",
+    "word": "accusation",
+    "pos": "n.",
+    "zh": "控訴"
+  },
+  {
+    "id": "accuse",
+    "word": "accuse",
+    "pos": "v.",
+    "zh": "把…歸咎(於)；指控"
+  },
+  {
+    "id": "accustom",
+    "word": "accustom",
+    "pos": "v.",
+    "zh": "使習慣"
+  },
+  {
+    "id": "ace",
+    "word": "ace",
+    "pos": "n.",
+    "zh": "么點牌；能手"
+  },
+  {
+    "id": "achen",
+    "word": "ache n.",
+    "pos": "v.",
+    "zh": "疼痛"
+  },
+  {
+    "id": "achievement",
+    "word": "achieve(ment)",
+    "pos": "v.",
+    "zh": "(n)完成；達到"
+  },
+  {
+    "id": "acoustic",
+    "word": "acoustic",
+    "pos": "adj.",
+    "zh": "聽覺的"
+  },
+  {
+    "id": "acquaintance",
+    "word": "acquaintance",
+    "pos": "n.",
+    "zh": "熟人"
+  },
+  {
+    "id": "acquire",
+    "word": "acquire",
+    "pos": "v.",
+    "zh": "取得"
+  },
+  {
+    "id": "acquisition",
+    "word": "acquisition",
+    "pos": "n.",
+    "zh": "取得；獲得物"
+  },
+  {
+    "id": "acre",
+    "word": "acre",
+    "pos": "n.",
+    "zh": "英畝"
+  },
+  {
+    "id": "acreage",
+    "word": "acreage",
+    "pos": "n.",
+    "zh": "英畝數"
+  },
+  {
+    "id": "acrossprep",
+    "word": "across prep.",
+    "pos": "adv.",
+    "zh": "橫越"
+  },
+  {
+    "id": "actn",
+    "word": "act n.",
+    "pos": "v.",
+    "zh": "行動；表演"
+  },
+  {
+    "id": "action",
+    "word": "action",
+    "pos": "n.",
+    "zh": "行動；作用"
+  },
+  {
+    "id": "active",
+    "word": "active",
+    "pos": "adj.",
+    "zh": "活躍的；積極的"
+  },
+  {
+    "id": "activity",
+    "word": "activity",
+    "pos": "n.",
+    "zh": "活動；活動力"
+  },
+  {
+    "id": "actor",
+    "word": "actor",
+    "pos": "n.",
+    "zh": "男演員"
+  },
+  {
+    "id": "actress",
+    "word": "actress",
+    "pos": "n.",
+    "zh": "女演員"
+  },
+  {
+    "id": "actual",
+    "word": "actual",
+    "pos": "adj.",
+    "zh": "實際的"
+  },
+  {
+    "id": "acute",
+    "word": "acute",
+    "pos": "adj.",
+    "zh": "敏銳的"
+  },
+  {
+    "id": "ad",
+    "word": "ad",
+    "pos": "n.",
+    "zh": "廣告"
+  },
+  {
+    "id": "adapt",
+    "word": "adapt",
+    "pos": "v.",
+    "zh": "使適應"
+  },
+  {
+    "id": "adaptation",
+    "word": "adaptation",
+    "pos": "n.",
+    "zh": "適應；改編(本)"
+  },
+  {
+    "id": "add",
+    "word": "add",
+    "pos": "v.",
+    "zh": "增加"
+  },
+  {
+    "id": "addict",
+    "word": "addict",
+    "pos": "n.",
+    "zh": "對～有癮的人"
+  },
+  {
+    "id": "addiction",
+    "word": "addiction",
+    "pos": "n.",
+    "zh": "耽溺"
+  },
+  {
+    "id": "addition",
+    "word": "addition",
+    "pos": "n.",
+    "zh": "增加；附加"
+  },
+  {
+    "id": "additional",
+    "word": "additional",
+    "pos": "adj.",
+    "zh": "附加的"
+  },
+  {
+    "id": "addressn",
+    "word": "address n.",
+    "pos": "v.",
+    "zh": "地址；致詞"
+  },
+  {
+    "id": "adequately",
+    "word": "adequately",
+    "pos": "adv.",
+    "zh": "充分地"
+  },
+  {
+    "id": "adjoin",
+    "word": "adjoin",
+    "pos": "v.",
+    "zh": "毗連"
+  },
+  {
+    "id": "adjustment",
+    "word": "adjust(ment)",
+    "pos": "v.",
+    "zh": "(n.)調整"
+  },
+  {
+    "id": "administrative",
+    "word": "administrative",
+    "pos": "adj.",
+    "zh": "行政的"
+  },
+  {
+    "id": "administrator",
+    "word": "administrator",
+    "pos": "n.",
+    "zh": "行政官員"
+  },
+  {
+    "id": "admirable",
+    "word": "admirable",
+    "pos": "adj.",
+    "zh": "令人欽佩的"
+  },
+  {
+    "id": "admiral",
+    "word": "admiral",
+    "pos": "n.",
+    "zh": "海軍將官"
+  },
+  {
+    "id": "admiration",
+    "word": "admiration",
+    "pos": "n.",
+    "zh": "欽佩"
+  },
+  {
+    "id": "admire",
+    "word": "admire",
+    "pos": "v.",
+    "zh": "欽佩；欣賞"
+  },
+  {
+    "id": "admission",
+    "word": "admission",
+    "pos": "n.",
+    "zh": "加入許可；承認"
+  },
+  {
+    "id": "admit",
+    "word": "admit",
+    "pos": "v.",
+    "zh": "承認"
+  },
+  {
+    "id": "adolescence",
+    "word": "adolescence",
+    "pos": "n.",
+    "zh": "青春期"
+  },
+  {
+    "id": "adolescentadj",
+    "word": "adolescent adj.",
+    "pos": "n.",
+    "zh": "青春期的；青少年"
+  },
+  {
+    "id": "adopt",
+    "word": "adopt",
+    "pos": "v.",
+    "zh": "採取；收養"
+  },
+  {
+    "id": "adult",
+    "word": "adult",
+    "pos": "n.",
+    "zh": "成年人"
+  },
+  {
+    "id": "advancen",
+    "word": "advance n.",
+    "pos": "v.",
+    "zh": "推進；將…提前"
+  },
+  {
+    "id": "advanced",
+    "word": "advanced",
+    "pos": "adj.",
+    "zh": "先進的；高等的"
+  },
+  {
+    "id": "advancement",
+    "word": "advancement",
+    "pos": "n.",
+    "zh": "前進；擢升"
+  },
+  {
+    "id": "advantage",
+    "word": "advantage",
+    "pos": "n.",
+    "zh": "有利條件；優勢"
+  },
+  {
+    "id": "adventure",
+    "word": "adventure",
+    "pos": "n.",
+    "zh": "冒險"
+  },
+  {
+    "id": "adverse",
+    "word": "adverse",
+    "pos": "adj.",
+    "zh": "反對的"
+  },
+  {
+    "id": "advert",
+    "word": "advert",
+    "pos": "v.",
+    "zh": "提及"
+  },
+  {
+    "id": "advertisement",
+    "word": "advertise(ment)",
+    "pos": "v.",
+    "zh": "(n)為…做廣告"
+  },
+  {
+    "id": "advertising",
+    "word": "advertising",
+    "pos": "n.",
+    "zh": "廣告業"
+  },
+  {
+    "id": "advice",
+    "word": "advice",
+    "pos": "n.",
+    "zh": "勸告；消息"
+  },
+  {
+    "id": "advise",
+    "word": "advise",
+    "pos": "v.",
+    "zh": "勸告；忠告；通知"
+  },
+  {
+    "id": "adviser",
+    "word": "adviser",
+    "pos": "",
+    "zh": "advisor n.顧問"
+  },
+  {
+    "id": "advisory",
+    "word": "advisory",
+    "pos": "adj.",
+    "zh": "提供忠告的"
+  },
+  {
+    "id": "advocaten",
+    "word": "advocate n.",
+    "pos": "v.",
+    "zh": "提倡者；擁護"
+  },
+  {
+    "id": "aerospace",
+    "word": "aerospace",
+    "pos": "n.",
+    "zh": "航空太空(包括大氣層內外)"
+  },
+  {
+    "id": "aesthetic",
+    "word": "aesthetic",
+    "pos": "adj.",
+    "zh": "美感的"
+  },
+  {
+    "id": "affair",
+    "word": "affair",
+    "pos": "n.",
+    "zh": "事情；事件"
+  },
+  {
+    "id": "affect",
+    "word": "affect",
+    "pos": "v.",
+    "zh": "影響；使感動"
+  },
+  {
+    "id": "affection",
+    "word": "affection",
+    "pos": "n.",
+    "zh": "愛情"
+  },
+  {
+    "id": "affiliated",
+    "word": "affiliated",
+    "pos": "adj.",
+    "zh": "相關聯的"
+  },
+  {
+    "id": "afford",
+    "word": "afford",
+    "pos": "v.",
+    "zh": "類得起；承擔得起"
+  },
+  {
+    "id": "afraid",
+    "word": "afraid",
+    "pos": "adj.",
+    "zh": "害怕的"
+  },
+  {
+    "id": "afterprep",
+    "word": "after prep.",
+    "pos": "adv.",
+    "zh": "adj.在…之後；以後的"
+  },
+  {
+    "id": "aftermath",
+    "word": "aftermath",
+    "pos": "n.",
+    "zh": "餘波"
+  },
+  {
+    "id": "afternoon",
+    "word": "afternoon",
+    "pos": "n.",
+    "zh": "下午"
+  },
+  {
+    "id": "afterwards",
+    "word": "afterward(s)",
+    "pos": "adv.",
+    "zh": "以後"
+  },
+  {
+    "id": "again",
+    "word": "again",
+    "pos": "adv.",
+    "zh": "再一次"
+  },
+  {
+    "id": "against",
+    "word": "against",
+    "pos": "prep.",
+    "zh": "反對；對著"
+  },
+  {
+    "id": "agen",
+    "word": "age n.",
+    "pos": "v.",
+    "zh": "年齡；使變老"
+  },
+  {
+    "id": "agency",
+    "word": "agency",
+    "pos": "n.",
+    "zh": "代理機構；仲介"
+  },
+  {
+    "id": "agenda",
+    "word": "agenda",
+    "pos": "n.",
+    "zh": "議程"
+  },
+  {
+    "id": "agent",
+    "word": "agent",
+    "pos": "n.",
+    "zh": "代理人；仲介人"
+  },
+  {
+    "id": "aggregate",
+    "word": "aggregate",
+    "pos": "n.",
+    "zh": "總數"
+  },
+  {
+    "id": "aggression",
+    "word": "aggression",
+    "pos": "n.",
+    "zh": "侵略"
+  },
+  {
+    "id": "aggressive",
+    "word": "aggressive",
+    "pos": "adj.",
+    "zh": "好鬥的；積極的"
+  },
+  {
+    "id": "aging",
+    "word": "aging",
+    "pos": "adj.",
+    "zh": "變老的"
+  },
+  {
+    "id": "ago",
+    "word": "ago",
+    "pos": "adv.",
+    "zh": "在～以前"
+  },
+  {
+    "id": "agony",
+    "word": "agony",
+    "pos": "n.",
+    "zh": "痛苦"
+  },
+  {
+    "id": "agreement",
+    "word": "agree(ment)",
+    "pos": "v.",
+    "zh": "(n)同意"
+  },
+  {
+    "id": "agriculture",
+    "word": "agriculture",
+    "pos": "n.",
+    "zh": "農業"
+  },
+  {
+    "id": "ahead",
+    "word": "ahead",
+    "pos": "adv.",
+    "zh": "在·前面；領先"
+  },
+  {
+    "id": "aidn",
+    "word": "aid n.",
+    "pos": "v.",
+    "zh": "幫助"
+  },
+  {
+    "id": "aide",
+    "word": "aide",
+    "pos": "n.",
+    "zh": "助理"
+  },
+  {
+    "id": "aids",
+    "word": "AIDS",
+    "pos": "n.",
+    "zh": "愛滋病"
+  },
+  {
+    "id": "aimn",
+    "word": "aim n.",
+    "pos": "v.",
+    "zh": "目標；瞄準"
+  },
+  {
+    "id": "air",
+    "word": "air",
+    "pos": "n.",
+    "zh": "空氣；大氣；天空"
+  },
+  {
+    "id": "aircraft",
+    "word": "aircraft",
+    "pos": "n.",
+    "zh": "航空器；飛機"
+  },
+  {
+    "id": "airforce",
+    "word": "airforce",
+    "pos": "n.",
+    "zh": "空軍"
+  },
+  {
+    "id": "airline",
+    "word": "airline",
+    "pos": "n.",
+    "zh": "航線；航空公司"
+  },
+  {
+    "id": "airmail",
+    "word": "airmail",
+    "pos": "n.",
+    "zh": "航空郵件"
+  },
+  {
+    "id": "airplane",
+    "word": "airplane",
+    "pos": "n.",
+    "zh": "飛機"
+  },
+  {
+    "id": "airport",
+    "word": "airport",
+    "pos": "n.",
+    "zh": "機場；航空站"
+  },
+  {
+    "id": "airtight",
+    "word": "air-tight",
+    "pos": "adj.",
+    "zh": "密封的"
+  },
+  {
+    "id": "airway",
+    "word": "airway",
+    "pos": "n.",
+    "zh": "航空公司；航線"
+  },
+  {
+    "id": "aisle",
+    "word": "aisle",
+    "pos": "n.",
+    "zh": "通道"
+  },
+  {
+    "id": "akin",
+    "word": "akin",
+    "pos": "adj.",
+    "zh": "類似的"
+  },
+  {
+    "id": "alarmn",
+    "word": "alarm n.",
+    "pos": "v.",
+    "zh": "警報；驚恐"
+  },
+  {
+    "id": "alarming",
+    "word": "alarming",
+    "pos": "adj.",
+    "zh": "令人憂心的"
+  },
+  {
+    "id": "alas",
+    "word": "alas",
+    "pos": "interj.",
+    "zh": "哎呀(表悲傷或恐懼)"
+  },
+  {
+    "id": "albeit",
+    "word": "albeit",
+    "pos": "adv.",
+    "zh": "儘管"
+  },
+  {
+    "id": "album",
+    "word": "album",
+    "pos": "n.",
+    "zh": "一套唱片；相簿"
+  },
+  {
+    "id": "alcohol",
+    "word": "alcohol",
+    "pos": "n.",
+    "zh": "酒精"
+  },
+  {
+    "id": "alcoholicn",
+    "word": "alcoholic n.",
+    "pos": "adj.",
+    "zh": "酒精飲料；含酒精的"
+  },
+  {
+    "id": "alertadj",
+    "word": "alert adj.",
+    "pos": "v.",
+    "zh": "n.警覺的；警戒"
+  },
+  {
+    "id": "algebra",
+    "word": "algebra",
+    "pos": "n.",
+    "zh": "代數"
+  },
+  {
+    "id": "alien",
+    "word": "alien",
+    "pos": "adj.",
+    "zh": "外國的"
+  },
+  {
+    "id": "alienate",
+    "word": "alienate",
+    "pos": "v.",
+    "zh": "使不和"
+  },
+  {
+    "id": "alienation",
+    "word": "alienation",
+    "pos": "n.",
+    "zh": "離間；疏遠"
+  },
+  {
+    "id": "alikeadj",
+    "word": "alike adj.",
+    "pos": "adv.",
+    "zh": "相同的"
+  },
+  {
+    "id": "alive",
+    "word": "alive",
+    "pos": "adj.",
+    "zh": "活著的；有活力的"
+  },
+  {
+    "id": "alladj",
+    "word": "all adj.",
+    "pos": "adv.",
+    "zh": "pron.全部的；全體"
+  },
+  {
+    "id": "allegation",
+    "word": "allegation",
+    "pos": "n.",
+    "zh": "宣稱"
+  },
+  {
+    "id": "allege",
+    "word": "allege",
+    "pos": "v.",
+    "zh": "聲稱"
+  },
+  {
+    "id": "allergy",
+    "word": "allergy",
+    "pos": "n.",
+    "zh": "過敏性反應"
+  },
+  {
+    "id": "alley",
+    "word": "alley",
+    "pos": "n.",
+    "zh": "小巷子；小徑"
+  },
+  {
+    "id": "alliance",
+    "word": "alliance",
+    "pos": "n.",
+    "zh": "聯盟"
+  },
+  {
+    "id": "allied",
+    "word": "allied",
+    "pos": "adj.",
+    "zh": "同盟的"
+  },
+  {
+    "id": "allocate",
+    "word": "allocate",
+    "pos": "v.",
+    "zh": "撥給"
+  },
+  {
+    "id": "allocation",
+    "word": "allocation",
+    "pos": "n.",
+    "zh": "配給"
+  },
+  {
+    "id": "allot",
+    "word": "allot",
+    "pos": "v.",
+    "zh": "分配"
+  },
+  {
+    "id": "allow",
+    "word": "allow",
+    "pos": "v.",
+    "zh": "允許"
+  },
+  {
+    "id": "almost",
+    "word": "almost",
+    "pos": "adv.",
+    "zh": "幾乎"
+  },
+  {
+    "id": "aloneadj",
+    "word": "alone adj.",
+    "pos": "adv.",
+    "zh": "單獨的"
+  },
+  {
+    "id": "alongprep",
+    "word": "along prep.",
+    "pos": "adv.",
+    "zh": "沿著；一起"
+  },
+  {
+    "id": "alongsideprep",
+    "word": "alongside prep.",
+    "pos": "adv.",
+    "zh": "靠著…旁邊"
+  },
+  {
+    "id": "aloud",
+    "word": "aloud",
+    "pos": "adv.",
+    "zh": "大聲地"
+  },
+  {
+    "id": "alphabet",
+    "word": "alphabet",
+    "pos": "n.",
+    "zh": "字母系統"
+  },
+  {
+    "id": "already",
+    "word": "already",
+    "pos": "adv.",
+    "zh": "已經；先前"
+  },
+  {
+    "id": "also",
+    "word": "also",
+    "pos": "adv.",
+    "zh": "同樣地"
+  },
+  {
+    "id": "alteration",
+    "word": "alteration",
+    "pos": "adj.",
+    "zh": "更動"
+  },
+  {
+    "id": "alternateadj",
+    "word": "alternate adj.",
+    "pos": "v.",
+    "zh": "輪流的"
+  },
+  {
+    "id": "alternative",
+    "word": "alternative",
+    "pos": "adj.",
+    "zh": "替代的；二擇一的"
+  },
+  {
+    "id": "alternatively",
+    "word": "alternatively",
+    "pos": "adv.",
+    "zh": "二擇一地"
+  },
+  {
+    "id": "although",
+    "word": "although",
+    "pos": "conj.",
+    "zh": "雖然；然而"
+  },
+  {
+    "id": "altitude",
+    "word": "altitude",
+    "pos": "n.",
+    "zh": "高度"
+  },
+  {
+    "id": "altogether",
+    "word": "altogether",
+    "pos": "adv.",
+    "zh": "完全；總而言之"
+  },
+  {
+    "id": "aluminum",
+    "word": "aluminum",
+    "pos": "n.",
+    "zh": "鋁"
+  },
+  {
+    "id": "always",
+    "word": "always",
+    "pos": "adv.",
+    "zh": "總是；永遠"
+  },
+  {
+    "id": "amateurn",
+    "word": "amateur n.",
+    "pos": "adj.",
+    "zh": "業餘從事者；業餘的"
+  },
+  {
+    "id": "amazement",
+    "word": "amaze(ment)",
+    "pos": "v.",
+    "zh": "(n)使驚愕"
+  },
+  {
+    "id": "amazing",
+    "word": "amazing",
+    "pos": "adj.",
+    "zh": "令人驚訝的"
+  },
+  {
+    "id": "ambassador",
+    "word": "ambassador",
+    "pos": "n.",
+    "zh": "大使；使節"
+  },
+  {
+    "id": "ambiguity",
+    "word": "ambiguity",
+    "pos": "n.",
+    "zh": "意義含糊"
+  },
+  {
+    "id": "ambiguous",
+    "word": "ambiguous",
+    "pos": "adj.",
+    "zh": "含糊的"
+  },
+  {
+    "id": "ambition",
+    "word": "ambition",
+    "pos": "n.",
+    "zh": "抱負；志向"
+  },
+  {
+    "id": "ambitious",
+    "word": "ambitious",
+    "pos": "adj.",
+    "zh": "野心勃勃的"
+  },
+  {
+    "id": "ambulance",
+    "word": "ambulance",
+    "pos": "n.",
+    "zh": "救護車"
+  },
+  {
+    "id": "ambush",
+    "word": "ambush",
+    "pos": "v.",
+    "zh": "埋伏突擊"
+  },
+  {
+    "id": "amend",
+    "word": "amend",
+    "pos": "v.",
+    "zh": "修改"
+  },
+  {
+    "id": "amid",
+    "word": "amid",
+    "pos": "prep.",
+    "zh": "在…當中"
+  },
+  {
+    "id": "ammunition",
+    "word": "ammunition",
+    "pos": "n.",
+    "zh": "彈藥"
+  },
+  {
+    "id": "amnesty",
+    "word": "amnesty",
+    "pos": "n.",
+    "zh": "大赦"
+  },
+  {
+    "id": "among",
+    "word": "among",
+    "pos": "prep.",
+    "zh": "在…之中"
+  },
+  {
+    "id": "amountn",
+    "word": "amount n.",
+    "pos": "v.",
+    "zh": "共計；總數"
+  },
+  {
+    "id": "amusement",
+    "word": "amuse(ment)",
+    "pos": "v.",
+    "zh": "(n.)給～提供娛樂"
+  },
+  {
+    "id": "analects",
+    "word": "analects",
+    "pos": "n.",
+    "zh": "語錄"
+  },
+  {
+    "id": "analogy",
+    "word": "analogy",
+    "pos": "n.",
+    "zh": "相似"
+  },
+  {
+    "id": "analysis",
+    "word": "analysis",
+    "pos": "n.",
+    "zh": "分析"
+  },
+  {
+    "id": "analyst",
+    "word": "analyst",
+    "pos": "n.",
+    "zh": "分析家"
+  },
+  {
+    "id": "ancestor",
+    "word": "ancestor",
+    "pos": "n.",
+    "zh": "祖先"
+  },
+  {
+    "id": "ancestral",
+    "word": "ancestral",
+    "pos": "adj.",
+    "zh": "祖先的"
+  },
+  {
+    "id": "ancient",
+    "word": "ancient",
+    "pos": "adj.",
+    "zh": "古代的"
+  },
+  {
+    "id": "anecdote",
+    "word": "anecdote",
+    "pos": "n.",
+    "zh": "軼事"
+  },
+  {
+    "id": "angel",
+    "word": "angel",
+    "pos": "n.",
+    "zh": "天使"
+  },
+  {
+    "id": "anger",
+    "word": "anger",
+    "pos": "n.",
+    "zh": "生氣"
+  },
+  {
+    "id": "angle",
+    "word": "angle",
+    "pos": "",
+    "zh": "n角度；立場"
+  },
+  {
+    "id": "angler",
+    "word": "angler",
+    "pos": "n.",
+    "zh": "釣魚者"
+  },
+  {
+    "id": "angry",
+    "word": "angry",
+    "pos": "adj.",
+    "zh": "生氣的"
+  },
+  {
+    "id": "angular",
+    "word": "angular",
+    "pos": "adj.",
+    "zh": "有尖角的"
+  },
+  {
+    "id": "animal",
+    "word": "animal",
+    "pos": "n.",
+    "zh": "動物"
+  },
+  {
+    "id": "ankle",
+    "word": "ankle",
+    "pos": "n.",
+    "zh": "足踝"
+  },
+  {
+    "id": "anniversary",
+    "word": "anniversary",
+    "pos": "n.",
+    "zh": "週年紀念"
+  },
+  {
+    "id": "announcement",
+    "word": "announce(ment)",
+    "pos": "v.(n.)",
+    "zh": "宣布"
+  },
+  {
+    "id": "annual",
+    "word": "annual",
+    "pos": "adj.",
+    "zh": "一年一度的"
+  },
+  {
+    "id": "anonymous",
+    "word": "anonymous",
+    "pos": "adj.",
+    "zh": "不具名的"
+  },
+  {
+    "id": "anotheradj",
+    "word": "another adj.",
+    "pos": "pron.",
+    "zh": "另一個"
+  },
+  {
+    "id": "answern",
+    "word": "answer n.",
+    "pos": "v.",
+    "zh": "答案"
+  },
+  {
+    "id": "ant",
+    "word": "ant",
+    "pos": "n.",
+    "zh": "螞蟻"
+  },
+  {
+    "id": "amenna",
+    "word": "amenna",
+    "pos": "n.",
+    "zh": "觸鬚；天線"
+  },
+  {
+    "id": "anthem",
+    "word": "anthem",
+    "pos": "n.",
+    "zh": "聖歌"
+  },
+  {
+    "id": "antibiotic",
+    "word": "antibiotic",
+    "pos": "n.",
+    "zh": "抗生素"
+  },
+  {
+    "id": "antibody",
+    "word": "antibody",
+    "pos": "n.",
+    "zh": "抗體"
+  },
+  {
+    "id": "anticipation",
+    "word": "anticipation",
+    "pos": "n.",
+    "zh": "期盼"
+  },
+  {
+    "id": "antique",
+    "word": "antique",
+    "pos": "adj.",
+    "zh": "年代久遠的"
+  },
+  {
+    "id": "anxiety",
+    "word": "anxiety",
+    "pos": "n.",
+    "zh": "焦慮"
+  },
+  {
+    "id": "anxious",
+    "word": "anxious",
+    "pos": "adj.",
+    "zh": "焦慮的"
+  },
+  {
+    "id": "anyadj",
+    "word": "any adj.",
+    "pos": "adv.",
+    "zh": "pron.任何的；若干"
+  },
+  {
+    "id": "anyhow",
+    "word": "anyhow",
+    "pos": "adv.",
+    "zh": "無論如何"
+  },
+  {
+    "id": "anymore",
+    "word": "anymore",
+    "pos": "adv.",
+    "zh": "再也(不)"
+  },
+  {
+    "id": "anyway",
+    "word": "anyway",
+    "pos": "adv.",
+    "zh": "無論如何"
+  },
+  {
+    "id": "apartadj",
+    "word": "apart adj.",
+    "pos": "adv.",
+    "zh": "分開的"
+  },
+  {
+    "id": "apartment",
+    "word": "apartment",
+    "pos": "n.",
+    "zh": "公寓大樓"
+  },
+  {
+    "id": "ape",
+    "word": "ape",
+    "pos": "n.",
+    "zh": "大猩猩"
+  },
+  {
+    "id": "apologize",
+    "word": "apologize",
+    "pos": "v.",
+    "zh": "道歉"
+  },
+  {
+    "id": "apology",
+    "word": "apology",
+    "pos": "n.",
+    "zh": "道歉"
+  },
+  {
+    "id": "appal",
+    "word": "appal",
+    "pos": "v.",
+    "zh": "(=appall)使驚駭"
+  },
+  {
+    "id": "appalling",
+    "word": "appalling",
+    "pos": "adj.",
+    "zh": "令人恐懼的"
+  },
+  {
+    "id": "apparent",
+    "word": "apparent",
+    "pos": "adj.",
+    "zh": "明顯的"
+  },
+  {
+    "id": "appealn",
+    "word": "appeal n.",
+    "pos": "v.",
+    "zh": "吸引；呼籲"
+  },
+  {
+    "id": "appealing",
+    "word": "appealing",
+    "pos": "adj.",
+    "zh": "迷人的"
+  },
+  {
+    "id": "appear",
+    "word": "appear",
+    "pos": "v.",
+    "zh": "出現；顯露"
+  },
+  {
+    "id": "appearance",
+    "word": "appearance",
+    "pos": "n.",
+    "zh": "外貌；顯露"
+  },
+  {
+    "id": "appetite",
+    "word": "appetite",
+    "pos": "n.",
+    "zh": "胃口；食慾"
+  },
+  {
+    "id": "appetizer",
+    "word": "appetizer",
+    "pos": "n.(主菜前用的)",
+    "zh": "開胃食物"
+  },
+  {
+    "id": "applaud",
+    "word": "applaud",
+    "pos": "v.",
+    "zh": "鼓掌"
+  },
+  {
+    "id": "applause",
+    "word": "applause",
+    "pos": "n.",
+    "zh": "掌聲"
+  },
+  {
+    "id": "appliance",
+    "word": "appliance",
+    "pos": "n.",
+    "zh": "器具；裝備"
+  },
+  {
+    "id": "applicable",
+    "word": "applicable",
+    "pos": "adj.",
+    "zh": "適用的"
+  },
+  {
+    "id": "applicant",
+    "word": "applicant",
+    "pos": "n.",
+    "zh": "申請人"
+  },
+  {
+    "id": "application",
+    "word": "application",
+    "pos": "n.",
+    "zh": "應用；申請書"
+  },
+  {
+    "id": "apply",
+    "word": "apply",
+    "pos": "v.",
+    "zh": "應用；申請"
+  },
+  {
+    "id": "appoint",
+    "word": "appoint",
+    "pos": "v.",
+    "zh": "任命；指派"
+  },
+  {
+    "id": "appointment",
+    "word": "appointment",
+    "pos": "n.",
+    "zh": "約定；指派"
+  },
+  {
+    "id": "appraisal",
+    "word": "appraisal",
+    "pos": "n.",
+    "zh": "評價"
+  },
+  {
+    "id": "appreciate",
+    "word": "appreciate",
+    "pos": "v.",
+    "zh": "欣賞；感激"
+  },
+  {
+    "id": "appreciation",
+    "word": "appreciation",
+    "pos": "n.",
+    "zh": "欣賞；感謝"
+  },
+  {
+    "id": "apprehension",
+    "word": "apprehension",
+    "pos": "n.",
+    "zh": "憂慮"
+  },
+  {
+    "id": "apprentice",
+    "word": "apprentice",
+    "pos": "n.",
+    "zh": "學徒"
+  },
+  {
+    "id": "approachn",
+    "word": "approach n.",
+    "pos": "v.",
+    "zh": "接近；著手處理"
+  },
+  {
+    "id": "appropriate",
+    "word": "appropriate",
+    "pos": "adj.",
+    "zh": "適當的"
+  },
+  {
+    "id": "approval",
+    "word": "approval",
+    "pos": "n.",
+    "zh": "同意；認可"
+  },
+  {
+    "id": "approve",
+    "word": "approve",
+    "pos": "v.",
+    "zh": "同意；認可"
+  },
+  {
+    "id": "april",
+    "word": "April",
+    "pos": "n.",
+    "zh": "四月"
+  },
+  {
+    "id": "apron",
+    "word": "apron",
+    "pos": "n.",
+    "zh": "圍裙；工作裙"
+  },
+  {
+    "id": "apt",
+    "word": "apt",
+    "pos": "adj.",
+    "zh": "有…傾向的"
+  },
+  {
+    "id": "aptitude",
+    "word": "aptitude",
+    "pos": "n.",
+    "zh": "資質"
+  },
+  {
+    "id": "aquarium",
+    "word": "aquarium",
+    "pos": "n.",
+    "zh": "水族館"
+  },
+  {
+    "id": "arch",
+    "word": "arch",
+    "pos": "n.",
+    "zh": "拱門；拱形"
+  },
+  {
+    "id": "archaeology",
+    "word": "archaeology",
+    "pos": "n.",
+    "zh": "考古學"
+  },
+  {
+    "id": "architect",
+    "word": "architect",
+    "pos": "n.",
+    "zh": "建築師；設計師"
+  },
+  {
+    "id": "architecture",
+    "word": "architecture",
+    "pos": "n.",
+    "zh": "建築學；建築風格"
+  },
+  {
+    "id": "archive",
+    "word": "archive",
+    "pos": "n.",
+    "zh": "檔案"
+  },
+  {
+    "id": "area",
+    "word": "area",
+    "pos": "n.",
+    "zh": "區域；範圍"
+  },
+  {
+    "id": "arena",
+    "word": "arena",
+    "pos": "n.",
+    "zh": "活動場所(供運動、娛樂的)"
+  },
+  {
+    "id": "arguement",
+    "word": "argue(ment)",
+    "pos": "v.",
+    "zh": "(n.)爭論；主張"
+  },
+  {
+    "id": "arise",
+    "word": "arise",
+    "pos": "v.",
+    "zh": "升起；復活"
+  },
+  {
+    "id": "arithmeticadj",
+    "word": "arithmetic adj.",
+    "pos": "n.",
+    "zh": "算術的"
+  },
+  {
+    "id": "arm",
+    "word": "arm",
+    "pos": "n.",
+    "zh": "手臂"
+  },
+  {
+    "id": "armchair",
+    "word": "armchair",
+    "pos": "n.",
+    "zh": "扶手椅"
+  },
+  {
+    "id": "armed",
+    "word": "armed",
+    "pos": "adj.",
+    "zh": "武裝的"
+  },
+  {
+    "id": "army",
+    "word": "army",
+    "pos": "n.",
+    "zh": "軍隊；團體"
+  },
+  {
+    "id": "aroundprep",
+    "word": "around prep.",
+    "pos": "adv.",
+    "zh": "各處；大約"
+  },
+  {
+    "id": "arouse",
+    "word": "arouse",
+    "pos": "v.",
+    "zh": "喚起"
+  },
+  {
+    "id": "arrangement",
+    "word": "arrange(ment)",
+    "pos": "v.(n.)",
+    "zh": "安排"
+  },
+  {
+    "id": "array",
+    "word": "array",
+    "pos": "n.",
+    "zh": "一長列"
+  },
+  {
+    "id": "arrestv",
+    "word": "arrest v.",
+    "pos": "n.",
+    "zh": "逮捕；拘留"
+  },
+  {
+    "id": "arrival",
+    "word": "arrival",
+    "pos": "n.",
+    "zh": "到達；到達者"
+  },
+  {
+    "id": "arrive",
+    "word": "arrive",
+    "pos": "v.",
+    "zh": "到達；抵達"
+  },
+  {
+    "id": "arrogant",
+    "word": "arrogant",
+    "pos": "adj.",
+    "zh": "傲慢的"
+  },
+  {
+    "id": "arrow",
+    "word": "arrow",
+    "pos": "n.",
+    "zh": "箭"
+  },
+  {
+    "id": "art",
+    "word": "art",
+    "pos": "n.",
+    "zh": "藝術；藝術品"
+  },
+  {
+    "id": "article",
+    "word": "article",
+    "pos": "n.",
+    "zh": "文章；冠詞"
+  },
+  {
+    "id": "articulate",
+    "word": "articulate",
+    "pos": "v.",
+    "zh": "清楚的表達"
+  },
+  {
+    "id": "artificial",
+    "word": "artificial",
+    "pos": "adj.",
+    "zh": "人造的"
+  },
+  {
+    "id": "artillery",
+    "word": "artillery",
+    "pos": "n.",
+    "zh": "大砲"
+  },
+  {
+    "id": "artist",
+    "word": "artist",
+    "pos": "n.",
+    "zh": "藝術家；藝人"
+  },
+  {
+    "id": "artistic",
+    "word": "artistic",
+    "pos": "adj.",
+    "zh": "藝術的"
+  },
+  {
+    "id": "asprep",
+    "word": "as prep.",
+    "pos": "adv.",
+    "zh": "conj 如同；當…時；雖然"
+  },
+  {
+    "id": "ascertain",
+    "word": "ascertain",
+    "pos": "v.",
+    "zh": "查明"
+  },
+  {
+    "id": "ascribe",
+    "word": "ascribe",
+    "pos": "v.",
+    "zh": "把…歸因於"
+  },
+  {
+    "id": "ash",
+    "word": "ash",
+    "pos": "n.",
+    "zh": "灰燼；骨灰"
+  },
+  {
+    "id": "ashamed",
+    "word": "ashamed",
+    "pos": "adj.",
+    "zh": "感到羞恥的"
+  },
+  {
+    "id": "aside",
+    "word": "aside",
+    "pos": "adv.",
+    "zh": "在旁邊；除…之外"
+  },
+  {
+    "id": "ask",
+    "word": "ask",
+    "pos": "v.",
+    "zh": "詢問；要求"
+  },
+  {
+    "id": "asleep",
+    "word": "asleep",
+    "pos": "adj.",
+    "zh": "睡著的"
+  },
+  {
+    "id": "aspect",
+    "word": "aspect",
+    "pos": "n.",
+    "zh": "方面；觀點"
+  },
+  {
+    "id": "aspiration",
+    "word": "aspiration",
+    "pos": "n.",
+    "zh": "願望"
+  },
+  {
+    "id": "aspirin",
+    "word": "aspirin",
+    "pos": "n.",
+    "zh": "阿斯匹靈"
+  },
+  {
+    "id": "aspiring",
+    "word": "aspiring",
+    "pos": "adj.",
+    "zh": "有抱負的"
+  },
+  {
+    "id": "ass",
+    "word": "ass",
+    "pos": "n.",
+    "zh": "驢；蠢人"
+  },
+  {
+    "id": "assassinate",
+    "word": "assassinate",
+    "pos": "v.",
+    "zh": "行刺"
+  },
+  {
+    "id": "assault",
+    "word": "assault",
+    "pos": "n.",
+    "zh": "攻擊"
+  },
+  {
+    "id": "assemble",
+    "word": "assemble",
+    "pos": "v.",
+    "zh": "集合"
+  },
+  {
+    "id": "assembly",
+    "word": "assembly",
+    "pos": "n.",
+    "zh": "與會者；議會"
+  },
+  {
+    "id": "assertion",
+    "word": "assertion",
+    "pos": "n.",
+    "zh": "紙張"
+  },
+  {
+    "id": "assertive",
+    "word": "assertive",
+    "pos": "adj.",
+    "zh": "武斷的"
+  },
+  {
+    "id": "assertively",
+    "word": "assertively",
+    "pos": "adv.",
+    "zh": "武斷地"
+  },
+  {
+    "id": "asset",
+    "word": "asset",
+    "pos": "n.",
+    "zh": "資產"
+  },
+  {
+    "id": "assignment",
+    "word": "assign(ment)",
+    "pos": "v.(n.)",
+    "zh": "指派"
+  },
+  {
+    "id": "assist",
+    "word": "assist",
+    "pos": "v.",
+    "zh": "協助"
+  },
+  {
+    "id": "assistance",
+    "word": "assistance",
+    "pos": "n.",
+    "zh": "協助"
+  },
+  {
+    "id": "assistant",
+    "word": "assistant",
+    "pos": "n.",
+    "zh": "助理"
+  },
+  {
+    "id": "associate",
+    "word": "associate",
+    "pos": "v./n.",
+    "zh": "v. 關聯　n. 夥伴"
+  },
+  {
+    "id": "association",
+    "word": "association",
+    "pos": "n.",
+    "zh": "協會；聯想；合作"
+  },
+  {
+    "id": "assume",
+    "word": "assume",
+    "pos": "v.",
+    "zh": "假定；假裝"
+  },
+  {
+    "id": "assurance",
+    "word": "assurance",
+    "pos": "n.",
+    "zh": "保證"
+  },
+  {
+    "id": "assure",
+    "word": "assure",
+    "pos": "v.",
+    "zh": "保證"
+  },
+  {
+    "id": "astonish",
+    "word": "astonish",
+    "pos": "v.",
+    "zh": "使驚訝"
+  },
+  {
+    "id": "astronaut",
+    "word": "astronaut",
+    "pos": "n.",
+    "zh": "太空人"
+  },
+  {
+    "id": "astronomy",
+    "word": "astronomy",
+    "pos": "n.",
+    "zh": "天文學"
+  },
+  {
+    "id": "asylum",
+    "word": "asylum",
+    "pos": "n.",
+    "zh": "庇護(所)"
+  },
+  {
+    "id": "athlete",
+    "word": "athlete",
+    "pos": "n.",
+    "zh": "運動員"
+  },
+  {
+    "id": "athletic",
+    "word": "athletic",
+    "pos": "adj.",
+    "zh": "運動的"
+  },
+  {
+    "id": "atmosphere",
+    "word": "atmosphere",
+    "pos": "n.",
+    "zh": "氣壓；氣氛"
+  },
+  {
+    "id": "attachment",
+    "word": "attach(ment)",
+    "pos": "v.(n.)",
+    "zh": "裝上；附加"
+  },
+  {
+    "id": "attackv",
+    "word": "attack v.",
+    "pos": "n.",
+    "zh": "攻擊"
+  },
+  {
+    "id": "attainment",
+    "word": "attainment",
+    "pos": "n.",
+    "zh": "達到"
+  },
+  {
+    "id": "attemptv",
+    "word": "attempt v.",
+    "pos": "n.",
+    "zh": "嘗試"
+  },
+  {
+    "id": "attend",
+    "word": "attend",
+    "pos": "v.",
+    "zh": "參加"
+  },
+  {
+    "id": "attendant",
+    "word": "attendant",
+    "pos": "n.",
+    "zh": "服務員"
+  },
+  {
+    "id": "attention",
+    "word": "attention",
+    "pos": "n.",
+    "zh": "注意力"
+  },
+  {
+    "id": "attic",
+    "word": "attic",
+    "pos": "n.",
+    "zh": "閣樓"
+  },
+  {
+    "id": "attitude",
+    "word": "attitude",
+    "pos": "n.",
+    "zh": "態度"
+  },
+  {
+    "id": "attract",
+    "word": "attract",
+    "pos": "v.",
+    "zh": "吸引；引誘"
+  },
+  {
+    "id": "attraction",
+    "word": "attraction",
+    "pos": "n.",
+    "zh": "吸引力"
+  },
+  {
+    "id": "attractive",
+    "word": "attractive",
+    "pos": "adj.",
+    "zh": "有吸引力的"
+  },
+  {
+    "id": "auction",
+    "word": "auction",
+    "pos": "n.",
+    "zh": "拍賣"
+  },
+  {
+    "id": "audience",
+    "word": "audience",
+    "pos": "n.",
+    "zh": "觀眾；聽眾"
+  },
+  {
+    "id": "audio",
+    "word": "audio",
+    "pos": "adj.",
+    "zh": "可聽頻率的"
+  },
+  {
+    "id": "audiovisual",
+    "word": "audio-visual",
+    "pos": "adj.",
+    "zh": "視聽的"
+  },
+  {
+    "id": "auditorium",
+    "word": "auditorium",
+    "pos": "n.",
+    "zh": "禮堂"
+  },
+  {
+    "id": "august",
+    "word": "August",
+    "pos": "n.",
+    "zh": "八月"
+  },
+  {
+    "id": "aunt",
+    "word": "aunt",
+    "pos": "n.",
+    "zh": "姑媽；阿姨"
+  },
+  {
+    "id": "australiaprop",
+    "word": "Australia prop.",
+    "pos": "n.",
+    "zh": "澳洲"
+  },
+  {
+    "id": "author",
+    "word": "author",
+    "pos": "n.",
+    "zh": "作者"
+  },
+  {
+    "id": "authority",
+    "word": "authority",
+    "pos": "n.",
+    "zh": "權力；當局"
+  },
+  {
+    "id": "amobiography",
+    "word": "amobiography",
+    "pos": "n.",
+    "zh": "自傳"
+  },
+  {
+    "id": "automatic",
+    "word": "automatic",
+    "pos": "adj.",
+    "zh": "自動的"
+  },
+  {
+    "id": "automatically",
+    "word": "automatically",
+    "pos": "adv.",
+    "zh": "自動地"
+  },
+  {
+    "id": "automobile",
+    "word": "automobile",
+    "pos": "",
+    "zh": "auto n.汽車"
+  },
+  {
+    "id": "autonomy",
+    "word": "autonomy",
+    "pos": "n.",
+    "zh": "自治(權)"
+  },
+  {
+    "id": "autumn",
+    "word": "autumn",
+    "pos": "n.",
+    "zh": "秋季"
+  },
+  {
+    "id": "availability",
+    "word": "availability",
+    "pos": "n.",
+    "zh": "有效"
+  },
+  {
+    "id": "avenge",
+    "word": "avenge",
+    "pos": "v.",
+    "zh": "報…之仇"
+  },
+  {
+    "id": "avenue",
+    "word": "avenue",
+    "pos": "n.",
+    "zh": "大道"
+  },
+  {
+    "id": "averageadj",
+    "word": "average adj.",
+    "pos": "n.",
+    "zh": "v.平均的"
+  },
+  {
+    "id": "aviation",
+    "word": "aviation",
+    "pos": "n.",
+    "zh": "航空(學)"
+  },
+  {
+    "id": "avoid",
+    "word": "avoid",
+    "pos": "v.",
+    "zh": "避免；躲開"
+  },
+  {
+    "id": "await",
+    "word": "await",
+    "pos": "v.",
+    "zh": "等候；期待"
+  },
+  {
+    "id": "awakeadj",
+    "word": "awake adj.",
+    "pos": "v.",
+    "zh": "清醒的；喚醒"
+  },
+  {
+    "id": "awaken",
+    "word": "awaken",
+    "pos": "v.",
+    "zh": "意識到；使覺醒"
+  },
+  {
+    "id": "awaking",
+    "word": "awaking",
+    "pos": "",
+    "zh": "adj使人覺醒的"
+  },
+  {
+    "id": "awardv",
+    "word": "award v.",
+    "pos": "",
+    "zh": "n授予；獎品"
+  },
+  {
+    "id": "away",
+    "word": "away",
+    "pos": "adv.",
+    "zh": "離開；不在"
+  },
+  {
+    "id": "awful",
+    "word": "awful",
+    "pos": "adj.",
+    "zh": "糟透的"
+  },
+  {
+    "id": "awkward",
+    "word": "awkward",
+    "pos": "adj.",
+    "zh": "笨拙的；棘手的"
+  },
+  {
+    "id": "awkwardly",
+    "word": "awkwardly",
+    "pos": "adv.",
+    "zh": "笨拙地"
+  },
+  {
+    "id": "ax",
+    "word": "ax",
+    "pos": "n.",
+    "zh": "斧頭"
+  },
+  {
+    "id": "baby",
+    "word": "baby",
+    "pos": "n.",
+    "zh": "嬰兒；寶貝"
+  },
+  {
+    "id": "babysitter",
+    "word": "baby-sitter",
+    "pos": "n.",
+    "zh": "臨時保姆"
+  },
+  {
+    "id": "bachelor",
+    "word": "bachelor",
+    "pos": "n.",
+    "zh": "單身漢；學士"
+  },
+  {
+    "id": "backadj",
+    "word": "back adj.",
+    "pos": "adv.",
+    "zh": "n. v. 後面的；背部；贊助"
+  },
+  {
+    "id": "background",
+    "word": "background",
+    "pos": "n.",
+    "zh": "背景"
+  },
+  {
+    "id": "backwards",
+    "word": "backward(s)",
+    "pos": "adv.",
+    "zh": "反方向地"
+  },
+  {
+    "id": "bacon",
+    "word": "bacon",
+    "pos": "n.",
+    "zh": "燻豬肉；培根肉"
+  },
+  {
+    "id": "bacteria",
+    "word": "bacteria",
+    "pos": "n.",
+    "zh": "細菌"
+  },
+  {
+    "id": "bad",
+    "word": "bad",
+    "pos": "adj.",
+    "zh": "不好的；有害的"
+  },
+  {
+    "id": "badminton",
+    "word": "badminton",
+    "pos": "n.",
+    "zh": "羽毛球"
+  },
+  {
+    "id": "bag",
+    "word": "bag",
+    "pos": "n.",
+    "zh": "袋子"
+  },
+  {
+    "id": "baggage",
+    "word": "baggage",
+    "pos": "n.",
+    "zh": "行李；裝備"
+  },
+  {
+    "id": "bail",
+    "word": "bail",
+    "pos": "n.",
+    "zh": "保釋(金)"
+  },
+  {
+    "id": "baitn",
+    "word": "bait n.",
+    "pos": "v.",
+    "zh": "誘餌；引誘"
+  },
+  {
+    "id": "bake",
+    "word": "bake",
+    "pos": "v.",
+    "zh": "烘；烤"
+  },
+  {
+    "id": "bakery",
+    "word": "bakery",
+    "pos": "n.",
+    "zh": "麵包店"
+  },
+  {
+    "id": "balancen",
+    "word": "balance n.",
+    "pos": "v.",
+    "zh": "平衡"
+  },
+  {
+    "id": "balcony",
+    "word": "balcony",
+    "pos": "n.",
+    "zh": "陽臺；樓座"
+  },
+  {
+    "id": "bald",
+    "word": "bald",
+    "pos": "adj.",
+    "zh": "禿的"
+  },
+  {
+    "id": "ball",
+    "word": "ball",
+    "pos": "n.",
+    "zh": "球；球狀體"
+  },
+  {
+    "id": "ballad",
+    "word": "ballad",
+    "pos": "n.",
+    "zh": "民謠"
+  },
+  {
+    "id": "ballet",
+    "word": "ballet",
+    "pos": "n.",
+    "zh": "芭蕾舞"
+  },
+  {
+    "id": "balloon",
+    "word": "balloon",
+    "pos": "n.",
+    "zh": "氣球"
+  },
+  {
+    "id": "ballot",
+    "word": "ballot",
+    "pos": "n.",
+    "zh": "無記名投票"
+  },
+  {
+    "id": "ballroom",
+    "word": "ballroom",
+    "pos": "n.",
+    "zh": "舞廳"
+  },
+  {
+    "id": "bamboo",
+    "word": "bamboo",
+    "pos": "n.",
+    "zh": "竹子"
+  },
+  {
+    "id": "ban",
+    "word": "ban",
+    "pos": "v.",
+    "zh": "禁止"
+  },
+  {
+    "id": "banana",
+    "word": "banana",
+    "pos": "n.",
+    "zh": "香蕉"
+  },
+  {
+    "id": "band",
+    "word": "band",
+    "pos": "n.",
+    "zh": "帶子；樂團"
+  },
+  {
+    "id": "bandage",
+    "word": "bandage",
+    "pos": "n.",
+    "zh": "繃帶"
+  },
+  {
+    "id": "bank",
+    "word": "bank",
+    "pos": "",
+    "zh": "(1)n.銀行"
+  },
+  {
+    "id": "bank2n",
+    "word": "bank (2)n.",
+    "pos": "v.",
+    "zh": "堤；堆積"
+  },
+  {
+    "id": "banker",
+    "word": "banker",
+    "pos": "n.",
+    "zh": "銀行家"
+  },
+  {
+    "id": "bankruptadj",
+    "word": "bankrupt adj.",
+    "pos": "v.",
+    "zh": "n.破產的"
+  },
+  {
+    "id": "banquet",
+    "word": "banquet",
+    "pos": "n.",
+    "zh": "宴會"
+  },
+  {
+    "id": "baptism",
+    "word": "baptism",
+    "pos": "n.",
+    "zh": "洗禮"
+  },
+  {
+    "id": "bar",
+    "word": "bar",
+    "pos": "n.",
+    "zh": "棒；沙洲；酒吧"
+  },
+  {
+    "id": "barbarian",
+    "word": "barbarian",
+    "pos": "n.",
+    "zh": "野蠻人"
+  },
+  {
+    "id": "barbecuen",
+    "word": "barbecue n.",
+    "pos": "v.",
+    "zh": "烤肉"
+  },
+  {
+    "id": "barber",
+    "word": "barber",
+    "pos": "n.",
+    "zh": "理髮師"
+  },
+  {
+    "id": "barbershop",
+    "word": "barbershop",
+    "pos": "n.",
+    "zh": "#9l$"
+  },
+  {
+    "id": "bare",
+    "word": "bare",
+    "pos": "adj.",
+    "zh": "裸的；不加掩飾的"
+  },
+  {
+    "id": "barely",
+    "word": "barely",
+    "pos": "adv.",
+    "zh": "勉強地；露骨地"
+  },
+  {
+    "id": "bargainn",
+    "word": "bargain n.",
+    "pos": "v.",
+    "zh": "買賣；便宜貨"
+  },
+  {
+    "id": "bargaining",
+    "word": "bargaining",
+    "pos": "n.",
+    "zh": "議價"
+  },
+  {
+    "id": "barkn",
+    "word": "bark n.",
+    "pos": "v.",
+    "zh": "吠叫；咆哮"
+  },
+  {
+    "id": "barkeeper",
+    "word": "barkeeper",
+    "pos": "n.",
+    "zh": "酒吧主人"
+  },
+  {
+    "id": "bam",
+    "word": "bam",
+    "pos": "n.",
+    "zh": "穀倉；牲口棚"
+  },
+  {
+    "id": "barrel",
+    "word": "barrel",
+    "pos": "n.",
+    "zh": "大桶"
+  },
+  {
+    "id": "barrier",
+    "word": "barrier",
+    "pos": "n.",
+    "zh": "障礙物；棚欄"
+  },
+  {
+    "id": "bartender",
+    "word": "bartender",
+    "pos": "n.",
+    "zh": "酒保"
+  },
+  {
+    "id": "basen",
+    "word": "base n.",
+    "pos": "v.",
+    "zh": "基礎"
+  },
+  {
+    "id": "baseball",
+    "word": "baseball",
+    "pos": "n.",
+    "zh": "棒球"
+  },
+  {
+    "id": "based",
+    "word": "based",
+    "pos": "adj.",
+    "zh": "以…為基礎的"
+  },
+  {
+    "id": "basement",
+    "word": "basement",
+    "pos": "n.",
+    "zh": "地下室"
+  },
+  {
+    "id": "basic",
+    "word": "basic",
+    "pos": "adj.",
+    "zh": "基本的"
+  },
+  {
+    "id": "basin",
+    "word": "basin",
+    "pos": "n.",
+    "zh": "臉盆；洗滌槽"
+  },
+  {
+    "id": "basket",
+    "word": "basket",
+    "pos": "n.",
+    "zh": "籃子；簍子"
+  },
+  {
+    "id": "basketball",
+    "word": "basketball",
+    "pos": "n.",
+    "zh": "籃球"
+  },
+  {
+    "id": "bass",
+    "word": "bass",
+    "pos": "n.",
+    "zh": "低音部"
+  },
+  {
+    "id": "bastard",
+    "word": "bastard",
+    "pos": "n.",
+    "zh": "私生子；令人討厭的人"
+  },
+  {
+    "id": "batn",
+    "word": "bat n.",
+    "pos": "v.",
+    "zh": "球棒"
+  },
+  {
+    "id": "bath",
+    "word": "bath",
+    "pos": "n.",
+    "zh": "澡缸；沐浴"
+  },
+  {
+    "id": "bathe",
+    "word": "bathe",
+    "pos": "v.",
+    "zh": "洗澡；沐浴"
+  },
+  {
+    "id": "bathroom",
+    "word": "bathroom",
+    "pos": "n.",
+    "zh": "浴室"
+  },
+  {
+    "id": "bathtub",
+    "word": "bathtub",
+    "pos": "n.",
+    "zh": "浴缸"
+  },
+  {
+    "id": "batter",
+    "word": "batter",
+    "pos": "v.",
+    "zh": "毀損"
+  },
+  {
+    "id": "battery",
+    "word": "battery",
+    "pos": "n.",
+    "zh": "電池"
+  },
+  {
+    "id": "battlen",
+    "word": "battle n.",
+    "pos": "v.",
+    "zh": "戰役"
+  },
+  {
+    "id": "battlefield",
+    "word": "battlefield",
+    "pos": "n.",
+    "zh": "戰場"
+  },
+  {
+    "id": "bay",
+    "word": "bay",
+    "pos": "n.",
+    "zh": "海灣"
+  },
+  {
+    "id": "bbc",
+    "word": "BBC",
+    "pos": "",
+    "zh": "n英國廣播公司"
+  },
+  {
+    "id": "bc",
+    "word": "B.C.",
+    "pos": "n.",
+    "zh": "西元前"
+  },
+  {
+    "id": "beach",
+    "word": "beach",
+    "pos": "n.",
+    "zh": "海灘"
+  },
+  {
+    "id": "beam",
+    "word": "beam",
+    "pos": "n.",
+    "zh": "樑；光束"
+  },
+  {
+    "id": "bean",
+    "word": "bean",
+    "pos": "n.",
+    "zh": "豆子"
+  },
+  {
+    "id": "bear",
+    "word": "bear",
+    "pos": "n./v.",
+    "zh": "n. 熊；魯莽之人　v. 承受；忍受"
+  },
+  {
+    "id": "beard",
+    "word": "beard",
+    "pos": "n.",
+    "zh": "(下巴上的)鬍鬚"
+  },
+  {
+    "id": "beast",
+    "word": "beast",
+    "pos": "n.",
+    "zh": "野獸"
+  },
+  {
+    "id": "beatn",
+    "word": "beat n.",
+    "pos": "v.",
+    "zh": "敲擊；打敗"
+  },
+  {
+    "id": "beautiful",
+    "word": "beautiful",
+    "pos": "adj.",
+    "zh": "美麗的"
+  },
+  {
+    "id": "beautify",
+    "word": "beautify",
+    "pos": "v.",
+    "zh": "美化"
+  },
+  {
+    "id": "beauty",
+    "word": "beauty",
+    "pos": "n.",
+    "zh": "美人"
+  },
+  {
+    "id": "because",
+    "word": "because",
+    "pos": "conj.",
+    "zh": "因為"
+  },
+  {
+    "id": "beckon",
+    "word": "beckon",
+    "pos": "v.",
+    "zh": "召喚"
+  },
+  {
+    "id": "become",
+    "word": "become",
+    "pos": "v.",
+    "zh": "變成"
+  },
+  {
+    "id": "bed",
+    "word": "bed",
+    "pos": "n.",
+    "zh": "床"
+  },
+  {
+    "id": "bedroom",
+    "word": "bedroom",
+    "pos": "n.",
+    "zh": "臥室"
+  },
+  {
+    "id": "bee",
+    "word": "bee",
+    "pos": "n.",
+    "zh": "蜜蜂"
+  },
+  {
+    "id": "beef",
+    "word": "beef",
+    "pos": "n.",
+    "zh": "牛肉"
+  },
+  {
+    "id": "beer",
+    "word": "beer",
+    "pos": "n.",
+    "zh": "啤酒"
+  },
+  {
+    "id": "beforeprep",
+    "word": "before prep.",
+    "pos": "adv.",
+    "zh": "conj. 在…之前"
+  },
+  {
+    "id": "beg",
+    "word": "beg",
+    "pos": "v.",
+    "zh": "乞求；乞討"
+  },
+  {
+    "id": "beggar",
+    "word": "beggar",
+    "pos": "n.",
+    "zh": "乞丐"
+  },
+  {
+    "id": "begin",
+    "word": "begin",
+    "pos": "v.",
+    "zh": "開始"
+  },
+  {
+    "id": "beginner",
+    "word": "beginner",
+    "pos": "n.",
+    "zh": "初學者"
+  },
+  {
+    "id": "behalf",
+    "word": "behalf",
+    "pos": "n.",
+    "zh": "為了…的利益；代表"
+  },
+  {
+    "id": "behave",
+    "word": "behave",
+    "pos": "v.",
+    "zh": "表現；行為舉止"
+  },
+  {
+    "id": "behavior",
+    "word": "behavior",
+    "pos": "n.",
+    "zh": "行為"
+  },
+  {
+    "id": "behindprep",
+    "word": "behind prep.",
+    "pos": "adv.",
+    "zh": "在…後面；落後"
+  },
+  {
+    "id": "behold",
+    "word": "behold",
+    "pos": "v.",
+    "zh": "見到"
+  },
+  {
+    "id": "beijingn",
+    "word": "Beijing n.",
+    "pos": "prop.",
+    "zh": "北京"
+  },
+  {
+    "id": "being",
+    "word": "being",
+    "pos": "n.",
+    "zh": "存在；生物"
+  },
+  {
+    "id": "belief",
+    "word": "belief",
+    "pos": "n.",
+    "zh": "信念；信條"
+  },
+  {
+    "id": "believe",
+    "word": "believe",
+    "pos": "v.",
+    "zh": "相信"
+  },
+  {
+    "id": "bell",
+    "word": "bell",
+    "pos": "n.",
+    "zh": "鐘(聲)；鈴(聲)"
+  },
+  {
+    "id": "belly",
+    "word": "belly",
+    "pos": "n.",
+    "zh": "腹部；胃"
+  },
+  {
+    "id": "belong",
+    "word": "belong",
+    "pos": "v.",
+    "zh": "歸屬於"
+  },
+  {
+    "id": "belongings",
+    "word": "belongings",
+    "pos": "n.",
+    "zh": "所有物"
+  },
+  {
+    "id": "beloved",
+    "word": "beloved",
+    "pos": "n.",
+    "zh": "所愛的人"
+  },
+  {
+    "id": "belowprep",
+    "word": "below prep.",
+    "pos": "adv.",
+    "zh": "在…下方"
+  },
+  {
+    "id": "belt",
+    "word": "belt",
+    "pos": "n.",
+    "zh": "腰帶；帶狀物"
+  },
+  {
+    "id": "bench",
+    "word": "bench",
+    "pos": "n.",
+    "zh": "長板凳"
+  },
+  {
+    "id": "bendn",
+    "word": "bend n.",
+    "pos": "v.",
+    "zh": "彎曲"
+  },
+  {
+    "id": "beneath",
+    "word": "beneath",
+    "pos": "prep.",
+    "zh": "在…下面"
+  },
+  {
+    "id": "beneficial",
+    "word": "beneficial",
+    "pos": "adj.",
+    "zh": "有益的"
+  },
+  {
+    "id": "benefitn",
+    "word": "benefit n.",
+    "pos": "v.",
+    "zh": "利益；有益於"
+  },
+  {
+    "id": "berry",
+    "word": "berry",
+    "pos": "n.",
+    "zh": "果"
+  },
+  {
+    "id": "beside",
+    "word": "beside",
+    "pos": "prep.",
+    "zh": "在旁邊"
+  },
+  {
+    "id": "besidesprep",
+    "word": "besides prep.",
+    "pos": "adv.",
+    "zh": "除此之外"
+  },
+  {
+    "id": "besiege",
+    "word": "besiege",
+    "pos": "v.",
+    "zh": "包圍"
+  },
+  {
+    "id": "bestadj",
+    "word": "best adj.",
+    "pos": "adv.",
+    "zh": "最好的"
+  },
+  {
+    "id": "bestseller",
+    "word": "bestseller",
+    "pos": "n.",
+    "zh": "暢銷品"
+  },
+  {
+    "id": "betn",
+    "word": "bet n.",
+    "pos": "v.",
+    "zh": "打賭"
+  },
+  {
+    "id": "betteradj",
+    "word": "better adj.",
+    "pos": "adv.",
+    "zh": "更好的"
+  },
+  {
+    "id": "betweenprep",
+    "word": "between prep.",
+    "pos": "adv.",
+    "zh": "介於…之間"
+  },
+  {
+    "id": "beverage",
+    "word": "beverage",
+    "pos": "n.",
+    "zh": "飲料"
+  },
+  {
+    "id": "beware",
+    "word": "beware",
+    "pos": "v.",
+    "zh": "當心"
+  },
+  {
+    "id": "bewilder",
+    "word": "bewilder",
+    "pos": "v.",
+    "zh": "使混亂"
+  },
+  {
+    "id": "beyondprep",
+    "word": "beyond prep.",
+    "pos": "adv.",
+    "zh": "在遠處"
+  },
+  {
+    "id": "bias",
+    "word": "bias",
+    "pos": "n.",
+    "zh": "成見"
+  },
+  {
+    "id": "biblical",
+    "word": "Biblical",
+    "pos": "adj.",
+    "zh": "聖經的"
+  },
+  {
+    "id": "bicycle",
+    "word": "bicycle",
+    "pos": "",
+    "zh": "bike n.腳踏車"
+  },
+  {
+    "id": "bid",
+    "word": "bid",
+    "pos": "v.",
+    "zh": "出價；吩咐"
+  },
+  {
+    "id": "big",
+    "word": "big",
+    "pos": "adj.",
+    "zh": "大的"
+  },
+  {
+    "id": "bikini",
+    "word": "bikini",
+    "pos": "n.",
+    "zh": "三點式泳裝"
+  },
+  {
+    "id": "bill",
+    "word": "bill",
+    "pos": "n.",
+    "zh": "帳單；鈔票"
+  },
+  {
+    "id": "billion",
+    "word": "billion",
+    "pos": "n.",
+    "zh": "十億；大量"
+  },
+  {
+    "id": "billionaire",
+    "word": "billionaire",
+    "pos": "n.",
+    "zh": "億萬富翁"
+  },
+  {
+    "id": "bind",
+    "word": "bind",
+    "pos": "v.",
+    "zh": "捆；綁"
+  },
+  {
+    "id": "bingo",
+    "word": "bingo",
+    "pos": "n.",
+    "zh": "賓果遊戲"
+  },
+  {
+    "id": "binomial",
+    "word": "binomial",
+    "pos": "adj.",
+    "zh": "〔數〕二項式"
+  },
+  {
+    "id": "biochemistry",
+    "word": "biochemistry",
+    "pos": "n.",
+    "zh": "生物化學"
+  },
+  {
+    "id": "biography",
+    "word": "biography",
+    "pos": "n.",
+    "zh": "傳記"
+  },
+  {
+    "id": "biological",
+    "word": "biological",
+    "pos": "adj.",
+    "zh": "生物(學)的"
+  },
+  {
+    "id": "biology",
+    "word": "biology",
+    "pos": "n.",
+    "zh": "生物學"
+  },
+  {
+    "id": "bird",
+    "word": "bird",
+    "pos": "n.",
+    "zh": "鳥"
+  },
+  {
+    "id": "birth",
+    "word": "birth",
+    "pos": "n.",
+    "zh": "出生；分娩"
+  },
+  {
+    "id": "biscuit",
+    "word": "biscuit",
+    "pos": "n.",
+    "zh": "小麵包；餅乾"
+  },
+  {
+    "id": "bishop",
+    "word": "bishop",
+    "pos": "n.",
+    "zh": "主教"
+  },
+  {
+    "id": "biten",
+    "word": "bite n.",
+    "pos": "v.",
+    "zh": "一口之量；咬"
+  },
+  {
+    "id": "bitter",
+    "word": "bitter",
+    "pos": "adj.",
+    "zh": "有苦味的；痛苦的"
+  },
+  {
+    "id": "bitterly",
+    "word": "bitterly",
+    "pos": "adv.",
+    "zh": "酷寒的"
+  },
+  {
+    "id": "bitterness",
+    "word": "bitterness",
+    "pos": "n.",
+    "zh": "苦；悲傷"
+  },
+  {
+    "id": "biweeklyadj",
+    "word": "biweekly adj.",
+    "pos": "adv.",
+    "zh": "兩週一次的(地)"
+  },
+  {
+    "id": "bizarre",
+    "word": "bizarre",
+    "pos": "adj.",
+    "zh": "古怪的"
+  },
+  {
+    "id": "blackadj",
+    "word": "black adj.",
+    "pos": "n.",
+    "zh": "黑的"
+  },
+  {
+    "id": "blackboard",
+    "word": "blackboard",
+    "pos": "n.",
+    "zh": "黑板"
+  },
+  {
+    "id": "blamen",
+    "word": "blame n.",
+    "pos": "v.",
+    "zh": "責備；歸咎於…"
+  },
+  {
+    "id": "blameworthy",
+    "word": "blameworthy",
+    "pos": "adj.",
+    "zh": "應受責備的"
+  },
+  {
+    "id": "bland",
+    "word": "bland",
+    "pos": "adj.",
+    "zh": "溫和的"
+  },
+  {
+    "id": "blankadj",
+    "word": "blank adj.",
+    "pos": "n.",
+    "zh": "空白的"
+  },
+  {
+    "id": "blanket",
+    "word": "blanket",
+    "pos": "n.",
+    "zh": "毛毯"
+  },
+  {
+    "id": "blast",
+    "word": "blast",
+    "pos": "n.",
+    "zh": "一陣疾風"
+  },
+  {
+    "id": "blaze",
+    "word": "blaze",
+    "pos": "n.",
+    "zh": "烈火；光輝"
+  },
+  {
+    "id": "bleak",
+    "word": "bleak",
+    "pos": "adj.",
+    "zh": "陰冷(鬱)的"
+  },
+  {
+    "id": "bleed",
+    "word": "bleed",
+    "pos": "v.",
+    "zh": "流血"
+  },
+  {
+    "id": "blend",
+    "word": "blend",
+    "pos": "v.",
+    "zh": "使混合"
+  },
+  {
+    "id": "blessv",
+    "word": "bless v.",
+    "pos": "n.",
+    "zh": "為…祝福"
+  },
+  {
+    "id": "blessing",
+    "word": "blessing",
+    "pos": "n.",
+    "zh": "賜福；同意"
+  },
+  {
+    "id": "blindadj",
+    "word": "blind adj.",
+    "pos": "v.",
+    "zh": "瞎的；使看不見"
+  },
+  {
+    "id": "blink",
+    "word": "blink",
+    "pos": "v.",
+    "zh": "眨眼；漠視"
+  },
+  {
+    "id": "bloc",
+    "word": "bloc",
+    "pos": "n.",
+    "zh": "政治集團"
+  },
+  {
+    "id": "blockn",
+    "word": "block n.",
+    "pos": "v.",
+    "zh": "塊；障礙物；堵住"
+  },
+  {
+    "id": "blonde",
+    "word": "blonde",
+    "pos": "n.",
+    "zh": "金髮白種人"
+  },
+  {
+    "id": "blood",
+    "word": "blood",
+    "pos": "n.",
+    "zh": "血液"
+  },
+  {
+    "id": "bloody",
+    "word": "bloody",
+    "pos": "adj.",
+    "zh": "血腥的"
+  },
+  {
+    "id": "bloomn",
+    "word": "bloom n.",
+    "pos": "v.",
+    "zh": "花；開花"
+  },
+  {
+    "id": "blossom",
+    "word": "blossom",
+    "pos": "n.",
+    "zh": "花(叢)"
+  },
+  {
+    "id": "blown",
+    "word": "blow n.",
+    "pos": "v.",
+    "zh": "吹；吹氣；打擊"
+  },
+  {
+    "id": "blueadj",
+    "word": "blue adj.",
+    "pos": "n.",
+    "zh": "藍色的"
+  },
+  {
+    "id": "blueprint",
+    "word": "blueprint",
+    "pos": "n.",
+    "zh": "藍圖"
+  },
+  {
+    "id": "blues",
+    "word": "blues",
+    "pos": "n.",
+    "zh": "勃魯斯音樂；沮喪"
+  },
+  {
+    "id": "bluff",
+    "word": "bluff",
+    "pos": "n.",
+    "zh": "虛張聲勢"
+  },
+  {
+    "id": "blunder",
+    "word": "blunder",
+    "pos": "n.",
+    "zh": "愚蠢的錯誤"
+  },
+  {
+    "id": "blur",
+    "word": "blur",
+    "pos": "v.",
+    "zh": "使模糊"
+  },
+  {
+    "id": "blushv",
+    "word": "blush v.",
+    "pos": "n.",
+    "zh": "臉紅"
+  },
+  {
+    "id": "board",
+    "word": "board",
+    "pos": "n./v.",
+    "zh": "n. 木板；牌子　v. 登上(船或車等)"
+  },
+  {
+    "id": "boast",
+    "word": "boast",
+    "pos": "v.",
+    "zh": "自吹自擂；誇耀"
+  },
+  {
+    "id": "boatn",
+    "word": "boat n.",
+    "pos": "v.",
+    "zh": "小船；划船"
+  },
+  {
+    "id": "bodily",
+    "word": "bodily",
+    "pos": "adj.",
+    "zh": "身體的"
+  },
+  {
+    "id": "body",
+    "word": "body",
+    "pos": "n.",
+    "zh": "身體；主要部分"
+  },
+  {
+    "id": "bodyguard",
+    "word": "bodyguard",
+    "pos": "n.",
+    "zh": "侍衛"
+  },
+  {
+    "id": "boilv",
+    "word": "boil v.",
+    "pos": "n.",
+    "zh": "沸騰"
+  },
+  {
+    "id": "bold",
+    "word": "bold",
+    "pos": "adj.",
+    "zh": "英勇的；大膽的"
+  },
+  {
+    "id": "boldly",
+    "word": "boldly",
+    "pos": "adv.",
+    "zh": "大膽地"
+  },
+  {
+    "id": "bolt",
+    "word": "bolt",
+    "pos": "n.",
+    "zh": "螺栓；閃電"
+  },
+  {
+    "id": "bombn",
+    "word": "bomb n.",
+    "pos": "v.",
+    "zh": "炸彈；轟炸"
+  },
+  {
+    "id": "bond",
+    "word": "bond",
+    "pos": "n.",
+    "zh": "聯結；契約；債券"
+  },
+  {
+    "id": "bone",
+    "word": "bone",
+    "pos": "n.",
+    "zh": "骨頭；骨質"
+  },
+  {
+    "id": "bonus",
+    "word": "bonus",
+    "pos": "n.",
+    "zh": "紅利"
+  },
+  {
+    "id": "book",
+    "word": "book",
+    "pos": "n./v.",
+    "zh": "n. 書籍　v. 預訂；登記"
+  },
+  {
+    "id": "bookcase",
+    "word": "bookcase",
+    "pos": "n.",
+    "zh": "書架；書櫥"
+  },
+  {
+    "id": "bookstore",
+    "word": "bookstore",
+    "pos": "n.",
+    "zh": "書店"
+  },
+  {
+    "id": "boom",
+    "word": "boom",
+    "pos": "n.",
+    "zh": "隆隆聲；景氣"
+  },
+  {
+    "id": "boost",
+    "word": "boost",
+    "pos": "v.",
+    "zh": "提升"
+  },
+  {
+    "id": "boot",
+    "word": "boot",
+    "pos": "n.",
+    "zh": "(長筒)靴"
+  },
+  {
+    "id": "booth",
+    "word": "booth",
+    "pos": "n.",
+    "zh": "售貨棚"
+  },
+  {
+    "id": "bordern",
+    "word": "border n.",
+    "pos": "v.",
+    "zh": "邊界；比鄰"
+  },
+  {
+    "id": "boren",
+    "word": "bore n.",
+    "pos": "v.",
+    "zh": "使厭煩"
+  },
+  {
+    "id": "bored",
+    "word": "bored",
+    "pos": "adj.",
+    "zh": "感到厭煩的"
+  },
+  {
+    "id": "boring",
+    "word": "boring",
+    "pos": "adj.",
+    "zh": "令人厭煩的"
+  },
+  {
+    "id": "born",
+    "word": "born",
+    "pos": "adj.",
+    "zh": "出生的"
+  },
+  {
+    "id": "borrow",
+    "word": "borrow",
+    "pos": "v.",
+    "zh": "借入"
+  },
+  {
+    "id": "boss",
+    "word": "boss",
+    "pos": "n.",
+    "zh": "老闆"
+  },
+  {
+    "id": "botany",
+    "word": "botany",
+    "pos": "n.",
+    "zh": "植物學"
+  },
+  {
+    "id": "bothadj",
+    "word": "both adj.",
+    "pos": "adv.",
+    "zh": "pron.兩者皆"
+  },
+  {
+    "id": "botherv",
+    "word": "bother v.",
+    "pos": "n.",
+    "zh": "打擾；煩惱"
+  },
+  {
+    "id": "bottlen",
+    "word": "bottle n.",
+    "pos": "v.",
+    "zh": "瓶子；把…裝瓶"
+  },
+  {
+    "id": "boulevard",
+    "word": "boulevard",
+    "pos": "n.",
+    "zh": "林蔭大道"
+  },
+  {
+    "id": "bouncen",
+    "word": "bounce n.",
+    "pos": "v.",
+    "zh": "跳，躍；使反彈"
+  },
+  {
+    "id": "bound",
+    "word": "bound",
+    "pos": "adj.",
+    "zh": "很有可能的；準備前往…的"
+  },
+  {
+    "id": "bow",
+    "word": "bow",
+    "pos": "n./v.",
+    "zh": "n. 弓；虹；蝴蝶結　v. 拉彎；彎曲；鞠躬"
+  },
+  {
+    "id": "bowl",
+    "word": "bowl",
+    "pos": "n.",
+    "zh": "碗"
+  },
+  {
+    "id": "bowling",
+    "word": "bowling",
+    "pos": "n.",
+    "zh": "保齡球"
+  },
+  {
+    "id": "boxn",
+    "word": "box n.",
+    "pos": "v.",
+    "zh": "箱，盒；把…裝箱"
+  },
+  {
+    "id": "boxing",
+    "word": "boxing",
+    "pos": "n.",
+    "zh": "拳擊"
+  },
+  {
+    "id": "boy",
+    "word": "boy",
+    "pos": "n.",
+    "zh": "男孩；少年"
+  },
+  {
+    "id": "boycott",
+    "word": "boycott",
+    "pos": "v.",
+    "zh": "抵制"
+  },
+  {
+    "id": "brace",
+    "word": "brace",
+    "pos": "n.",
+    "zh": "支撐物"
+  },
+  {
+    "id": "brain",
+    "word": "brain",
+    "pos": "n.",
+    "zh": "腦袋；智力"
+  },
+  {
+    "id": "braken",
+    "word": "brake n.",
+    "pos": "v.",
+    "zh": "煞車"
+  },
+  {
+    "id": "branchn",
+    "word": "branch n.",
+    "pos": "v.",
+    "zh": "樹枝；分支"
+  },
+  {
+    "id": "brand",
+    "word": "brand",
+    "pos": "n.",
+    "zh": "商標；烙印"
+  },
+  {
+    "id": "brave",
+    "word": "brave",
+    "pos": "adj.",
+    "zh": "勇敢的"
+  },
+  {
+    "id": "bravery",
+    "word": "bravery",
+    "pos": "n.",
+    "zh": "勇敢；勇氣"
+  },
+  {
+    "id": "breach",
+    "word": "breach",
+    "pos": "v.",
+    "zh": "違犯"
+  },
+  {
+    "id": "bread",
+    "word": "bread",
+    "pos": "n.",
+    "zh": "麵包"
+  },
+  {
+    "id": "breakn",
+    "word": "break n.",
+    "pos": "v.",
+    "zh": "打破；破曉"
+  },
+  {
+    "id": "breakdown",
+    "word": "breakdown",
+    "pos": "n.",
+    "zh": "故障"
+  },
+  {
+    "id": "breakfastn",
+    "word": "breakfast n.",
+    "pos": "v.",
+    "zh": "早餐"
+  },
+  {
+    "id": "breakthrough",
+    "word": "breakthrough",
+    "pos": "",
+    "zh": "n突破"
+  },
+  {
+    "id": "breakup",
+    "word": "break-up",
+    "pos": "n.",
+    "zh": "瓦解"
+  },
+  {
+    "id": "breast",
+    "word": "breast",
+    "pos": "n.",
+    "zh": "胸部"
+  },
+  {
+    "id": "breath",
+    "word": "breath",
+    "pos": "n.",
+    "zh": "呼吸"
+  },
+  {
+    "id": "breathe",
+    "word": "breathe",
+    "pos": "v.",
+    "zh": "呼吸"
+  },
+  {
+    "id": "breathtaking",
+    "word": "breathtaking",
+    "pos": "adj.",
+    "zh": "使人興奮的"
+  },
+  {
+    "id": "breedn",
+    "word": "breed n.",
+    "pos": "v.",
+    "zh": "繁衍；滋生"
+  },
+  {
+    "id": "breeder",
+    "word": "breeder",
+    "pos": "n.",
+    "zh": "繁殖者"
+  },
+  {
+    "id": "breezen",
+    "word": "breeze n.",
+    "pos": "v.",
+    "zh": "微風；和風"
+  },
+  {
+    "id": "brew",
+    "word": "brew",
+    "pos": "v.",
+    "zh": "沖泡；醞釀"
+  },
+  {
+    "id": "brick",
+    "word": "brick",
+    "pos": "n.",
+    "zh": "磚"
+  },
+  {
+    "id": "bride",
+    "word": "bride",
+    "pos": "n.",
+    "zh": "新娘子"
+  },
+  {
+    "id": "bridegroom",
+    "word": "bridegroom",
+    "pos": "n.",
+    "zh": "新郎"
+  },
+  {
+    "id": "bridgen",
+    "word": "bridge n.",
+    "pos": "v.",
+    "zh": "橋樑；艦橋"
+  },
+  {
+    "id": "briefadj",
+    "word": "brief adj.",
+    "pos": "n.",
+    "zh": "v.簡短的"
+  },
+  {
+    "id": "briefcase",
+    "word": "briefcase",
+    "pos": "n.",
+    "zh": "公事包"
+  },
+  {
+    "id": "briefmg",
+    "word": "briefmg",
+    "pos": "n.",
+    "zh": "簡報"
+  },
+  {
+    "id": "brigade",
+    "word": "brigade",
+    "pos": "n.",
+    "zh": "旅；隊"
+  },
+  {
+    "id": "bright",
+    "word": "bright",
+    "pos": "adj.",
+    "zh": "明亮的；聰明的"
+  },
+  {
+    "id": "brighten",
+    "word": "brighten",
+    "pos": "v.",
+    "zh": "照亮"
+  },
+  {
+    "id": "brilliant",
+    "word": "brilliant",
+    "pos": "adj.",
+    "zh": "光輝的；傑出的"
+  },
+  {
+    "id": "bring",
+    "word": "bring",
+    "pos": "v.",
+    "zh": "帶來；引起"
+  },
+  {
+    "id": "brisk",
+    "word": "brisk",
+    "pos": "adj.",
+    "zh": "輕快的"
+  },
+  {
+    "id": "briton",
+    "word": "Briton",
+    "pos": "n.",
+    "zh": "英國人"
+  },
+  {
+    "id": "broad",
+    "word": "broad",
+    "pos": "adj.",
+    "zh": "寬廣的；概括的"
+  },
+  {
+    "id": "broaden",
+    "word": "broaden",
+    "pos": "v.",
+    "zh": "加寬"
+  },
+  {
+    "id": "broadcastn",
+    "word": "broadcast n.",
+    "pos": "v.",
+    "zh": "廣播；播放"
+  },
+  {
+    "id": "brochure",
+    "word": "brochure",
+    "pos": "n.",
+    "zh": "小冊子"
+  },
+  {
+    "id": "broker",
+    "word": "broker",
+    "pos": "n.",
+    "zh": "經紀人"
+  },
+  {
+    "id": "brood",
+    "word": "brood",
+    "pos": "n.",
+    "zh": "一窩"
+  },
+  {
+    "id": "brook",
+    "word": "brook",
+    "pos": "n.",
+    "zh": "小河"
+  },
+  {
+    "id": "brother",
+    "word": "brother",
+    "pos": "n.",
+    "zh": "兄弟"
+  },
+  {
+    "id": "brownadj",
+    "word": "brown adj.",
+    "pos": "n.",
+    "zh": "棕色的"
+  },
+  {
+    "id": "browse",
+    "word": "browse",
+    "pos": "",
+    "zh": "v噹食；瀏覽"
+  },
+  {
+    "id": "brushn",
+    "word": "brush n.",
+    "pos": "v.",
+    "zh": "刷子；刷"
+  },
+  {
+    "id": "brutal",
+    "word": "brutal",
+    "pos": "adj.",
+    "zh": "殘忍的"
+  },
+  {
+    "id": "brutality",
+    "word": "brutality",
+    "pos": "n.",
+    "zh": "野蠻"
+  },
+  {
+    "id": "bubble",
+    "word": "bubble",
+    "pos": "n.",
+    "zh": "氣泡；泡影"
+  },
+  {
+    "id": "buck",
+    "word": "buck",
+    "pos": "",
+    "zh": "dollar n.(美)元"
+  },
+  {
+    "id": "bucket",
+    "word": "bucket",
+    "pos": "n.",
+    "zh": "水桶；桶狀物"
+  },
+  {
+    "id": "budn",
+    "word": "bud n.",
+    "pos": "v.",
+    "zh": "芽；發芽"
+  },
+  {
+    "id": "buddha",
+    "word": "Buddha",
+    "pos": "n.",
+    "zh": "佛陀"
+  },
+  {
+    "id": "buddhism",
+    "word": "Buddhism",
+    "pos": "n.",
+    "zh": "佛教"
+  },
+  {
+    "id": "budgetn",
+    "word": "budget n.",
+    "pos": "v.",
+    "zh": "預算"
+  },
+  {
+    "id": "buffalo",
+    "word": "buffalo",
+    "pos": "n.",
+    "zh": "水牛"
+  },
+  {
+    "id": "buffet",
+    "word": "buffet",
+    "pos": "n./v.",
+    "zh": "n. 自助餐；快餐　v. 打擊"
+  },
+  {
+    "id": "bug",
+    "word": "bug",
+    "pos": "n.",
+    "zh": "蟲子"
+  },
+  {
+    "id": "build",
+    "word": "build",
+    "pos": "v.",
+    "zh": "建造"
+  },
+  {
+    "id": "building",
+    "word": "building",
+    "pos": "n.",
+    "zh": "建築物"
+  },
+  {
+    "id": "bulb",
+    "word": "bulb",
+    "pos": "n.",
+    "zh": "球莖(根)"
+  },
+  {
+    "id": "bulk",
+    "word": "bulk",
+    "pos": "n.",
+    "zh": "大量"
+  },
+  {
+    "id": "bull",
+    "word": "bull",
+    "pos": "n.(未閹割的)",
+    "zh": "公牛"
+  },
+  {
+    "id": "bullet",
+    "word": "bullet",
+    "pos": "n.",
+    "zh": "子彈"
+  },
+  {
+    "id": "bulletin",
+    "word": "bulletin",
+    "pos": "n.",
+    "zh": "公報；新聞快報"
+  },
+  {
+    "id": "bully",
+    "word": "bully",
+    "pos": "n.",
+    "zh": "恃強凌弱者"
+  },
+  {
+    "id": "bumpv",
+    "word": "bump v.",
+    "pos": "n.",
+    "zh": "碰；重擊"
+  },
+  {
+    "id": "bun",
+    "word": "bun",
+    "pos": "n.",
+    "zh": "小圓甜麵包；髮髻"
+  },
+  {
+    "id": "bunch",
+    "word": "bunch",
+    "pos": "n.",
+    "zh": "一束；一群"
+  },
+  {
+    "id": "bundle",
+    "word": "bundle",
+    "pos": "n.",
+    "zh": "捆；包裹"
+  },
+  {
+    "id": "bunk",
+    "word": "bunk",
+    "pos": "n.",
+    "zh": "臥鋪"
+  },
+  {
+    "id": "bunker",
+    "word": "bunker",
+    "pos": "n.",
+    "zh": "媒倉；掩體"
+  },
+  {
+    "id": "burdenn",
+    "word": "burden n.",
+    "pos": "v.",
+    "zh": "負擔；加負擔於…"
+  },
+  {
+    "id": "bureau",
+    "word": "bureau",
+    "pos": "n.",
+    "zh": "局；處；署"
+  },
+  {
+    "id": "bureaucracy",
+    "word": "bureaucracy",
+    "pos": "n.",
+    "zh": "官僚"
+  },
+  {
+    "id": "burglar",
+    "word": "burglar",
+    "pos": "n.",
+    "zh": "竊賊"
+  },
+  {
+    "id": "burnv",
+    "word": "burn v.",
+    "pos": "n.",
+    "zh": "燃燒；燒傷"
+  },
+  {
+    "id": "burstv",
+    "word": "burst v.",
+    "pos": "n.",
+    "zh": "爆發；爆炸"
+  },
+  {
+    "id": "bury",
+    "word": "bury",
+    "pos": "v.",
+    "zh": "埋"
+  },
+  {
+    "id": "bus",
+    "word": "bus",
+    "pos": "n.",
+    "zh": "巴士"
+  },
+  {
+    "id": "bush",
+    "word": "bush",
+    "pos": "n.",
+    "zh": "灌木叢"
+  },
+  {
+    "id": "business",
+    "word": "business",
+    "pos": "n.",
+    "zh": "商業；交易"
+  },
+  {
+    "id": "businesslike",
+    "word": "businesslike",
+    "pos": "adj.",
+    "zh": "處事務實的"
+  },
+  {
+    "id": "busyadj",
+    "word": "busy adj.",
+    "pos": "v.",
+    "zh": "忙碌的"
+  },
+  {
+    "id": "butcher",
+    "word": "butcher",
+    "pos": "n.",
+    "zh": "肉商"
+  },
+  {
+    "id": "buttern",
+    "word": "butter n.",
+    "pos": "v.",
+    "zh": "奶油；塗奶油於"
+  },
+  {
+    "id": "butterfly",
+    "word": "butterfly",
+    "pos": "n.",
+    "zh": "蝴蝶"
+  },
+  {
+    "id": "buttonn",
+    "word": "button n.",
+    "pos": "v.",
+    "zh": "鈕扣；按鈕"
+  },
+  {
+    "id": "buy",
+    "word": "buy",
+    "pos": "v.",
+    "zh": "買"
+  },
+  {
+    "id": "cab",
+    "word": "cab",
+    "pos": "n.",
+    "zh": "計程車"
+  },
+  {
+    "id": "cabbage",
+    "word": "cabbage",
+    "pos": "n.",
+    "zh": "甘藍菜"
+  },
+  {
+    "id": "cabin",
+    "word": "cabin",
+    "pos": "n.",
+    "zh": "客艙"
+  },
+  {
+    "id": "cabinet",
+    "word": "cabinet",
+    "pos": "n.",
+    "zh": "櫥櫃；密室"
+  },
+  {
+    "id": "cablen",
+    "word": "cable n.",
+    "pos": "v.",
+    "zh": "電纜；有線電視"
+  },
+  {
+    "id": "cafe",
+    "word": "cafe",
+    "pos": "n.",
+    "zh": "咖啡店；咖啡"
+  },
+  {
+    "id": "cafeteria",
+    "word": "cafeteria",
+    "pos": "n.",
+    "zh": "自助餐館"
+  },
+  {
+    "id": "cagen",
+    "word": "cage n.",
+    "pos": "v.",
+    "zh": "籠子；監牢"
+  },
+  {
+    "id": "cake",
+    "word": "cake",
+    "pos": "n.",
+    "zh": "蛋糕"
+  },
+  {
+    "id": "calculate",
+    "word": "calculate",
+    "pos": "v.",
+    "zh": "計算"
+  },
+  {
+    "id": "calculation",
+    "word": "calculation",
+    "pos": "n.",
+    "zh": "計算"
+  },
+  {
+    "id": "calculator",
+    "word": "calculator",
+    "pos": "n.",
+    "zh": "計算機"
+  },
+  {
+    "id": "calendar",
+    "word": "calendar",
+    "pos": "n.",
+    "zh": "日曆；行事曆"
+  },
+  {
+    "id": "calf",
+    "word": "calf",
+    "pos": "n.",
+    "zh": "小牛"
+  },
+  {
+    "id": "calln",
+    "word": "call n.",
+    "pos": "v.",
+    "zh": "呼叫；打電話"
+  },
+  {
+    "id": "calmadj",
+    "word": "calm adj.",
+    "pos": "v.",
+    "zh": "鎮靜的"
+  },
+  {
+    "id": "calorie",
+    "word": "calorie",
+    "pos": "n.",
+    "zh": "卡路里"
+  },
+  {
+    "id": "camel",
+    "word": "camel",
+    "pos": "n.",
+    "zh": "駱駝"
+  },
+  {
+    "id": "camera",
+    "word": "camera",
+    "pos": "n.",
+    "zh": "照相機"
+  },
+  {
+    "id": "campn",
+    "word": "camp n.",
+    "pos": "v.",
+    "zh": "營地；露營"
+  },
+  {
+    "id": "campaignn",
+    "word": "campaign n.",
+    "pos": "v.",
+    "zh": "競選活動；戰役"
+  },
+  {
+    "id": "campus",
+    "word": "campus",
+    "pos": "n.(大學的)",
+    "zh": "校園"
+  },
+  {
+    "id": "cann",
+    "word": "can n.",
+    "pos": "v.",
+    "zh": "罐頭；金屬容器"
+  },
+  {
+    "id": "canal",
+    "word": "canal",
+    "pos": "n.",
+    "zh": "運河"
+  },
+  {
+    "id": "cancel",
+    "word": "cancel",
+    "pos": "v.",
+    "zh": "取消"
+  },
+  {
+    "id": "cancer",
+    "word": "cancer",
+    "pos": "n.",
+    "zh": "惡性腫瘤；癌症"
+  },
+  {
+    "id": "candidate",
+    "word": "candidate",
+    "pos": "n.",
+    "zh": "候選人"
+  },
+  {
+    "id": "candle",
+    "word": "candle",
+    "pos": "n.",
+    "zh": "蠟燭"
+  },
+  {
+    "id": "candy",
+    "word": "candy",
+    "pos": "n.",
+    "zh": "糖果"
+  },
+  {
+    "id": "cane",
+    "word": "cane",
+    "pos": "n.",
+    "zh": "藤條；甘蔗"
+  },
+  {
+    "id": "canvas",
+    "word": "canvas",
+    "pos": "",
+    "zh": "n帆布"
+  },
+  {
+    "id": "canyon",
+    "word": "canyon",
+    "pos": "n.",
+    "zh": "峽谷"
+  },
+  {
+    "id": "capn",
+    "word": "cap n.",
+    "pos": "v.",
+    "zh": "帽子；覆蓋"
+  },
+  {
+    "id": "capable",
+    "word": "capable",
+    "pos": "adj.",
+    "zh": "有能力的"
+  },
+  {
+    "id": "capacity",
+    "word": "capacity",
+    "pos": "n.",
+    "zh": "容量；能力"
+  },
+  {
+    "id": "cape",
+    "word": "cape",
+    "pos": "",
+    "zh": "n披肩；海角"
+  },
+  {
+    "id": "capitaladj",
+    "word": "capital adj.",
+    "pos": "n.",
+    "zh": "主要的；首都；資本"
+  },
+  {
+    "id": "capitalism",
+    "word": "capital(ism)",
+    "pos": "n.",
+    "zh": "資本主義(制度)"
+  },
+  {
+    "id": "capitalist",
+    "word": "capitalist",
+    "pos": "n.",
+    "zh": "資本家"
+  },
+  {
+    "id": "capitol",
+    "word": "capitol",
+    "pos": "n.",
+    "zh": "美國州議會大廈"
+  },
+  {
+    "id": "captain",
+    "word": "captain",
+    "pos": "n.",
+    "zh": "隊長；船(艦)長"
+  },
+  {
+    "id": "caption",
+    "word": "caption",
+    "pos": "n.",
+    "zh": "說明文字"
+  },
+  {
+    "id": "captive",
+    "word": "captive",
+    "pos": "adj.",
+    "zh": "被俘虜的"
+  },
+  {
+    "id": "captivity",
+    "word": "captivity",
+    "pos": "n.",
+    "zh": "囚禁"
+  },
+  {
+    "id": "capturev",
+    "word": "capture v.",
+    "pos": "n.",
+    "zh": "捕獲；獲物"
+  },
+  {
+    "id": "carbon",
+    "word": "carbon",
+    "pos": "n.",
+    "zh": "碳"
+  },
+  {
+    "id": "card",
+    "word": "card",
+    "pos": "n.",
+    "zh": "卡片；紙牌遊戲"
+  },
+  {
+    "id": "cardinal",
+    "word": "cardinal",
+    "pos": "n.",
+    "zh": "紅衣主教"
+  },
+  {
+    "id": "caren",
+    "word": "care n.",
+    "pos": "v.",
+    "zh": "關心；照顧"
+  },
+  {
+    "id": "career",
+    "word": "career",
+    "pos": "n.",
+    "zh": "職業"
+  },
+  {
+    "id": "carefree",
+    "word": "carefree",
+    "pos": "adj.",
+    "zh": "無憂無慮的"
+  },
+  {
+    "id": "careful",
+    "word": "careful",
+    "pos": "adj.",
+    "zh": "仔細的"
+  },
+  {
+    "id": "careless",
+    "word": "careless",
+    "pos": "adj.",
+    "zh": "粗心大意的"
+  },
+  {
+    "id": "caress",
+    "word": "caress",
+    "pos": "v.",
+    "zh": "愛撫"
+  },
+  {
+    "id": "cargo",
+    "word": "cargo",
+    "pos": "n.",
+    "zh": "貨物"
+  },
+  {
+    "id": "carnival",
+    "word": "carnival",
+    "pos": "n.",
+    "zh": "嘉年華會"
+  },
+  {
+    "id": "carp",
+    "word": "carp",
+    "pos": "n.",
+    "zh": "鯉魚"
+  },
+  {
+    "id": "carpenter",
+    "word": "carpenter",
+    "pos": "n.",
+    "zh": "木匠"
+  },
+  {
+    "id": "carpet",
+    "word": "carpet",
+    "pos": "n.",
+    "zh": "地毯"
+  },
+  {
+    "id": "carriage",
+    "word": "carriage",
+    "pos": "n.",
+    "zh": "四輪馬車；運輸"
+  },
+  {
+    "id": "carrier",
+    "word": "carrier",
+    "pos": "n.",
+    "zh": "運送人；航空母艦"
+  },
+  {
+    "id": "carrot",
+    "word": "carrot",
+    "pos": "n.",
+    "zh": "胡蘿蔔"
+  },
+  {
+    "id": "carry",
+    "word": "carry",
+    "pos": "v.",
+    "zh": "運送；攜帶"
+  },
+  {
+    "id": "cartn",
+    "word": "cart n.",
+    "pos": "v.",
+    "zh": "貨車；載運"
+  },
+  {
+    "id": "cartoon",
+    "word": "cartoon",
+    "pos": "n.",
+    "zh": "卡通；連環漫畫"
+  },
+  {
+    "id": "carve",
+    "word": "carve",
+    "pos": "v.",
+    "zh": "雕刻；開拓"
+  },
+  {
+    "id": "case",
+    "word": "case",
+    "pos": "n.",
+    "zh": "事實；實例"
+  },
+  {
+    "id": "case2n",
+    "word": "case (2) n.",
+    "pos": "v.",
+    "zh": "容器；把…裝入箱中"
+  },
+  {
+    "id": "cashn",
+    "word": "cash n.",
+    "pos": "v.",
+    "zh": "現金"
+  },
+  {
+    "id": "cashier",
+    "word": "cashier",
+    "pos": "n.",
+    "zh": "出納員"
+  },
+  {
+    "id": "casino",
+    "word": "casino",
+    "pos": "n.",
+    "zh": "賭場"
+  },
+  {
+    "id": "cassette",
+    "word": "cassette",
+    "pos": "n.",
+    "zh": "卡式磁帶"
+  },
+  {
+    "id": "castn",
+    "word": "cast n.",
+    "pos": "v.",
+    "zh": "投；演員陣容"
+  },
+  {
+    "id": "caste",
+    "word": "caste",
+    "pos": "n.",
+    "zh": "種姓(制度)"
+  },
+  {
+    "id": "castle",
+    "word": "castle",
+    "pos": "n.",
+    "zh": "城堡"
+  },
+  {
+    "id": "casual",
+    "word": "casual",
+    "pos": "adj.",
+    "zh": "偶然的；碰巧的"
+  },
+  {
+    "id": "casually",
+    "word": "casually",
+    "pos": "adv.",
+    "zh": "漫不經心的"
+  },
+  {
+    "id": "casualty",
+    "word": "casualty",
+    "pos": "n.",
+    "zh": "傷亡者"
+  },
+  {
+    "id": "catalogue",
+    "word": "catalogue",
+    "pos": "n.",
+    "zh": "目錄"
+  },
+  {
+    "id": "catastrophe",
+    "word": "catastrophe",
+    "pos": "n.",
+    "zh": "災難"
+  },
+  {
+    "id": "catchv",
+    "word": "catch v.",
+    "pos": "n.",
+    "zh": "抓住；捕獲"
+  },
+  {
+    "id": "catcher",
+    "word": "catcher",
+    "pos": "n.",
+    "zh": "捕捉者"
+  },
+  {
+    "id": "cater",
+    "word": "cater",
+    "pos": "v.",
+    "zh": "承包伙食"
+  },
+  {
+    "id": "caterpillar",
+    "word": "caterpillar",
+    "pos": "n.",
+    "zh": "毛蟲"
+  },
+  {
+    "id": "cattle",
+    "word": "cattle",
+    "pos": "n.",
+    "zh": "牛；牲口"
+  },
+  {
+    "id": "causal",
+    "word": "causal",
+    "pos": "adj.",
+    "zh": "具有因果關係的"
+  },
+  {
+    "id": "causen",
+    "word": "cause n.",
+    "pos": "v.",
+    "zh": "導致；原因"
+  },
+  {
+    "id": "caution",
+    "word": "caution",
+    "pos": "n.",
+    "zh": "謹慎"
+  },
+  {
+    "id": "cautious",
+    "word": "cautious",
+    "pos": "adj.",
+    "zh": "小心的"
+  },
+  {
+    "id": "cautiously",
+    "word": "cautiously",
+    "pos": "adv.",
+    "zh": "小心地"
+  },
+  {
+    "id": "cavalry",
+    "word": "cavalry",
+    "pos": "n.",
+    "zh": "騎兵(隊)"
+  },
+  {
+    "id": "cave",
+    "word": "cave",
+    "pos": "n.",
+    "zh": "洞穴"
+  },
+  {
+    "id": "cd",
+    "word": "CD",
+    "pos": "n.(=compact",
+    "zh": "disc)光碟"
+  },
+  {
+    "id": "cease",
+    "word": "cease",
+    "pos": "v.",
+    "zh": "停止"
+  },
+  {
+    "id": "ceasefire",
+    "word": "ceasefire",
+    "pos": "n.",
+    "zh": "停火協定"
+  },
+  {
+    "id": "ceiling",
+    "word": "ceiling",
+    "pos": "n.",
+    "zh": "天花板"
+  },
+  {
+    "id": "celebrate",
+    "word": "celebrate",
+    "pos": "v.",
+    "zh": "慶祝"
+  },
+  {
+    "id": "celebration",
+    "word": "celebration",
+    "pos": "",
+    "zh": "n慶祝"
+  },
+  {
+    "id": "celebrity",
+    "word": "celebrity",
+    "pos": "n.",
+    "zh": "名人(聲)"
+  },
+  {
+    "id": "cell",
+    "word": "cell",
+    "pos": "n.",
+    "zh": "小囚房；細胞"
+  },
+  {
+    "id": "cellar",
+    "word": "cellar",
+    "pos": "n.",
+    "zh": "地窖"
+  },
+  {
+    "id": "cemetery",
+    "word": "cemetery",
+    "pos": "n.",
+    "zh": "墓地"
+  },
+  {
+    "id": "census",
+    "word": "census",
+    "pos": "n.",
+    "zh": "調查"
+  },
+  {
+    "id": "cent",
+    "word": "cent",
+    "pos": "n.",
+    "zh": "一分錢"
+  },
+  {
+    "id": "centern",
+    "word": "center n.",
+    "pos": "v.",
+    "zh": "使集中；核心"
+  },
+  {
+    "id": "centigradeadj",
+    "word": "centigrade adj.",
+    "pos": "n.",
+    "zh": "攝氏(的)"
+  },
+  {
+    "id": "central",
+    "word": "central",
+    "pos": "adj.",
+    "zh": "中央的；核心的"
+  },
+  {
+    "id": "century",
+    "word": "century",
+    "pos": "n.",
+    "zh": "世紀"
+  },
+  {
+    "id": "ceramic",
+    "word": "ceramic",
+    "pos": "adj.",
+    "zh": "陶器(藝)的"
+  },
+  {
+    "id": "cereal",
+    "word": "cereal",
+    "pos": "n.",
+    "zh": "玉蜀黍薄片"
+  },
+  {
+    "id": "ceremonious",
+    "word": "ceremonious",
+    "pos": "adj.",
+    "zh": "拘泥形式的"
+  },
+  {
+    "id": "ceremony",
+    "word": "ceremony",
+    "pos": "n.",
+    "zh": "典禮；禮儀"
+  },
+  {
+    "id": "certain",
+    "word": "certain",
+    "pos": "adj.",
+    "zh": "確信的"
+  },
+  {
+    "id": "certificate",
+    "word": "certificate",
+    "pos": "n.",
+    "zh": "證書"
+  },
+  {
+    "id": "chainn",
+    "word": "chain n.",
+    "pos": "v.",
+    "zh": "鏈條；束縛"
+  },
+  {
+    "id": "chair",
+    "word": "chair",
+    "pos": "n.",
+    "zh": "椅子"
+  },
+  {
+    "id": "chairwoman",
+    "word": "chairwoman",
+    "pos": "n.",
+    "zh": "女主席"
+  },
+  {
+    "id": "chalk",
+    "word": "chalk",
+    "pos": "n.",
+    "zh": "白堊；粉筆"
+  },
+  {
+    "id": "challengen",
+    "word": "challenge n.",
+    "pos": "v.",
+    "zh": "挑戰"
+  },
+  {
+    "id": "challenging",
+    "word": "challenging",
+    "pos": "adj.",
+    "zh": "富有挑戰性的"
+  },
+  {
+    "id": "chamber",
+    "word": "chamber",
+    "pos": "n.",
+    "zh": "房間；室"
+  },
+  {
+    "id": "champagne",
+    "word": "champagne",
+    "pos": "n.",
+    "zh": "香檳"
+  },
+  {
+    "id": "champion",
+    "word": "champion",
+    "pos": "n.",
+    "zh": "優勝者；戰士"
+  },
+  {
+    "id": "championship",
+    "word": "championship",
+    "pos": "n.",
+    "zh": "冠軍稱號；錦標賽"
+  },
+  {
+    "id": "chancen",
+    "word": "chance n.",
+    "pos": "v.",
+    "zh": "偶然；機會"
+  },
+  {
+    "id": "chancellor",
+    "word": "Chancellor",
+    "pos": "n.",
+    "zh": "司法官"
+  },
+  {
+    "id": "changeable",
+    "word": "changeable",
+    "pos": "adj.",
+    "zh": "易變的"
+  },
+  {
+    "id": "channeln",
+    "word": "channel n.",
+    "pos": "v.",
+    "zh": "海峽；溝渠"
+  },
+  {
+    "id": "chaos",
+    "word": "chaos",
+    "pos": "n.",
+    "zh": "無秩序狀態"
+  },
+  {
+    "id": "chapter",
+    "word": "chapter",
+    "pos": "n.",
+    "zh": "章，回"
+  },
+  {
+    "id": "character",
+    "word": "character",
+    "pos": "n.",
+    "zh": "性格；特質"
+  },
+  {
+    "id": "characteristicadj",
+    "word": "characteristic adj.",
+    "pos": "n.",
+    "zh": "特有的；特性"
+  },
+  {
+    "id": "chargen",
+    "word": "charge n.",
+    "pos": "v.",
+    "zh": "索價；控告"
+  },
+  {
+    "id": "charitable",
+    "word": "charitable",
+    "pos": "adj.",
+    "zh": "仁慈的"
+  },
+  {
+    "id": "charity",
+    "word": "charity",
+    "pos": "n.",
+    "zh": "慈善團體"
+  },
+  {
+    "id": "charm",
+    "word": "charm",
+    "pos": "nJv.",
+    "zh": "魅力；使陶醉"
+  },
+  {
+    "id": "charming",
+    "word": "charming",
+    "pos": "adj.",
+    "zh": "有魅力的"
+  },
+  {
+    "id": "chartn",
+    "word": "chart n.",
+    "pos": "v.",
+    "zh": "圖表"
+  },
+  {
+    "id": "chasev",
+    "word": "chase v.",
+    "pos": "n.",
+    "zh": "追逐"
+  },
+  {
+    "id": "chatv",
+    "word": "chat v.",
+    "pos": "n.",
+    "zh": "聊天"
+  },
+  {
+    "id": "chatterbox",
+    "word": "chatterbox",
+    "pos": "",
+    "zh": "n、喋喋不休的人"
+  },
+  {
+    "id": "cheap",
+    "word": "cheap",
+    "pos": "adj.",
+    "zh": "便宜的"
+  },
+  {
+    "id": "cheatv",
+    "word": "cheat v.",
+    "pos": "n.",
+    "zh": "作弊；欺騙"
+  },
+  {
+    "id": "checkn",
+    "word": "check n.",
+    "pos": "v.",
+    "zh": "支票；檢查"
+  },
+  {
+    "id": "checkbook",
+    "word": "checkbook",
+    "pos": "n.",
+    "zh": "支票簿"
+  },
+  {
+    "id": "checkin",
+    "word": "check-in",
+    "pos": "n.",
+    "zh": "登記手續"
+  },
+  {
+    "id": "checkout",
+    "word": "check-out",
+    "pos": "n.",
+    "zh": "檢查；付款退租"
+  },
+  {
+    "id": "checkup",
+    "word": "checkup",
+    "pos": "n.",
+    "zh": "檢查"
+  },
+  {
+    "id": "cheek",
+    "word": "cheek",
+    "pos": "n.",
+    "zh": "臉頰"
+  },
+  {
+    "id": "cheern",
+    "word": "cheer n.",
+    "pos": "v.",
+    "zh": "歡呼；激勵"
+  },
+  {
+    "id": "cheerful",
+    "word": "cheerful",
+    "pos": "adj.",
+    "zh": "興高采烈的"
+  },
+  {
+    "id": "cheerleader",
+    "word": "cheerleader",
+    "pos": "n.",
+    "zh": "啦啦隊隊長"
+  },
+  {
+    "id": "cheers",
+    "word": "cheers",
+    "pos": "interj.",
+    "zh": "乾杯"
+  },
+  {
+    "id": "cheese",
+    "word": "cheese",
+    "pos": "n.",
+    "zh": "乳酪；乾酪"
+  },
+  {
+    "id": "chef",
+    "word": "chef",
+    "pos": "n.",
+    "zh": "主廚"
+  },
+  {
+    "id": "chemicaladj",
+    "word": "chemical adj.",
+    "pos": "n.",
+    "zh": "化學的"
+  },
+  {
+    "id": "chemist",
+    "word": "chemist",
+    "pos": "n.",
+    "zh": "化學家"
+  },
+  {
+    "id": "chemistry",
+    "word": "chemistry",
+    "pos": "n.",
+    "zh": "化學；化學作用"
+  },
+  {
+    "id": "cherish",
+    "word": "cherish",
+    "pos": "v.",
+    "zh": "珍惜"
+  },
+  {
+    "id": "cherry",
+    "word": "cherry",
+    "pos": "n.",
+    "zh": "櫻桃"
+  },
+  {
+    "id": "chess",
+    "word": "chess",
+    "pos": "n.",
+    "zh": "西洋棋"
+  },
+  {
+    "id": "chessboard",
+    "word": "chessboard",
+    "pos": "n.",
+    "zh": "西洋棋棋盤"
+  },
+  {
+    "id": "chest",
+    "word": "chest",
+    "pos": "n.",
+    "zh": "胸膛；箱子"
+  },
+  {
+    "id": "chewv",
+    "word": "chew v.",
+    "pos": "n.",
+    "zh": "咀嚼；深思"
+  },
+  {
+    "id": "chick",
+    "word": "chick",
+    "pos": "n.",
+    "zh": "小雞；少婦"
+  },
+  {
+    "id": "chicken",
+    "word": "chicken",
+    "pos": "n.",
+    "zh": "雞肉；膽小鬼"
+  },
+  {
+    "id": "chiefadj",
+    "word": "chief adj.",
+    "pos": "n.",
+    "zh": "主要的；首領"
+  },
+  {
+    "id": "child",
+    "word": "child",
+    "pos": "n.",
+    "zh": "小孩子"
+  },
+  {
+    "id": "childbirth",
+    "word": "childbirth",
+    "pos": "n.",
+    "zh": "分娩"
+  },
+  {
+    "id": "childcare",
+    "word": "childcare",
+    "pos": "n.",
+    "zh": "照料小孩"
+  },
+  {
+    "id": "childhood",
+    "word": "childhood",
+    "pos": "n.",
+    "zh": "童年時期"
+  },
+  {
+    "id": "childish",
+    "word": "childish",
+    "pos": "adj.",
+    "zh": "孩子氣的"
+  },
+  {
+    "id": "childlike",
+    "word": "childlike",
+    "pos": "adj.",
+    "zh": "天真無邪的"
+  },
+  {
+    "id": "children",
+    "word": "children",
+    "pos": "n.",
+    "zh": "[pl.]小孩子"
+  },
+  {
+    "id": "chillv",
+    "word": "chill v.",
+    "pos": "adj.",
+    "zh": "(使)變冷；寒冷的"
+  },
+  {
+    "id": "chilly",
+    "word": "chilly",
+    "pos": "adj.",
+    "zh": "冷颼颼的"
+  },
+  {
+    "id": "chimney",
+    "word": "chimney",
+    "pos": "n.",
+    "zh": "煙囪"
+  },
+  {
+    "id": "chimpanzee",
+    "word": "chimpanzee",
+    "pos": "n.",
+    "zh": "黑猩猩"
+  },
+  {
+    "id": "chin",
+    "word": "chin",
+    "pos": "n.",
+    "zh": "下巴"
+  },
+  {
+    "id": "china",
+    "word": "china",
+    "pos": "n.",
+    "zh": "瓷器"
+  },
+  {
+    "id": "chipn",
+    "word": "chip n.",
+    "pos": "v.",
+    "zh": "晶片；削"
+  },
+  {
+    "id": "chlorine",
+    "word": "chlorine",
+    "pos": "n.",
+    "zh": "氯(氣)"
+  },
+  {
+    "id": "chocolate",
+    "word": "chocolate",
+    "pos": "n.",
+    "zh": "巧克力"
+  },
+  {
+    "id": "choicen",
+    "word": "choice n.",
+    "pos": "adj.",
+    "zh": "選擇"
+  },
+  {
+    "id": "choir",
+    "word": "choir",
+    "pos": "n.",
+    "zh": "合唱隊"
+  },
+  {
+    "id": "chokev",
+    "word": "choke v.",
+    "pos": "n.",
+    "zh": "窒息；阻塞"
+  },
+  {
+    "id": "cholesterol",
+    "word": "cholesterol",
+    "pos": "n.",
+    "zh": "膽固醇"
+  },
+  {
+    "id": "choose",
+    "word": "choose",
+    "pos": "v.",
+    "zh": "選擇"
+  },
+  {
+    "id": "chopv",
+    "word": "chop v.",
+    "pos": "n.",
+    "zh": "劈；肋排肉"
+  },
+  {
+    "id": "chopsticks",
+    "word": "chopstick(s)",
+    "pos": "n.",
+    "zh": "筷子"
+  },
+  {
+    "id": "chorus",
+    "word": "chorus",
+    "pos": "n.",
+    "zh": "合唱隊"
+  },
+  {
+    "id": "christianity",
+    "word": "Christianity",
+    "pos": "n.",
+    "zh": "基督教"
+  },
+  {
+    "id": "chronic",
+    "word": "chronic",
+    "pos": "adj.",
+    "zh": "慢性的"
+  },
+  {
+    "id": "chunk",
+    "word": "chunk",
+    "pos": "n.",
+    "zh": "厚塊"
+  },
+  {
+    "id": "church",
+    "word": "church",
+    "pos": "n.",
+    "zh": "教堂"
+  },
+  {
+    "id": "churchyard",
+    "word": "churchyard",
+    "pos": "n.",
+    "zh": "教堂的庭院(墓地)"
+  },
+  {
+    "id": "cigar",
+    "word": "cigar",
+    "pos": "n.",
+    "zh": "雪茄"
+  },
+  {
+    "id": "cigarette",
+    "word": "cigarette",
+    "pos": "n.",
+    "zh": "香煙；煙捲"
+  },
+  {
+    "id": "circlen",
+    "word": "circle n.",
+    "pos": "v.",
+    "zh": "循環；畫圓圈"
+  },
+  {
+    "id": "circulate",
+    "word": "circulate",
+    "pos": "v.",
+    "zh": "循環；流通"
+  },
+  {
+    "id": "circulation",
+    "word": "circulation",
+    "pos": "n.",
+    "zh": "循環；流通；貨幣"
+  },
+  {
+    "id": "circumstance",
+    "word": "circumstance",
+    "pos": "n.",
+    "zh": "情況；詳情"
+  },
+  {
+    "id": "circus",
+    "word": "circus",
+    "pos": "n.",
+    "zh": "馬戲團"
+  },
+  {
+    "id": "citizen",
+    "word": "citizen'",
+    "pos": "n.",
+    "zh": "公民；市民"
+  },
+  {
+    "id": "citizenship",
+    "word": "citizenship",
+    "pos": "n.",
+    "zh": "公民身分(權利)"
+  },
+  {
+    "id": "city",
+    "word": "city",
+    "pos": "n.",
+    "zh": "城市"
+  },
+  {
+    "id": "civics",
+    "word": "civics",
+    "pos": "n.",
+    "zh": "公民科"
+  },
+  {
+    "id": "civilian",
+    "word": "civilian",
+    "pos": "n.",
+    "zh": "平民；文職人員"
+  },
+  {
+    "id": "civilization",
+    "word": "civilization",
+    "pos": "n.",
+    "zh": "文明"
+  },
+  {
+    "id": "civilize",
+    "word": "civilize",
+    "pos": "v.",
+    "zh": "使開化"
+  },
+  {
+    "id": "claimn",
+    "word": "claim n.",
+    "pos": "v.",
+    "zh": "要求；聲稱"
+  },
+  {
+    "id": "clarify",
+    "word": "clarify",
+    "pos": "v.",
+    "zh": "澄清"
+  },
+  {
+    "id": "clashn",
+    "word": "clash n.",
+    "pos": "v.",
+    "zh": "衝突；發出鏗鏘聲"
+  },
+  {
+    "id": "classn",
+    "word": "class n.",
+    "pos": "v.",
+    "zh": "階級；班級"
+  },
+  {
+    "id": "classicadj",
+    "word": "classic adj.",
+    "pos": "n.",
+    "zh": "經典的；名著"
+  },
+  {
+    "id": "classical",
+    "word": "classical",
+    "pos": "adj.",
+    "zh": "極好的；古典的"
+  },
+  {
+    "id": "classification",
+    "word": "classification",
+    "pos": "n.",
+    "zh": "分類"
+  },
+  {
+    "id": "classmate",
+    "word": "classmate",
+    "pos": "n.",
+    "zh": "同班同學"
+  },
+  {
+    "id": "classroom",
+    "word": "classroom",
+    "pos": "n.",
+    "zh": "教室"
+  },
+  {
+    "id": "clause",
+    "word": "clause",
+    "pos": "n.",
+    "zh": "子句；條款"
+  },
+  {
+    "id": "claw",
+    "word": "claw",
+    "pos": "n.",
+    "zh": "爪子；鉗；贅"
+  },
+  {
+    "id": "clay",
+    "word": "clay",
+    "pos": "n.",
+    "zh": "黏土；泥土"
+  },
+  {
+    "id": "cleanadj",
+    "word": "clean adj.",
+    "pos": "adv.",
+    "zh": "v.乾淨的"
+  },
+  {
+    "id": "cleaner",
+    "word": "cleaner",
+    "pos": "n.",
+    "zh": "清潔工(劑)"
+  },
+  {
+    "id": "cleaning",
+    "word": "cleaning",
+    "pos": "n.",
+    "zh": "掃除"
+  },
+  {
+    "id": "cleanse",
+    "word": "cleanse",
+    "pos": "v.",
+    "zh": "使清潔"
+  },
+  {
+    "id": "clearadj",
+    "word": "clear adj.",
+    "pos": "v.",
+    "zh": "清楚的"
+  },
+  {
+    "id": "clergyman",
+    "word": "clergyman",
+    "pos": "n.",
+    "zh": "神職人員；牧師"
+  },
+  {
+    "id": "clerk",
+    "word": "clerk",
+    "pos": "n.",
+    "zh": "店員"
+  },
+  {
+    "id": "clever",
+    "word": "clever",
+    "pos": "adj.",
+    "zh": "伶俐的；機敏的"
+  },
+  {
+    "id": "click",
+    "word": "click",
+    "pos": "v.",
+    "zh": "使發出聲"
+  },
+  {
+    "id": "client",
+    "word": "client",
+    "pos": "n.",
+    "zh": "客戶"
+  },
+  {
+    "id": "cliff",
+    "word": "cliff",
+    "pos": "n.",
+    "zh": "懸崖"
+  },
+  {
+    "id": "climate",
+    "word": "climate",
+    "pos": "n.",
+    "zh": "氣候；風氣"
+  },
+  {
+    "id": "climax",
+    "word": "climax",
+    "pos": "n.",
+    "zh": "高潮"
+  },
+  {
+    "id": "climb",
+    "word": "climb",
+    "pos": "v.",
+    "zh": "攀爬"
+  },
+  {
+    "id": "clinic",
+    "word": "clinic",
+    "pos": "n.",
+    "zh": "診所"
+  },
+  {
+    "id": "clip",
+    "word": "clip",
+    "pos": "v.",
+    "zh": "修剪；夾住"
+  },
+  {
+    "id": "clock",
+    "word": "clock",
+    "pos": "n.",
+    "zh": "時鐘"
+  },
+  {
+    "id": "clockwise",
+    "word": "clockwise",
+    "pos": "adj.",
+    "zh": "順時針方向的"
+  },
+  {
+    "id": "clockwork",
+    "word": "clockwork",
+    "pos": "n.",
+    "zh": "發條裝置"
+  },
+  {
+    "id": "closeadj",
+    "word": "close adj.",
+    "pos": "adv.",
+    "zh": "接近的"
+  },
+  {
+    "id": "close",
+    "word": "close",
+    "pos": "v.",
+    "zh": "關上；結束"
+  },
+  {
+    "id": "closet",
+    "word": "closet",
+    "pos": "n.",
+    "zh": "壁櫥；衣櫥"
+  },
+  {
+    "id": "closure",
+    "word": "closure",
+    "pos": "n.",
+    "zh": "關閉"
+  },
+  {
+    "id": "cloth",
+    "word": "cloth",
+    "pos": "n.",
+    "zh": "布料；衣料"
+  },
+  {
+    "id": "clothe",
+    "word": "clothe",
+    "pos": "v.",
+    "zh": "為…穿衣"
+  },
+  {
+    "id": "clothes",
+    "word": "clothes",
+    "pos": "n.",
+    "zh": "衣服"
+  },
+  {
+    "id": "clothing",
+    "word": "clothing",
+    "pos": "n.",
+    "zh": "衣服；覆蓋物"
+  },
+  {
+    "id": "cloudn",
+    "word": "cloud n.",
+    "pos": "v.",
+    "zh": "雲；遮蔽"
+  },
+  {
+    "id": "cloudy",
+    "word": "cloudy",
+    "pos": "adj.",
+    "zh": "多雲的"
+  },
+  {
+    "id": "clown",
+    "word": "clown",
+    "pos": "n.",
+    "zh": "小丑"
+  },
+  {
+    "id": "clubn",
+    "word": "club n.",
+    "pos": "v.",
+    "zh": "俱樂部；募集"
+  },
+  {
+    "id": "clue",
+    "word": "clue",
+    "pos": "n.",
+    "zh": "線索"
+  },
+  {
+    "id": "clumsy",
+    "word": "clumsy",
+    "pos": "adj.",
+    "zh": "笨拙的"
+  },
+  {
+    "id": "cluster",
+    "word": "cluster",
+    "pos": "n.",
+    "zh": "群"
+  },
+  {
+    "id": "clutch",
+    "word": "clutch",
+    "pos": "n.",
+    "zh": "離合器；緊握"
+  },
+  {
+    "id": "coachn",
+    "word": "coach n.",
+    "pos": "v.",
+    "zh": "教練員；公車"
+  },
+  {
+    "id": "coal",
+    "word": "coal",
+    "pos": "n.",
+    "zh": "煤礦；煤塊"
+  },
+  {
+    "id": "coalition",
+    "word": "coalition",
+    "pos": "n.",
+    "zh": "聯合"
+  },
+  {
+    "id": "coarse",
+    "word": "coarse",
+    "pos": "adj.",
+    "zh": "粗糙的"
+  },
+  {
+    "id": "coast",
+    "word": "coast",
+    "pos": "n.",
+    "zh": "海岸；沿海地區"
+  },
+  {
+    "id": "coastguard",
+    "word": "coastguard",
+    "pos": "n.",
+    "zh": "海岸巡邏隊"
+  },
+  {
+    "id": "coastline",
+    "word": "coastline",
+    "pos": "n.",
+    "zh": "海岸線"
+  },
+  {
+    "id": "coatn",
+    "word": "coat n.",
+    "pos": "v.",
+    "zh": "外套；覆蓋"
+  },
+  {
+    "id": "cocaine",
+    "word": "cocaine",
+    "pos": "n.",
+    "zh": "古柯鹼"
+  },
+  {
+    "id": "cock",
+    "word": "cock",
+    "pos": "n.",
+    "zh": "公雞"
+  },
+  {
+    "id": "cockpit",
+    "word": "cockpit",
+    "pos": "n.",
+    "zh": "駕駛艙；鬥雞場"
+  },
+  {
+    "id": "cockroach",
+    "word": "cockroach",
+    "pos": "n.",
+    "zh": "蟑蚣卜；油蟲"
+  },
+  {
+    "id": "cocktail",
+    "word": "cocktail",
+    "pos": "n.",
+    "zh": "雞尾酒"
+  },
+  {
+    "id": "coconut",
+    "word": "coconut",
+    "pos": "n.",
+    "zh": "椰子"
+  },
+  {
+    "id": "coden",
+    "word": "code n.",
+    "pos": "v.",
+    "zh": "密碼；法典"
+  },
+  {
+    "id": "coed",
+    "word": "coed",
+    "pos": "adj.",
+    "zh": "男女合校的"
+  },
+  {
+    "id": "coeducation",
+    "word": "coeducation",
+    "pos": "n.",
+    "zh": "男女合校的教育"
+  },
+  {
+    "id": "coexist",
+    "word": "coexist",
+    "pos": "v.",
+    "zh": "同時共存"
+  },
+  {
+    "id": "coffee",
+    "word": "coffee",
+    "pos": "n.",
+    "zh": "咖啡"
+  },
+  {
+    "id": "coffin",
+    "word": "coffin",
+    "pos": "n.",
+    "zh": "棺材"
+  },
+  {
+    "id": "coin",
+    "word": "coin",
+    "pos": "n.",
+    "zh": "硬幣"
+  },
+  {
+    "id": "coincidence",
+    "word": "coincidence",
+    "pos": "n.",
+    "zh": "巧合"
+  },
+  {
+    "id": "coke",
+    "word": "coke",
+    "pos": "n.",
+    "zh": "可口可樂"
+  },
+  {
+    "id": "cola",
+    "word": "cola",
+    "pos": "n.",
+    "zh": "可樂類飲料"
+  },
+  {
+    "id": "collaborate",
+    "word": "collaborate",
+    "pos": "v.",
+    "zh": "合作"
+  },
+  {
+    "id": "collapsev",
+    "word": "collapse v.",
+    "pos": "n.",
+    "zh": "崩塌"
+  },
+  {
+    "id": "collar",
+    "word": "collar",
+    "pos": "n.",
+    "zh": "衣領；項圈"
+  },
+  {
+    "id": "colleague",
+    "word": "colleague",
+    "pos": "n.",
+    "zh": "同事"
+  },
+  {
+    "id": "collection",
+    "word": "collection",
+    "pos": "n.",
+    "zh": "收藏品；收集"
+  },
+  {
+    "id": "collector",
+    "word": "collector",
+    "pos": "n.",
+    "zh": "收藏者"
+  },
+  {
+    "id": "college",
+    "word": "college",
+    "pos": "n.",
+    "zh": "大學；學院"
+  },
+  {
+    "id": "collision",
+    "word": "collision",
+    "pos": "n.",
+    "zh": "衝突"
+  },
+  {
+    "id": "colonial",
+    "word": "colonial",
+    "pos": "adj.",
+    "zh": "殖民地的"
+  },
+  {
+    "id": "colony",
+    "word": "colony",
+    "pos": "n.",
+    "zh": "殖民地"
+  },
+  {
+    "id": "colorn",
+    "word": "color n.",
+    "pos": "v.",
+    "zh": "顏色；彩色"
+  },
+  {
+    "id": "colorblind",
+    "word": "color-blind",
+    "pos": "adj.",
+    "zh": "色盲的"
+  },
+  {
+    "id": "colorful",
+    "word": "colorful",
+    "pos": "adj.",
+    "zh": "多采多姿的"
+  },
+  {
+    "id": "column",
+    "word": "column",
+    "pos": "n.",
+    "zh": "欄；圓柱"
+  },
+  {
+    "id": "columnist",
+    "word": "columnist",
+    "pos": "n.",
+    "zh": "專欄作家"
+  },
+  {
+    "id": "combn",
+    "word": "comb n.",
+    "pos": "v.",
+    "zh": "梳子；梳頭"
+  },
+  {
+    "id": "combination",
+    "word": "combination",
+    "pos": "n.",
+    "zh": "聯合(體)"
+  },
+  {
+    "id": "combine",
+    "word": "combine",
+    "pos": "v.",
+    "zh": "結合"
+  },
+  {
+    "id": "come",
+    "word": "come",
+    "pos": "v.",
+    "zh": "來到；甦醒"
+  },
+  {
+    "id": "comedian",
+    "word": "comedian",
+    "pos": "n.",
+    "zh": "丑角式人物"
+  },
+  {
+    "id": "comedy",
+    "word": "comedy",
+    "pos": "n.",
+    "zh": "喜劇"
+  },
+  {
+    "id": "comet",
+    "word": "comet",
+    "pos": "n.",
+    "zh": "彗星"
+  },
+  {
+    "id": "comfortably",
+    "word": "comfortably",
+    "pos": "adv.",
+    "zh": "舒適地"
+  },
+  {
+    "id": "comforting",
+    "word": "comforting",
+    "pos": "adj.",
+    "zh": "舒適的"
+  },
+  {
+    "id": "comic",
+    "word": "comic",
+    "pos": "adj.",
+    "zh": "滑稽的"
+  },
+  {
+    "id": "coming",
+    "word": "coming",
+    "pos": "n.",
+    "zh": "到來"
+  },
+  {
+    "id": "commandn",
+    "word": "command n.",
+    "pos": "v.",
+    "zh": "命令；控制"
+  },
+  {
+    "id": "commander",
+    "word": "commander",
+    "pos": "n.",
+    "zh": "指揮者"
+  },
+  {
+    "id": "commemorate",
+    "word": "commemorate",
+    "pos": "v.",
+    "zh": "為慶祝"
+  },
+  {
+    "id": "commend",
+    "word": "commend",
+    "pos": "v.",
+    "zh": "稱讚"
+  },
+  {
+    "id": "commentn",
+    "word": "comment n.",
+    "pos": "v.",
+    "zh": "評論"
+  },
+  {
+    "id": "commentary",
+    "word": "commentary",
+    "pos": "n.",
+    "zh": "評述"
+  },
+  {
+    "id": "commentator",
+    "word": "commentator",
+    "pos": "n.",
+    "zh": "評論家"
+  },
+  {
+    "id": "commerce",
+    "word": "commerce",
+    "pos": "",
+    "zh": "n商業；交易"
+  },
+  {
+    "id": "commercialadj",
+    "word": "commercial adj.",
+    "pos": "n.",
+    "zh": "商業的"
+  },
+  {
+    "id": "commissionn",
+    "word": "commission n.",
+    "pos": "v.",
+    "zh": "佣金；委託"
+  },
+  {
+    "id": "commit",
+    "word": "commit",
+    "pos": "v.",
+    "zh": "犯(罪)；把…託交給…"
+  },
+  {
+    "id": "commitment",
+    "word": "commitment",
+    "pos": "n.",
+    "zh": "承諾"
+  },
+  {
+    "id": "committee",
+    "word": "committee",
+    "pos": "n.",
+    "zh": "委員會"
+  },
+  {
+    "id": "commodity",
+    "word": "commodity",
+    "pos": "n.",
+    "zh": "商品"
+  },
+  {
+    "id": "commonadj",
+    "word": "common adj.",
+    "pos": "n.",
+    "zh": "一般的"
+  },
+  {
+    "id": "commonplace",
+    "word": "commonplace",
+    "pos": "adj.",
+    "zh": "平凡的"
+  },
+  {
+    "id": "communal",
+    "word": "communal",
+    "pos": "adj.",
+    "zh": "公共的"
+  },
+  {
+    "id": "communicate",
+    "word": "communicate",
+    "pos": "v.",
+    "zh": "溝通"
+  },
+  {
+    "id": "communication",
+    "word": "communication",
+    "pos": "n.",
+    "zh": "溝通；訊息"
+  },
+  {
+    "id": "communicative",
+    "word": "communicative",
+    "pos": "adj.",
+    "zh": "愛說話的"
+  },
+  {
+    "id": "communistn",
+    "word": "communist n.",
+    "pos": "adj.",
+    "zh": "n.共產主義的；共產主義者"
+  },
+  {
+    "id": "community",
+    "word": "community",
+    "pos": "n.",
+    "zh": "社區；共同體"
+  },
+  {
+    "id": "commute",
+    "word": "commute",
+    "pos": "v.",
+    "zh": "通勤"
+  },
+  {
+    "id": "commuter",
+    "word": "commuter",
+    "pos": "",
+    "zh": "n通勤者"
+  },
+  {
+    "id": "compact",
+    "word": "compact",
+    "pos": "adj.",
+    "zh": "緊密的"
+  },
+  {
+    "id": "companion",
+    "word": "companion",
+    "pos": "n.",
+    "zh": "夥伴；伴侶"
+  },
+  {
+    "id": "companionship",
+    "word": "companionship",
+    "pos": "n.",
+    "zh": "交誼"
+  },
+  {
+    "id": "company",
+    "word": "company",
+    "pos": "n.",
+    "zh": "公司；同伴"
+  },
+  {
+    "id": "comparative",
+    "word": "comparative",
+    "pos": "adj.",
+    "zh": "相比而言的"
+  },
+  {
+    "id": "comparatively",
+    "word": "comparatively",
+    "pos": "adv.",
+    "zh": "比較地"
+  },
+  {
+    "id": "compare",
+    "word": "compare",
+    "pos": "v.",
+    "zh": "比較"
+  },
+  {
+    "id": "comparison",
+    "word": "comparison",
+    "pos": "n.",
+    "zh": "比較；對照"
+  },
+  {
+    "id": "compartment",
+    "word": "compartment",
+    "pos": "n.",
+    "zh": "分隔間"
+  },
+  {
+    "id": "compass",
+    "word": "compass",
+    "pos": "n.",
+    "zh": "指南針；圓規"
+  },
+  {
+    "id": "compassionate",
+    "word": "compassionate",
+    "pos": "adj.",
+    "zh": "有同情心的"
+  },
+  {
+    "id": "compatible",
+    "word": "compatible",
+    "pos": "adj.",
+    "zh": "相容的"
+  },
+  {
+    "id": "compatibly",
+    "word": "compatibly",
+    "pos": "adv.",
+    "zh": "和諧地"
+  },
+  {
+    "id": "compensate",
+    "word": "compensate",
+    "pos": "v.",
+    "zh": "賠償"
+  },
+  {
+    "id": "compensation",
+    "word": "compensation",
+    "pos": "n.",
+    "zh": "補償"
+  },
+  {
+    "id": "compete",
+    "word": "compete",
+    "pos": "v.",
+    "zh": "競爭；比賽"
+  },
+  {
+    "id": "competence",
+    "word": "competence",
+    "pos": "n.",
+    "zh": "能力"
+  },
+  {
+    "id": "competition",
+    "word": "competition",
+    "pos": "n.",
+    "zh": "競賽；競爭"
+  },
+  {
+    "id": "competitive",
+    "word": "competitive",
+    "pos": "adj.",
+    "zh": "競爭的"
+  },
+  {
+    "id": "competitor",
+    "word": "competitor",
+    "pos": "n.",
+    "zh": "競爭者"
+  },
+  {
+    "id": "compile",
+    "word": "compile",
+    "pos": "v.",
+    "zh": "編纂"
+  },
+  {
+    "id": "complain",
+    "word": "complain",
+    "pos": "v.",
+    "zh": "抱怨"
+  },
+  {
+    "id": "complaint",
+    "word": "complaint",
+    "pos": "n.",
+    "zh": "抱怨"
+  },
+  {
+    "id": "complement",
+    "word": "complement",
+    "pos": "n.",
+    "zh": "補足物"
+  },
+  {
+    "id": "completeadj",
+    "word": "complete adj.",
+    "pos": "v.",
+    "zh": "完全的；完成"
+  },
+  {
+    "id": "complexadj",
+    "word": "complex adj.",
+    "pos": "n.",
+    "zh": "複雜的；情結"
+  },
+  {
+    "id": "complexion",
+    "word": "complexion",
+    "pos": "n.",
+    "zh": "氣色"
+  },
+  {
+    "id": "complexity",
+    "word": "complexity",
+    "pos": "n.",
+    "zh": "錯綜複雜的事物"
+  },
+  {
+    "id": "complicate",
+    "word": "complicate",
+    "pos": "v.",
+    "zh": "使複雜化"
+  },
+  {
+    "id": "complicated",
+    "word": "complicated",
+    "pos": "adj.",
+    "zh": "複雜的"
+  },
+  {
+    "id": "complication",
+    "word": "complication",
+    "pos": "n.",
+    "zh": "糾葛"
+  },
+  {
+    "id": "complimentn",
+    "word": "compliment n.",
+    "pos": "v.",
+    "zh": "讚美；祝賀"
+  },
+  {
+    "id": "comply",
+    "word": "comply",
+    "pos": "v.",
+    "zh": "依從"
+  },
+  {
+    "id": "component",
+    "word": "component",
+    "pos": "n.",
+    "zh": "零件；成分"
+  },
+  {
+    "id": "compose",
+    "word": "compose",
+    "pos": "v.",
+    "zh": "作曲；組成"
+  },
+  {
+    "id": "composer",
+    "word": "composer",
+    "pos": "n.",
+    "zh": "作曲家；調停者"
+  },
+  {
+    "id": "composite",
+    "word": "composite",
+    "pos": "adj.",
+    "zh": "混合成的"
+  },
+  {
+    "id": "composition",
+    "word": "composition",
+    "pos": "n.",
+    "zh": "作文；合成物"
+  },
+  {
+    "id": "comprehend",
+    "word": "comprehend",
+    "pos": "v.",
+    "zh": "理解"
+  },
+  {
+    "id": "comprehensible",
+    "word": "comprehensible",
+    "pos": "adj.",
+    "zh": "可以理解的"
+  },
+  {
+    "id": "comprehension",
+    "word": "comprehension",
+    "pos": "n.",
+    "zh": "理解(力)"
+  },
+  {
+    "id": "comprehensive",
+    "word": "comprehensive",
+    "pos": "adj.",
+    "zh": "廣泛的"
+  },
+  {
+    "id": "compress",
+    "word": "compress",
+    "pos": "v.",
+    "zh": "壓縮"
+  },
+  {
+    "id": "compromise",
+    "word": "compromise",
+    "pos": "v.",
+    "zh": "妥協(方案)"
+  },
+  {
+    "id": "compulsively",
+    "word": "compulsively",
+    "pos": "adv.",
+    "zh": "強制性地"
+  },
+  {
+    "id": "compute",
+    "word": "compute",
+    "pos": "v.",
+    "zh": "估算；推算"
+  },
+  {
+    "id": "computer",
+    "word": "computer",
+    "pos": "n.",
+    "zh": "電腦"
+  },
+  {
+    "id": "computerize",
+    "word": "computerize",
+    "pos": "v.",
+    "zh": "使電腦化"
+  },
+  {
+    "id": "comrade",
+    "word": "comrade",
+    "pos": "n.",
+    "zh": "同伴"
+  },
+  {
+    "id": "conceal",
+    "word": "conceal",
+    "pos": "v.",
+    "zh": "隱藏"
+  },
+  {
+    "id": "concede",
+    "word": "concede",
+    "pos": "v.",
+    "zh": "讓與"
+  },
+  {
+    "id": "conceive",
+    "word": "conceive",
+    "pos": "v.",
+    "zh": "認為；構想"
+  },
+  {
+    "id": "conceited",
+    "word": "conceited",
+    "pos": "adj.",
+    "zh": "自大的"
+  },
+  {
+    "id": "conceitedly",
+    "word": "conceitedly",
+    "pos": "adv.",
+    "zh": "自負地"
+  },
+  {
+    "id": "concentrate",
+    "word": "concentrate",
+    "pos": "v.",
+    "zh": "專心"
+  },
+  {
+    "id": "concentration",
+    "word": "concentration",
+    "pos": "",
+    "zh": "n專心；集中"
+  },
+  {
+    "id": "concernn",
+    "word": "concern n.",
+    "pos": "v.",
+    "zh": "關心；涉及"
+  },
+  {
+    "id": "concert",
+    "word": "concert",
+    "pos": "n.",
+    "zh": "演奏會；音樂會"
+  },
+  {
+    "id": "concession",
+    "word": "concession",
+    "pos": "n.",
+    "zh": "讓步"
+  },
+  {
+    "id": "concise",
+    "word": "concise",
+    "pos": "adj.",
+    "zh": "簡潔的"
+  },
+  {
+    "id": "conclude",
+    "word": "conclude",
+    "pos": "v.",
+    "zh": "結束；斷定"
+  },
+  {
+    "id": "conclusion",
+    "word": "conclusion",
+    "pos": "n.",
+    "zh": "結論；推論"
+  },
+  {
+    "id": "concreteadj",
+    "word": "concrete adj.",
+    "pos": "n.",
+    "zh": "具體的；混凝土"
+  },
+  {
+    "id": "condense",
+    "word": "condense",
+    "pos": "v.",
+    "zh": "使凝結(濃縮)"
+  },
+  {
+    "id": "conditionn",
+    "word": "condition n.",
+    "pos": "v.",
+    "zh": "情況；決定"
+  },
+  {
+    "id": "condom",
+    "word": "condom",
+    "pos": "n.",
+    "zh": "保險套"
+  },
+  {
+    "id": "conductor",
+    "word": "conductor",
+    "pos": "n.",
+    "zh": "領導者；指揮"
+  },
+  {
+    "id": "confederation",
+    "word": "confederation",
+    "pos": "n.",
+    "zh": "同盟"
+  },
+  {
+    "id": "confer",
+    "word": "confer",
+    "pos": "v.",
+    "zh": "商議；授予"
+  },
+  {
+    "id": "conference",
+    "word": "conference",
+    "pos": "n.",
+    "zh": "會議"
+  },
+  {
+    "id": "confess",
+    "word": "confess",
+    "pos": "v.",
+    "zh": "坦承"
+  },
+  {
+    "id": "confession",
+    "word": "confession",
+    "pos": "n.",
+    "zh": "承認"
+  },
+  {
+    "id": "confide",
+    "word": "confide",
+    "pos": "v.",
+    "zh": "吐露"
+  },
+  {
+    "id": "confidence",
+    "word": "confidence",
+    "pos": "n.",
+    "zh": "信心；自信"
+  },
+  {
+    "id": "confident",
+    "word": "confident",
+    "pos": "adj.",
+    "zh": "有自信的"
+  },
+  {
+    "id": "confidently",
+    "word": "confidently",
+    "pos": "adv.",
+    "zh": "確信地"
+  },
+  {
+    "id": "confidential",
+    "word": "confidential",
+    "pos": "adj.",
+    "zh": "機密的"
+  },
+  {
+    "id": "confine",
+    "word": "confine",
+    "pos": "v.",
+    "zh": "限制；使侷限"
+  },
+  {
+    "id": "confirm",
+    "word": "confirm",
+    "pos": "v.",
+    "zh": "詮實"
+  },
+  {
+    "id": "conflictn",
+    "word": "conflict n.",
+    "pos": "v.",
+    "zh": "衝突"
+  },
+  {
+    "id": "conform",
+    "word": "conform",
+    "pos": "v.",
+    "zh": "遵從"
+  },
+  {
+    "id": "conformity",
+    "word": "conformity",
+    "pos": "n.",
+    "zh": "遵從"
+  },
+  {
+    "id": "confront",
+    "word": "confront",
+    "pos": "v.",
+    "zh": "面臨；對抗"
+  },
+  {
+    "id": "confrontation",
+    "word": "confrontation",
+    "pos": "n.",
+    "zh": "對質；對抗"
+  },
+  {
+    "id": "confucius",
+    "word": "Confucius",
+    "pos": "n.",
+    "zh": "孔子"
+  },
+  {
+    "id": "confuse",
+    "word": "confuse",
+    "pos": "v.",
+    "zh": "把…弄糊塗"
+  }
+]
