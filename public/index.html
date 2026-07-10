@@ -16,6 +16,7 @@
     --paper-shadow: #e7d9bb;
     --rust: #bf5b2e;
     --sage: #57724f;
+    --accent-zi: #3d5a80;
     --slate: #6b7280;
     --pin-red: #a6382e;
     --pin-gray: #9b9187;
@@ -167,7 +168,8 @@
   }
 
   .log-row:nth-child(2) .log-value { color: var(--sage); transform: rotate(1.5deg); }
-  .log-row:nth-child(3) .log-value { color: var(--coffee); transform: rotate(-1deg); }
+  .log-row:nth-child(3) .log-value { color: var(--accent-zi); transform: rotate(-1deg); }
+  .log-row:nth-child(4) .log-value { color: var(--coffee); transform: rotate(1deg); }
 
   .barcode {
     margin-top: 14px;
@@ -216,6 +218,7 @@
 
   .card.news::before { background: radial-gradient(circle at 35% 30%, #e08a5f, var(--rust) 70%); }
   .card.vocab::before { background: radial-gradient(circle at 35% 30%, #7c9a72, var(--sage) 70%); }
+  .card.zi::before { background: radial-gradient(circle at 35% 30%, #6f8db3, var(--accent-zi) 70%); }
   .card.locked::before { background: radial-gradient(circle at 35% 30%, #bdb4a8, var(--pin-gray) 70%); }
 
   .card-eyebrow {
@@ -228,6 +231,7 @@
 
   .card.news .card-eyebrow { color: var(--rust); }
   .card.vocab .card-eyebrow { color: var(--sage); }
+  .card.zi .card-eyebrow { color: var(--accent-zi); }
   .card.locked .card-eyebrow { color: var(--pin-gray); }
 
   .card h2 {
@@ -254,6 +258,7 @@
 
   .card.news .cta { color: var(--rust); }
   .card.vocab .cta { color: var(--sage); }
+  .card.zi .cta { color: var(--accent-zi); }
 
   .card.locked { opacity: 0.62; cursor: default; }
   .card.locked .cta { color: var(--pin-gray); text-decoration: none; }
@@ -297,7 +302,7 @@
     <header>
       <p class="eyebrow">SUN & MOON — 學習公佈欄</p>
       <h1>日月教育學習網</h1>
-      <p class="sub">為高中生打造的多科學習基地・時事・單字・持續擴充中</p>
+      <p class="sub">為高中生打造的多科學習基地・時事・單字・字音字形・持續擴充中</p>
     </header>
 
     <div class="library-card">
@@ -314,6 +319,11 @@
         <span class="log-label">今日已讀新聞</span>
         <span class="leader"></span>
         <span class="log-value" id="newsCount">0 則</span>
+      </div>
+      <div class="log-row">
+        <span class="log-label">字音字形答對</span>
+        <span class="leader"></span>
+        <span class="log-value" id="ziCount">0 題</span>
       </div>
       <div class="log-row">
         <span class="log-label">連續學習天數</span>
@@ -338,13 +348,12 @@
         <span class="cta">前往單字模塊 →</span>
       </a>
 
-      <div class="card locked">
-        <span class="ribbon">COMING SOON</span>
+      <a class="card zi" href="/zi/">
         <p class="card-eyebrow">Module 03 — 國文</p>
         <h2>字音字形</h2>
-        <p class="desc">易混淆字音字形練習，規劃中，敬請期待。</p>
-        <span class="cta">尚未開放</span>
-      </div>
+        <p class="desc">易混淆字組對比、部首猜字、別選題測驗，破解同音形近字陷阱。</p>
+        <span class="cta">前往字音字形模塊 →</span>
+      </a>
     </div>
 
     <footer>SUN &amp; MOON · 日月教育學習網</footer>
@@ -361,6 +370,7 @@
         var summary = window.Progress.getSummary();
         document.getElementById('vocabCount').textContent = summary.vocabCount + ' 個';
         document.getElementById('newsCount').textContent = summary.newsCount + ' 則';
+        document.getElementById('ziCount').textContent = summary.ziCount + ' 題';
         document.getElementById('streakDays').textContent = summary.streakDays + ' 天';
       }
     })();
