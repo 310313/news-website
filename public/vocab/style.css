@@ -260,6 +260,159 @@ font-weight: 700;
 cursor: pointer;
 }
 
+/* ---- 每日十字 ---- */
+.daily-grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+gap: 1rem;
+}
+
+.daily-mini {
+background: var(--paper);
+border-radius: 4px;
+padding: 1.1rem 1.1rem 1rem;
+box-shadow: 0 8px 14px var(--paper-shadow);
+}
+
+.mini-top {
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 0.5rem;
+}
+
+.mini-word {
+font-family: var(--font-display);
+font-weight: 900;
+font-size: 1.25rem;
+color: var(--ink);
+}
+
+.speak-btn {
+background: none;
+border: 1px solid #c9bfa8;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+font-size: 0.85rem;
+cursor: pointer;
+flex-shrink: 0;
+}
+.speak-btn:hover { border-color: var(--sage); }
+
+.mini-pos {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+color: var(--ink-soft);
+margin: 0.3rem 0 0;
+}
+
+.mini-zh {
+font-size: 1rem;
+color: var(--sage-dark);
+font-weight: 700;
+margin: 0.2rem 0 0.7rem;
+}
+
+.mini-example {
+font-size: 0.85rem;
+line-height: 1.6;
+color: var(--ink-soft);
+margin-bottom: 0.6rem;
+min-height: 0;
+}
+
+.mini-example .ex-line { margin: 0 0 0.3rem; }
+.mini-example .ex-tip { color: var(--sage-dark); }
+
+.loading-hint {
+font-family: var(--font-mono);
+font-size: 0.78rem;
+color: var(--ink-soft);
+opacity: 0.75;
+}
+
+.mini-actions {
+display: flex;
+gap: 0.5rem;
+flex-wrap: wrap;
+}
+
+.mini-btn {
+font-family: var(--font-body);
+font-size: 0.78rem;
+font-weight: 700;
+padding: 0.4rem 0.7rem;
+border-radius: 5px;
+border: 1px solid #c9bfa8;
+background: #fff;
+cursor: pointer;
+}
+
+.mini-btn.learn-btn { background: var(--sage); color: #fff; border-color: var(--sage); }
+.mini-btn:disabled { opacity: 0.55; cursor: default; }
+
+/* ---- 單字卡：例句區 ---- */
+.card-example {
+margin-top: 0.8rem;
+padding-top: 0.7rem;
+border-top: 1px dashed #c9bfa8;
+font-size: 0.82rem;
+line-height: 1.6;
+color: var(--ink-soft);
+text-align: left;
+width: 100%;
+}
+
+.card-example .ex-line { margin: 0 0 0.3rem; }
+.card-example .ex-tip { color: var(--sage-dark); }
+
+.flashcard-face.front .speak-btn {
+position: absolute;
+bottom: 1.2rem;
+}
+
+/* ---- 測驗子分頁 ---- */
+.quiz-subtabs {
+display: flex;
+gap: 0.5rem;
+margin-bottom: 1rem;
+}
+
+.subtab {
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 0.85rem;
+color: var(--paper);
+background: rgba(43,36,32,0.2);
+border: 1px solid rgba(250,246,236,0.3);
+border-radius: 999px;
+padding: 0.4rem 0.9rem;
+cursor: pointer;
+}
+
+.subtab.active {
+background: var(--sage);
+border-color: var(--sage);
+color: #fff;
+}
+
+/* ---- 句子填空 ---- */
+.blank-sentence {
+font-family: var(--font-display);
+font-size: 1.2rem;
+line-height: 1.8;
+text-align: center;
+margin-bottom: 0.6rem;
+}
+
+.blank-zh {
+font-size: 0.85rem;
+color: var(--ink-soft);
+text-align: center;
+margin-bottom: 1.4rem;
+}
+
 /* ---- 測驗 ---- */
 .quiz-card {
 background: var(--paper);
