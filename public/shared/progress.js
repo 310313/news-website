@@ -6,6 +6,7 @@
  * 各模塊使用方式（於各自的 script.js 內）：
  *   Progress.markVocabLearned("sanction");
  *   Progress.markNewsRead("article_id_123");
+ *   Progress.markZiLearned("ji-yi-si-己");
  *   const data = Progress.getSummary();
  */
 
@@ -32,9 +33,10 @@ function saveRaw(state) {
 function defaultState() {
   return {
     vocab_learned: [],   // 已學過的單字（字串陣列）
-    news_read: [],        // 已讀新聞 id（字串陣列）
-    last_active: null,    // 最後活躍日期 "YYYY-MM-DD"
-    streak_days: 0,        // 連續學習天數
+    news_read: [],         // 已讀新聞 id（字串陣列）
+    zi_learned: [],         // 已答對的字音字形題（字串陣列）
+    last_active: null,      // 最後活躍日期 "YYYY-MM-DD"
+    streak_days: 0,          // 連續學習天數
   };
 }
 
@@ -65,11 +67,19 @@ const Progress = {
     saveRaw(state);
   },
 
+  markZiLearned(charKey) {
+    const state = loadRaw();
+    if (!state.zi_learned.includes(charKey)) state.zi_learned.push(charKey);
+    bumpStreak(state);
+    saveRaw(state);
+  },
+
   getSummary() {
     const state = loadRaw();
     return {
       vocabCount: state.vocab_learned.length,
       newsCount: state.news_read.length,
+      ziCount: state.zi_learned.length,
       streakDays: state.streak_days,
     };
   },
@@ -79,7 +89,6 @@ const Progress = {
   },
 };
 
-// 在瀏覽器環境下掛到 window，讓各模塊的 script.js 直接使用
 if (typeof window !== "undefined") {
   window.Progress = Progress;
 }
