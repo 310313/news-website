@@ -87,6 +87,73 @@ color: var(--ink);
 border-color: var(--paper);
 }
 
+/* ---- 篩選列 ---- */
+.filter-bar {
+max-width: 900px;
+margin: 0.4rem auto 0;
+padding: 0 1.5rem;
+display: flex;
+flex-direction: column;
+gap: 0.6rem;
+}
+
+.filter-row {
+display: flex;
+align-items: center;
+gap: 0.6rem;
+flex-wrap: wrap;
+}
+
+.filter-row-label {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+letter-spacing: 0.08em;
+color: rgba(250,246,236,0.65);
+min-width: 64px;
+}
+
+.filter-select {
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 0.82rem;
+color: var(--ink);
+background: var(--paper);
+border: 1px solid rgba(250,246,236,0.4);
+border-radius: 6px;
+padding: 0.4rem 0.6rem;
+cursor: pointer;
+}
+
+.filter-select:disabled {
+opacity: 0.5;
+cursor: not-allowed;
+}
+
+.filter-count {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+color: rgba(250,246,236,0.7);
+}
+
+.filter-reset {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+color: var(--pin-gold);
+background: none;
+border: none;
+text-decoration: underline;
+cursor: pointer;
+padding: 0;
+}
+
+.filter-empty-hint {
+font-family: var(--font-mono);
+font-size: 0.78rem;
+color: rgba(250,246,236,0.6);
+padding: 0.2rem 0.1rem 0;
+line-height: 1.7;
+}
+
 .stage {
 max-width: 900px;
 margin: 0 auto;
