@@ -1,127 +1,665 @@
 [
-{
-"id": "ji-yi-si",
-"mnemonic": "已半巳全不出己：「已」開口一半，「巳」完全封閉，「己」則是開口最大、突出的那一筆。",
-"chars": [
-{"char":"己","zhuyin":"ㄐㄧˇ","meaning":"自己","example":"知己知彼","radicalHint":"獨體字，開口最大，最後一筆不封口且突出"},
-{"char":"已","zhuyin":"ㄧˇ","meaning":"已經；停止","example":"已經完成","radicalHint":"開口約一半，比「己」封閉一些"},
-{"char":"巳","zhuyin":"ㄙˋ","meaning":"地支第六位，生肖蛇","example":"巳時","radicalHint":"完全封口，像盤起來的蛇"}
-]
-},
-{
-"id": "ji-ji",
-"mnemonic": "「即」有立刻、當下的意思；「既」則是已經發生、事後回顧的語氣。",
-"chars": [
-{"char":"即","zhuyin":"ㄐㄧˊ","meaning":"立刻；當下","example":"即使；一觸即發","radicalHint":"右邊是「卩」，表跪坐之人靠近食物，引申為靠近、立刻"},
-{"char":"既","zhuyin":"ㄐㄧˋ","meaning":"已經；既然","example":"既然；既往不咎","radicalHint":"左邊像人吃飽轉身離開，表示「已經完成」"}
-]
-},
-{
-"id": "fu-fu-fu",
-"mnemonic": "三個字都唸ㄈㄨˋ：「複」跟衣物、重複有關；「復」跟返回、恢復有關；「覆」跟翻轉、遮蓋有關。",
-"chars": [
-{"char":"複","zhuyin":"ㄈㄨˋ","meaning":"重複；不單一","example":"複雜；重複","radicalHint":"部首「衣」，本義指雙層衣物，引申為重複"},
-{"char":"復","zhuyin":"ㄈㄨˋ","meaning":"返回；再次","example":"恢復；復活","radicalHint":"部首「彳」（雙人旁），表示行走、往返"},
-{"char":"覆","zhuyin":"ㄈㄨˋ","meaning":"翻轉；遮蓋","example":"顛覆；覆蓋","radicalHint":"部首「襾」，字形像倒扣的容器，表遮蓋、翻轉"}
-]
-},
-{
-"id": "hou-hou",
-"mnemonic": "「侯」是爵位名詞（單人旁，指人的身分）；「候」是等待動作（多一豎，如箭靶的箭）。",
-"chars": [
-{"char":"侯","zhuyin":"ㄏㄡˊ","meaning":"古代爵位","example":"侯爵；諸侯","radicalHint":"部首「人」，字形無中間直豎"},
-{"char":"候","zhuyin":"ㄏㄡˋ","meaning":"等待；時節","example":"等候；氣候","radicalHint":"比「侯」多一豎，部首仍是「人」"}
-]
-},
-{
-"id": "bao-bao",
-"mnemonic": "「暴」跟日曬、猛烈有關；「爆」多了火部，專指爆炸、炸開。",
-"chars": [
-{"char":"暴","zhuyin":"ㄅㄠˋ","meaning":"猛烈；殘酷","example":"暴力；暴躁","radicalHint":"部首「日」，本義為曝曬"},
-{"char":"爆","zhuyin":"ㄅㄠˋ","meaning":"猛然炸開","example":"爆炸；爆發","radicalHint":"部首「火」，強調火燒炸裂"}
-]
-},
-{
-"id": "jin-jin",
-"mnemonic": "「儘」唸ㄐㄧㄣˇ（三聲），有人字旁，指「盡量、盡可能」；「盡」唸ㄐㄧㄣˋ（四聲），指完全用完、竭盡。",
-"chars": [
-{"char":"儘","zhuyin":"ㄐㄧㄣˇ","meaning":"盡量；儘管","example":"儘量；儘管如此","radicalHint":"部首「人」，常搭配「量」「管」使用"},
-{"char":"盡","zhuyin":"ㄐㄧㄣˋ","meaning":"完全；竭盡","example":"盡力；用盡","radicalHint":"部首「皿」，字形像器皿中東西用光"}
-]
-},
-{
-"id": "jing-jing-jing",
-"mnemonic": "三個字都唸ㄐㄧㄥˋ：「境」是土地環境；「竟」是出乎意料或到頭來；「鏡」是金屬鏡子。",
-"chars": [
-{"char":"境","zhuyin":"ㄐㄧㄥˋ","meaning":"地方；環境","example":"環境；邊境","radicalHint":"部首「土」，與土地疆域有關"},
-{"char":"竟","zhuyin":"ㄐㄧㄥˋ","meaning":"居然；到底","example":"畢竟；竟然","radicalHint":"部首「立」，無土無金"},
-{"char":"鏡","zhuyin":"ㄐㄧㄥˋ","meaning":"映照用的器物","example":"鏡子；眼鏡","radicalHint":"部首「金」，與金屬製品有關"}
-]
-},
-{
-"id": "xu-shu-wu",
-"mnemonic": "地支「戌」中間一橫不出頭；「戍」多一撇（人拿戈守衛）；「戊」中間是空的，天干第五位。",
-"chars": [
-{"char":"戌","zhuyin":"ㄒㄩ","meaning":"地支第十一位，生肖狗","example":"戌時","radicalHint":"中間是一橫，不出頭"},
-{"char":"戍","zhuyin":"ㄕㄨˋ","meaning":"防守邊疆","example":"戍守；衛戍","radicalHint":"多一撇，像人持戈站崗"},
-{"char":"戊","zhuyin":"ㄨˋ","meaning":"天干第五位","example":"戊戌政變","radicalHint":"中間無橫無撇，字形最空"}
-]
-},
-{
-"id": "chuan-zhou-zhou",
-"mnemonic": "「川」是三筆直畫，指河流；「州」中間多三點，指行政區域；「洲」再加水部，指大陸板塊，如「亞洲」。",
-"chars": [
-{"char":"川","zhuyin":"ㄔㄨㄢ","meaning":"河流","example":"川流不息；四川","radicalHint":"三筆直畫，像水流"},
-{"char":"州","zhuyin":"ㄓㄡ","meaning":"行政區域","example":"州郡；神州","radicalHint":"「川」中加三點，表示河中沙洲聚落"},
-{"char":"洲","zhuyin":"ㄓㄡ","meaning":"大陸板塊","example":"亞洲；洲際","radicalHint":"部首「水」，比「州」多水部"}
-]
-},
-{
-"id": "shu-xu",
-"mnemonic": "「贖」跟財物、抵償有關（貝部）；「續」跟延長、接下去有關（糸部）。",
-"chars": [
-{"char":"贖","zhuyin":"ㄕㄨˊ","meaning":"用財物抵償","example":"贖罪；贖回","radicalHint":"部首「貝」，與財物交換有關"},
-{"char":"續","zhuyin":"ㄒㄩˋ","meaning":"接下去；延長","example":"繼續；持續","radicalHint":"部首「糸」，像絲線接續不斷"}
-]
-},
-{
-"id": "du-du",
-"mnemonic": "「渡」有水部，專指渡過水面（渡河、渡輪）；「度」無水部，泛指經歷時間或程度（度過、態度）。",
-"chars": [
-{"char":"渡","zhuyin":"ㄉㄨˋ","meaning":"通過水面","example":"渡河；渡輪","radicalHint":"部首「水」，與過河有關"},
-{"char":"度","zhuyin":"ㄉㄨˋ","meaning":"經過；程度","example":"度過；態度","radicalHint":"無水部，用法較廣泛"}
-]
-},
-{
-"id": "shao-shao",
-"mnemonic": "「稍」有禾部，指程度輕微（稍微）；「梢」有木部，指樹木末端（樹梢）。",
-"chars": [
-{"char":"稍","zhuyin":"ㄕㄠ","meaning":"略微","example":"稍微；稍後","radicalHint":"部首「禾」，與程度輕微有關"},
-{"char":"梢","zhuyin":"ㄕㄠ","meaning":"樹木末端","example":"樹梢；末梢","radicalHint":"部首「木」，指樹木的尖端部位"}
-]
-},
-{
-"id": "bian-zha",
-"mnemonic": "「貶」跟財物、評價降低有關（貝部，貶值）；「眨」跟眼睛動作有關（目部，眨眼）。",
-"chars": [
-{"char":"貶","zhuyin":"ㄅㄧㄢˇ","meaning":"降低；批評","example":"貶低；貶值","radicalHint":"部首「貝」，與價值高低有關"},
-{"char":"眨","zhuyin":"ㄓㄚˇ","meaning":"眼睛開闔","example":"眨眼；眨動","radicalHint":"部首「目」，與眼睛動作有關"}
-]
-},
-{
-"id": "xing-xing",
-"mnemonic": "「型」有土部，指模具、類別（類型、模型）；「形」無土部，指外觀樣貌（形狀、形容）。",
-"chars": [
-{"char":"型","zhuyin":"ㄒㄧㄥˊ","meaning":"模具；種類","example":"類型；模型","radicalHint":"部首「土」，本義為鑄造用的模子"},
-{"char":"形","zhuyin":"ㄒㄧㄥˊ","meaning":"樣貌；外觀","example":"形狀；形容","radicalHint":"右邊三撇，表示紋理、外觀"}
-]
-},
-{
-"id": "dai-dai",
-"mnemonic": "「帶」指隨身攜帶的物品或動作（帶領、皮帶）；「戴」指頂在頭上或加諸於身（戴帽子、戴罪）。",
-"chars": [
-{"char":"帶","zhuyin":"ㄉㄞˋ","meaning":"隨身攜帶","example":"帶領；皮帶","radicalHint":"部首「巾」，與布料、繫物有關"},
-{"char":"戴","zhuyin":"ㄉㄞˋ","meaning":"頂在頭上、加諸於身","example":"戴帽子；戴罪立功","radicalHint":"下方是「異」，與頭頂加物的動作有關"}
-]
-}
+ {
+  "id": "ji-yi-si",
+  "mnemonic": "已半巳全不出己：「已」開口一半，「巳」完全封閉，「己」則是開口最大、突出的那一筆。",
+  "chars": [
+   {
+    "char": "己",
+    "zhuyin": "ㄐㄧˇ",
+    "meaning": "自己",
+    "example": "知己知彼",
+    "radicalHint": "獨體字，開口最大，最後一筆不封口且突出"
+   },
+   {
+    "char": "已",
+    "zhuyin": "ㄧˇ",
+    "meaning": "已經；停止",
+    "example": "已經完成",
+    "radicalHint": "開口約一半，比「己」封閉一些"
+   },
+   {
+    "char": "巳",
+    "zhuyin": "ㄙˋ",
+    "meaning": "地支第六位，生肖蛇",
+    "example": "巳時",
+    "radicalHint": "完全封口，像盤起來的蛇"
+   }
+  ]
+ },
+ {
+  "id": "ji-ji",
+  "mnemonic": "「即」有立刻、當下的意思；「既」則是已經發生、事後回顧的語氣。",
+  "chars": [
+   {
+    "char": "即",
+    "zhuyin": "ㄐㄧˊ",
+    "meaning": "立刻；當下",
+    "example": "即使；一觸即發",
+    "radicalHint": "右邊是「卩」，表跪坐之人靠近食物，引申為靠近、立刻"
+   },
+   {
+    "char": "既",
+    "zhuyin": "ㄐㄧˋ",
+    "meaning": "已經；既然",
+    "example": "既然；既往不咎",
+    "radicalHint": "左邊像人吃飽轉身離開，表示「已經完成」"
+   }
+  ]
+ },
+ {
+  "id": "fu-fu-fu",
+  "mnemonic": "三個字都唸ㄈㄨˋ：「複」跟衣物、重複有關；「復」跟返回、恢復有關；「覆」跟翻轉、遮蓋有關。",
+  "chars": [
+   {
+    "char": "複",
+    "zhuyin": "ㄈㄨˋ",
+    "meaning": "重複；不單一",
+    "example": "複雜；重複",
+    "radicalHint": "部首「衣」，本義指雙層衣物，引申為重複"
+   },
+   {
+    "char": "復",
+    "zhuyin": "ㄈㄨˋ",
+    "meaning": "返回；再次",
+    "example": "恢復；復活",
+    "radicalHint": "部首「彳」（雙人旁），表示行走、往返"
+   },
+   {
+    "char": "覆",
+    "zhuyin": "ㄈㄨˋ",
+    "meaning": "翻轉；遮蓋",
+    "example": "顛覆；覆蓋",
+    "radicalHint": "部首「襾」，字形像倒扣的容器，表遮蓋、翻轉"
+   }
+  ]
+ },
+ {
+  "id": "hou-hou",
+  "mnemonic": "「侯」是爵位名詞（單人旁，指人的身分）；「候」是等待動作（多一豎，如箭靶的箭）。",
+  "chars": [
+   {
+    "char": "侯",
+    "zhuyin": "ㄏㄡˊ",
+    "meaning": "古代爵位",
+    "example": "侯爵；諸侯",
+    "radicalHint": "部首「人」，字形無中間直豎"
+   },
+   {
+    "char": "候",
+    "zhuyin": "ㄏㄡˋ",
+    "meaning": "等待；時節",
+    "example": "等候；氣候",
+    "radicalHint": "比「侯」多一豎，部首仍是「人」"
+   }
+  ]
+ },
+ {
+  "id": "bao-bao",
+  "mnemonic": "「暴」跟日曬、猛烈有關；「爆」多了火部，專指爆炸、炸開。",
+  "chars": [
+   {
+    "char": "暴",
+    "zhuyin": "ㄅㄠˋ",
+    "meaning": "猛烈；殘酷",
+    "example": "暴力；暴躁",
+    "radicalHint": "部首「日」，本義為曝曬"
+   },
+   {
+    "char": "爆",
+    "zhuyin": "ㄅㄠˋ",
+    "meaning": "猛然炸開",
+    "example": "爆炸；爆發",
+    "radicalHint": "部首「火」，強調火燒炸裂"
+   }
+  ]
+ },
+ {
+  "id": "jin-jin",
+  "mnemonic": "「儘」唸ㄐㄧㄣˇ（三聲），有人字旁，指「盡量、盡可能」；「盡」唸ㄐㄧㄣˋ（四聲），指完全用完、竭盡。",
+  "chars": [
+   {
+    "char": "儘",
+    "zhuyin": "ㄐㄧㄣˇ",
+    "meaning": "盡量；儘管",
+    "example": "儘量；儘管如此",
+    "radicalHint": "部首「人」，常搭配「量」「管」使用"
+   },
+   {
+    "char": "盡",
+    "zhuyin": "ㄐㄧㄣˋ",
+    "meaning": "完全；竭盡",
+    "example": "盡力；用盡",
+    "radicalHint": "部首「皿」，字形像器皿中東西用光"
+   }
+  ]
+ },
+ {
+  "id": "jing-jing-jing",
+  "mnemonic": "三個字都唸ㄐㄧㄥˋ：「境」是土地環境；「竟」是出乎意料或到頭來；「鏡」是金屬鏡子。",
+  "chars": [
+   {
+    "char": "境",
+    "zhuyin": "ㄐㄧㄥˋ",
+    "meaning": "地方；環境",
+    "example": "環境；邊境",
+    "radicalHint": "部首「土」，與土地疆域有關"
+   },
+   {
+    "char": "竟",
+    "zhuyin": "ㄐㄧㄥˋ",
+    "meaning": "居然；到底",
+    "example": "畢竟；竟然",
+    "radicalHint": "部首「立」，無土無金"
+   },
+   {
+    "char": "鏡",
+    "zhuyin": "ㄐㄧㄥˋ",
+    "meaning": "映照用的器物",
+    "example": "鏡子；眼鏡",
+    "radicalHint": "部首「金」，與金屬製品有關"
+   }
+  ]
+ },
+ {
+  "id": "xu-shu-wu",
+  "mnemonic": "地支「戌」中間一橫不出頭；「戍」多一撇（人拿戈守衛）；「戊」中間是空的，天干第五位。",
+  "chars": [
+   {
+    "char": "戌",
+    "zhuyin": "ㄒㄩ",
+    "meaning": "地支第十一位，生肖狗",
+    "example": "戌時",
+    "radicalHint": "中間是一橫，不出頭"
+   },
+   {
+    "char": "戍",
+    "zhuyin": "ㄕㄨˋ",
+    "meaning": "防守邊疆",
+    "example": "戍守；衛戍",
+    "radicalHint": "多一撇，像人持戈站崗"
+   },
+   {
+    "char": "戊",
+    "zhuyin": "ㄨˋ",
+    "meaning": "天干第五位",
+    "example": "戊戌政變",
+    "radicalHint": "中間無橫無撇，字形最空"
+   }
+  ]
+ },
+ {
+  "id": "chuan-zhou-zhou",
+  "mnemonic": "「川」是三筆直畫，指河流；「州」中間多三點，指行政區域；「洲」再加水部，指大陸板塊，如「亞洲」。",
+  "chars": [
+   {
+    "char": "川",
+    "zhuyin": "ㄔㄨㄢ",
+    "meaning": "河流",
+    "example": "川流不息；四川",
+    "radicalHint": "三筆直畫，像水流"
+   },
+   {
+    "char": "州",
+    "zhuyin": "ㄓㄡ",
+    "meaning": "行政區域",
+    "example": "州郡；神州",
+    "radicalHint": "「川」中加三點，表示河中沙洲聚落"
+   },
+   {
+    "char": "洲",
+    "zhuyin": "ㄓㄡ",
+    "meaning": "大陸板塊",
+    "example": "亞洲；洲際",
+    "radicalHint": "部首「水」，比「州」多水部"
+   }
+  ]
+ },
+ {
+  "id": "shu-xu",
+  "mnemonic": "「贖」跟財物、抵償有關（貝部）；「續」跟延長、接下去有關（糸部）。",
+  "chars": [
+   {
+    "char": "贖",
+    "zhuyin": "ㄕㄨˊ",
+    "meaning": "用財物抵償",
+    "example": "贖罪；贖回",
+    "radicalHint": "部首「貝」，與財物交換有關"
+   },
+   {
+    "char": "續",
+    "zhuyin": "ㄒㄩˋ",
+    "meaning": "接下去；延長",
+    "example": "繼續；持續",
+    "radicalHint": "部首「糸」，像絲線接續不斷"
+   }
+  ]
+ },
+ {
+  "id": "du-du",
+  "mnemonic": "「渡」有水部，專指渡過水面（渡河、渡輪）；「度」無水部，泛指經歷時間或程度（度過、態度）。",
+  "chars": [
+   {
+    "char": "渡",
+    "zhuyin": "ㄉㄨˋ",
+    "meaning": "通過水面",
+    "example": "渡河；渡輪",
+    "radicalHint": "部首「水」，與過河有關"
+   },
+   {
+    "char": "度",
+    "zhuyin": "ㄉㄨˋ",
+    "meaning": "經過；程度",
+    "example": "度過；態度",
+    "radicalHint": "無水部，用法較廣泛"
+   }
+  ]
+ },
+ {
+  "id": "shao-shao",
+  "mnemonic": "「稍」有禾部，指程度輕微（稍微）；「梢」有木部，指樹木末端（樹梢）。",
+  "chars": [
+   {
+    "char": "稍",
+    "zhuyin": "ㄕㄠ",
+    "meaning": "略微",
+    "example": "稍微；稍後",
+    "radicalHint": "部首「禾」，與程度輕微有關"
+   },
+   {
+    "char": "梢",
+    "zhuyin": "ㄕㄠ",
+    "meaning": "樹木末端",
+    "example": "樹梢；末梢",
+    "radicalHint": "部首「木」，指樹木的尖端部位"
+   }
+  ]
+ },
+ {
+  "id": "bian-zha",
+  "mnemonic": "「貶」跟財物、評價降低有關（貝部，貶值）；「眨」跟眼睛動作有關（目部，眨眼）。",
+  "chars": [
+   {
+    "char": "貶",
+    "zhuyin": "ㄅㄧㄢˇ",
+    "meaning": "降低；批評",
+    "example": "貶低；貶值",
+    "radicalHint": "部首「貝」，與價值高低有關"
+   },
+   {
+    "char": "眨",
+    "zhuyin": "ㄓㄚˇ",
+    "meaning": "眼睛開闔",
+    "example": "眨眼；眨動",
+    "radicalHint": "部首「目」，與眼睛動作有關"
+   }
+  ]
+ },
+ {
+  "id": "xing-xing",
+  "mnemonic": "「型」有土部，指模具、類別（類型、模型）；「形」無土部，指外觀樣貌（形狀、形容）。",
+  "chars": [
+   {
+    "char": "型",
+    "zhuyin": "ㄒㄧㄥˊ",
+    "meaning": "模具；種類",
+    "example": "類型；模型",
+    "radicalHint": "部首「土」，本義為鑄造用的模子"
+   },
+   {
+    "char": "形",
+    "zhuyin": "ㄒㄧㄥˊ",
+    "meaning": "樣貌；外觀",
+    "example": "形狀；形容",
+    "radicalHint": "右邊三撇，表示紋理、外觀"
+   }
+  ]
+ },
+ {
+  "id": "dai-dai",
+  "mnemonic": "「帶」指隨身攜帶的物品或動作（帶領、皮帶）；「戴」指頂在頭上或加諸於身（戴帽子、戴罪）。",
+  "chars": [
+   {
+    "char": "帶",
+    "zhuyin": "ㄉㄞˋ",
+    "meaning": "隨身攜帶",
+    "example": "帶領；皮帶",
+    "radicalHint": "部首「巾」，與布料、繫物有關"
+   },
+   {
+    "char": "戴",
+    "zhuyin": "ㄉㄞˋ",
+    "meaning": "頂在頭上、加諸於身",
+    "example": "戴帽子；戴罪立功",
+    "radicalHint": "下方是「異」，與頭頂加物的動作有關"
+   }
+  ]
+ },
+ {
+  "id": "zheng-zheng",
+  "mnemonic": "「徵」跟徵求、跡象有關（微字旁，表細微跡象）；「征」跟出征、遠行有關（雙人旁，表行走）。",
+  "chars": [
+   {
+    "char": "徵",
+    "zhuyin": "ㄓㄥ",
+    "meaning": "召集；跡象",
+    "example": "徵求；特徵",
+    "radicalHint": "部首「彳」，右下多「攵」，本義為召集、驗證"
+   },
+   {
+    "char": "征",
+    "zhuyin": "ㄓㄥ",
+    "meaning": "出行；討伐",
+    "example": "遠征；出征",
+    "radicalHint": "部首「彳」，右邊是「正」，表正面前行、征討"
+   }
+  ]
+ },
+ {
+  "id": "zhe-zhe",
+  "mnemonic": "「蜇」是蟲部，指昆蟲螫人或海蜇（水母）；「蟄」下面有「虫」，指動物冬眠、潛伏。",
+  "chars": [
+   {
+    "char": "蜇",
+    "zhuyin": "ㄓㄜ",
+    "meaning": "蟲類刺人；水母",
+    "example": "蜜蜂螫人；海蜇皮",
+    "radicalHint": "部首「虫」，字形較簡單，指昆蟲叮咬動作"
+   },
+   {
+    "char": "蟄",
+    "zhuyin": "ㄓˊ",
+    "meaning": "動物冬眠、潛伏",
+    "example": "蟄伏；驚蟄",
+    "radicalHint": "上方「執」下方「虫」，表蟲類潛藏不動"
+   }
+  ]
+ },
+ {
+  "id": "an-an",
+  "mnemonic": "「暗」是常見用字，指光線不足；「黯」多了黑部，語氣更深，指情緒低落、暗淡無光。",
+  "chars": [
+   {
+    "char": "暗",
+    "zhuyin": "ㄢˋ",
+    "meaning": "光線不足",
+    "example": "黑暗；暗示",
+    "radicalHint": "部首「日」，與光線明暗有關"
+   },
+   {
+    "char": "黯",
+    "zhuyin": "ㄢˋ",
+    "meaning": "陰沉；黯淡",
+    "example": "黯然；黯淡無光",
+    "radicalHint": "部首「黑」，語意比「暗」更強烈，多用於形容神情或心情"
+   }
+  ]
+ },
+ {
+  "id": "han-han-han-han",
+  "mnemonic": "四個字都唸ㄏㄢˋ：「汗」跟水有關（流汗）；「捍」跟手部動作有關（捍衛）；「悍」跟心性有關（兇悍）；「焊」跟火有關（焊接）。",
+  "chars": [
+   {
+    "char": "汗",
+    "zhuyin": "ㄏㄢˋ",
+    "meaning": "皮膚分泌的液體",
+    "example": "流汗；汗水",
+    "radicalHint": "部首「水」，與體液有關"
+   },
+   {
+    "char": "捍",
+    "zhuyin": "ㄏㄢˋ",
+    "meaning": "保衛；抵禦",
+    "example": "捍衛；捍禦",
+    "radicalHint": "部首「手」，表用手抵擋、保護"
+   },
+   {
+    "char": "悍",
+    "zhuyin": "ㄏㄢˋ",
+    "meaning": "勇猛；兇暴",
+    "example": "兇悍；強悍",
+    "radicalHint": "部首「心」，形容性情剛猛"
+   },
+   {
+    "char": "焊",
+    "zhuyin": "ㄏㄢˋ",
+    "meaning": "用高溫連接金屬",
+    "example": "焊接；電焊",
+    "radicalHint": "部首「火」，與高溫加工有關"
+   }
+  ]
+ },
+ {
+  "id": "zhen-zhen-zhen",
+  "mnemonic": "「賑」是貝部，跟財物救濟有關（賑災）；「振」是手部，跟振作、揮動有關；「震」是雨部，跟地震、震動有關。",
+  "chars": [
+   {
+    "char": "賑",
+    "zhuyin": "ㄓㄣˋ",
+    "meaning": "救濟財物",
+    "example": "賑災；賑濟",
+    "radicalHint": "部首「貝」，與財物救助有關"
+   },
+   {
+    "char": "振",
+    "zhuyin": "ㄓㄣˋ",
+    "meaning": "搖動；奮起",
+    "example": "振作；振奮",
+    "radicalHint": "部首「手」，表用手搖動、提起精神"
+   },
+   {
+    "char": "震",
+    "zhuyin": "ㄓㄣˋ",
+    "meaning": "劇烈搖動",
+    "example": "地震；震驚",
+    "radicalHint": "部首「雨」，本義與雷電震動天地有關"
+   }
+  ]
+ },
+ {
+  "id": "lin-lin",
+  "mnemonic": "「遴」是辵部，指謹慎行走、挑選（遴選）；「鄰」是邑部，指居住地相近的人（鄰居）。",
+  "chars": [
+   {
+    "char": "遴",
+    "zhuyin": "ㄌㄧㄣˊ",
+    "meaning": "謹慎選拔",
+    "example": "遴選；遴聘",
+    "radicalHint": "部首「辵」（走之旁），與行走、選擇的動作有關"
+   },
+   {
+    "char": "鄰",
+    "zhuyin": "ㄌㄧㄣˊ",
+    "meaning": "住處相近的人",
+    "example": "鄰居；鄰近",
+    "radicalHint": "部首「邑」（右耳旁），與居住地、行政區有關"
+   }
+  ]
+ },
+ {
+  "id": "yan-yan",
+  "mnemonic": "「贗」是貝部，指假冒的財物（贗品）；「雁」是隹部，指候鳥大雁。",
+  "chars": [
+   {
+    "char": "贗",
+    "zhuyin": "ㄧㄢˋ",
+    "meaning": "假造的；偽造",
+    "example": "贗品；以贗亂真",
+    "radicalHint": "部首「貝」，與財物真偽有關"
+   },
+   {
+    "char": "雁",
+    "zhuyin": "ㄧㄢˋ",
+    "meaning": "候鳥名",
+    "example": "雁行；孤雁",
+    "radicalHint": "部首「隹」，與鳥類有關"
+   }
+  ]
+ },
+ {
+  "id": "ming-ming-ming",
+  "mnemonic": "「冥」指幽暗、玄妙（冥想）；「暝」多了日部，指日暮天黑；「瞑」多了目部，指閉上眼睛。",
+  "chars": [
+   {
+    "char": "冥",
+    "zhuyin": "ㄇㄧㄥˊ",
+    "meaning": "幽暗；玄妙",
+    "example": "冥想；冥頑不靈",
+    "radicalHint": "部首「冖」，字形本身無日無目，最單純"
+   },
+   {
+    "char": "暝",
+    "zhuyin": "ㄇㄧㄥˊ",
+    "meaning": "天色昏暗；夜晚",
+    "example": "日暝；暝色",
+    "radicalHint": "部首「日」，與天色變暗有關"
+   },
+   {
+    "char": "瞑",
+    "zhuyin": "ㄇㄧㄥˊ",
+    "meaning": "閉上眼睛",
+    "example": "死不瞑目",
+    "radicalHint": "部首「目」，與眼睛動作有關"
+   }
+  ]
+ },
+ {
+  "id": "sui-chong",
+  "mnemonic": "「祟」上面是「出」，指鬼怪作怪（作祟）；「崇」上面是「山」，指推崇、崇高。",
+  "chars": [
+   {
+    "char": "祟",
+    "zhuyin": "ㄙㄨㄟˋ",
+    "meaning": "鬼怪害人；暗中搗亂",
+    "example": "作祟；鬼鬼祟祟",
+    "radicalHint": "部首「示」，上方是「出」，與鬼神有關"
+   },
+   {
+    "char": "崇",
+    "zhuyin": "ㄔㄨㄥˊ",
+    "meaning": "尊敬；高大",
+    "example": "崇拜；崇高",
+    "radicalHint": "部首「山」，上方是「山」，與高大、尊崇有關"
+   }
+  ]
+ },
+ {
+  "id": "lu-chuo",
+  "mnemonic": "「戮」是戈部，指殺戮、合力（戮力）；「戳」也是戈部，但多一「隹」，指刺穿、蓋章（戳記）。",
+  "chars": [
+   {
+    "char": "戮",
+    "zhuyin": "ㄌㄨˋ",
+    "meaning": "殺害；合力",
+    "example": "殺戮；戮力同心",
+    "radicalHint": "部首「戈」，與兵器殺伐有關"
+   },
+   {
+    "char": "戳",
+    "zhuyin": "ㄔㄨㄛ",
+    "meaning": "刺穿；蓋章",
+    "example": "戳破；郵戳",
+    "radicalHint": "部首「戈」，右上多「隹」，字形較「戮」複雜"
+   }
+  ]
+ },
+ {
+  "id": "die-die",
+  "mnemonic": "「諜」是言部，指刺探情報的人（間諜）；「牒」是片部，指公文書信（通牒）。",
+  "chars": [
+   {
+    "char": "諜",
+    "zhuyin": "ㄉㄧㄝˊ",
+    "meaning": "刺探情報者",
+    "example": "間諜；諜報",
+    "radicalHint": "部首「言」，與傳遞訊息有關"
+   },
+   {
+    "char": "牒",
+    "zhuyin": "ㄉㄧㄝˊ",
+    "meaning": "公文書信",
+    "example": "通牒；度牒",
+    "radicalHint": "部首「片」，本義與木片、文書有關"
+   }
+  ]
+ },
+ {
+  "id": "xian-xian",
+  "mnemonic": "「羨」跟心生渴望有關（羨慕，下方是「次」）；「涎」是水部，指口水（垂涎）。",
+  "chars": [
+   {
+    "char": "羨",
+    "zhuyin": "ㄒㄧㄢˋ",
+    "meaning": "欣羨；渴望",
+    "example": "羨慕；欣羨",
+    "radicalHint": "部首「羊」，下方是「次」，與欣羨、渴望有關"
+   },
+   {
+    "char": "涎",
+    "zhuyin": "ㄒㄧㄢˊ",
+    "meaning": "口水",
+    "example": "垂涎；涎水",
+    "radicalHint": "部首「水」，與體液有關"
+   }
+  ]
+ },
+ {
+  "id": "yi-zhi",
+  "mnemonic": "「詣」是言部，指學問技藝的境界（造詣）；「旨」是「詣」拿掉言部剩下的部分，指主旨、意圖。",
+  "chars": [
+   {
+    "char": "詣",
+    "zhuyin": "ㄧˋ",
+    "meaning": "學問技藝的境界",
+    "example": "造詣；苦心孤詣",
+    "radicalHint": "部首「言」，比「旨」多一個言部"
+   },
+   {
+    "char": "旨",
+    "zhuyin": "ㄓˇ",
+    "meaning": "意圖；目的",
+    "example": "宗旨；旨意",
+    "radicalHint": "部首「日」，字形較簡單，常被包在「詣」裡面"
+   }
+  ]
+ },
+ {
+  "id": "fang-fang",
+  "mnemonic": "「彷」是彳部，指模糊相似的樣子（彷彿）；「仿」是人部，指模仿、依照樣子做。",
+  "chars": [
+   {
+    "char": "彷",
+    "zhuyin": "ㄈㄤˇ",
+    "meaning": "相似；好像",
+    "example": "彷彿",
+    "radicalHint": "部首「彳」，常與「彿」連用，形容模糊相似"
+   },
+   {
+    "char": "仿",
+    "zhuyin": "ㄈㄤˇ",
+    "meaning": "依樣模仿",
+    "example": "模仿；仿造",
+    "radicalHint": "部首「人」，與人的行為、模仿動作有關"
+   }
+  ]
+ },
+ {
+  "id": "sou-sou",
+  "mnemonic": "「蒐」是草部，本義為搜集材料、聚集（蒐集）；「搜」是手部，指用手翻找、探尋（搜尋）。",
+  "chars": [
+   {
+    "char": "蒐",
+    "zhuyin": "ㄙㄡ",
+    "meaning": "聚集；搜集",
+    "example": "蒐集；蒐羅",
+    "radicalHint": "部首「艸」，本義與收集草木材料有關，引申為蒐集資料"
+   },
+   {
+    "char": "搜",
+    "zhuyin": "ㄙㄡ",
+    "meaning": "仔細尋找",
+    "example": "搜尋；搜索",
+    "radicalHint": "部首「手」，與用手翻找的動作有關"
+   }
+  ]
+ }
 ]
