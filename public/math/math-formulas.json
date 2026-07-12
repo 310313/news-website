@@ -27,5 +27,35 @@
 {"id": "poly-05", "name": "綜合除法（簡述）", "formula": "以 x - a 為除式時，用係數直接連乘相加求商式與餘式", "note": "比長除法快，適合除式為一次式的情形"},
 {"id": "poly-06", "name": "有理根判定原則", "formula": "若 f(x) 的有理根為 p/q（最簡分數），則 p 整除常數項、q 整除最高次項係數", "note": "用來縮小可能根的猜測範圍"}
 ]
+},
+{
+"unit": "linear-equations",
+"grade": "1",
+"title": "直線方程式",
+"formulas": [
+{"id": "line-01", "name": "斜率公式", "formula": "m = (y₂ - y₁) / (x₂ - x₁)", "note": "描述直線的傾斜程度，垂直線斜率不存在"},
+{"id": "line-02", "name": "點斜式", "formula": "y - y₁ = m(x - x₁)", "note": "已知一點與斜率時最方便使用"},
+{"id": "line-03", "name": "兩點式", "formula": "(y - y₁)/(y₂ - y₁) = (x - x₁)/(x₂ - x₁)", "note": "已知兩點座標時可直接代入"},
+{"id": "line-04", "name": "截距式", "formula": "x/a + y/b = 1", "note": "a、b 分別是 x、y 軸截距，適合已知截距的情況"},
+{"id": "line-05", "name": "一般式與斜率", "formula": "Ax + By + C = 0 的斜率 m = -A/B（B ≠ 0）", "note": "由一般式直接看出斜率的方法"},
+{"id": "line-06", "name": "兩直線平行", "formula": "m₁ = m₂（或 A₁B₂ = A₂B₁）", "note": "斜率相等則兩直線平行（或重合）"},
+{"id": "line-07", "name": "兩直線垂直", "formula": "m₁ × m₂ = -1（或 A₁A₂ + B₁B₂ = 0）", "note": "斜率乘積為 -1 是垂直的判斷方式"},
+{"id": "line-08", "name": "點到直線距離公式", "formula": "d = |Ax₀ + By₀ + C| / √(A² + B²)", "note": "常考的距離公式，注意分子要取絕對值"},
+{"id": "line-09", "name": "兩平行線間距離", "formula": "d = |C₁ - C₂| / √(A² + B²)", "note": "兩直線係數 A、B 需先化成相同才能套用"}
+]
+},
+{
+"unit": "sequences-series",
+"grade": "1",
+"title": "數列與級數",
+"formulas": [
+{"id": "seq-01", "name": "等差數列通項", "formula": "aₙ = a₁ + (n-1)d", "note": "d 為公差，可正可負"},
+{"id": "seq-02", "name": "等差數列和", "formula": "Sₙ = n(a₁+aₙ)/2 = n·a₁ + n(n-1)d/2", "note": "兩種寫法皆常用，視題目給的條件選擇"},
+{"id": "seq-03", "name": "等比數列通項", "formula": "aₙ = a₁ · r^(n-1)", "note": "r 為公比，r=0 或數列含 0 時需特別討論"},
+{"id": "seq-04", "name": "等比數列和（r≠1）", "formula": "Sₙ = a₁(1-rⁿ)/(1-r)", "note": "r=1 時退化為 Sₙ=n·a₁，需另外處理"},
+{"id": "seq-05", "name": "無窮等比級數和", "formula": "S = a₁/(1-r)（|r| < 1）", "note": "|r|≥1 時無窮等比級數發散，沒有和"},
+{"id": "seq-06", "name": "等差中項", "formula": "b 是 a、c 的等差中項 ⟺ 2b = a + c", "note": "即 b 恰為 a、c 的算術平均"},
+{"id": "seq-07", "name": "等比中項", "formula": "b 是 a、c 的等比中項 ⟺ b² = ac（a、c 同號）", "note": "b 可能為正負兩解，需依題意取捨"}
+]
 }
 ]
