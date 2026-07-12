@@ -1,0 +1,14 @@
+[
+{"id":"q-ne-01","unit":"numbers-expressions","difficulty":"basic","question":"化簡 |5 - 8| = ?","options":["3","-3","13","0"],"answer":0,"explanation":"|5-8| = |-3| = 3，絕對值取正值。"},
+{"id":"q-ne-02","unit":"numbers-expressions","difficulty":"basic","question":"若 |x - 2| < 3，則 x 的範圍為？","options":["-1 < x < 5","x < 5","x > -1","x < -1 或 x > 5"],"answer":0,"explanation":"|x-2|<3 ⟺ -3<x-2<3 ⟺ -1<x<5。"},
+{"id":"q-ne-03","unit":"numbers-expressions","difficulty":"medium","question":"化簡 (x+3)² - (x-3)² = ?","options":["12x","6x","18","9x²"],"answer":0,"explanation":"利用平方差公式：[(x+3)+(x-3)][(x+3)-(x-3)] = (2x)(6) = 12x。"},
+{"id":"q-ne-04","unit":"numbers-expressions","difficulty":"medium","question":"若 a+b=5、ab=6，求 a²+b² = ?","options":["13","25","11","1"],"answer":0,"explanation":"a²+b² = (a+b)² - 2ab = 25 - 12 = 13。"},
+{"id":"q-ne-05","unit":"numbers-expressions","difficulty":"hard","question":"化簡 √12 + √27 - √3 = ?","options":["4√3","5√3","6√3","3√3"],"answer":0,"explanation":"√12=2√3，√27=3√3，故 2√3+3√3-√3=4√3。"},
+{"id":"q-ne-06","unit":"numbers-expressions","difficulty":"hard","question":"解不等式 |2x - 1| ≥ 5","options":["x ≤ -2 或 x ≥ 3","-2 ≤ x ≤ 3","x ≥ 3","x ≤ -2"],"answer":0,"explanation":"|2x-1|≥5 ⟺ 2x-1≤-5 或 2x-1≥5，解得 x≤-2 或 x≥3。"},
+{"id":"q-poly-01","unit":"polynomials","difficulty":"basic","question":"多項式 f(x) = x³ - 2x² + x - 5 的次數為？","options":["3","2","1","5"],"answer":0,"explanation":"最高次項是 x³，所以次數為 3。"},
+{"id":"q-poly-02","unit":"polynomials","difficulty":"basic","question":"f(x) = x² - 3x + 2 除以 (x - 1) 的餘式為？","options":["0","1","-1","2"],"answer":0,"explanation":"由餘式定理，餘式 = f(1) = 1-3+2 = 0，代表 (x-1) 是因式。"},
+{"id":"q-poly-03","unit":"polynomials","difficulty":"medium","question":"若 f(x) = x³ - 3x² + k 可被 (x - 1) 整除，求 k = ?","options":["2","-2","3","0"],"answer":0,"explanation":"由因式定理 f(1)=0：1-3+k=0，解得 k=2。"},
+{"id":"q-poly-04","unit":"polynomials","difficulty":"medium","question":"(2x³+3x²-x+5) 除以 (x+2) 的餘式為？","options":["3","-3","5","11"],"answer":0,"explanation":"由餘式定理，餘式 = f(-2) = 2(-8)+3(4)-(-2)+5 = -16+12+2+5 = 3。"},
+{"id":"q-poly-05","unit":"polynomials","difficulty":"hard","question":"已知 f(x) = x⁴ - 5x² + 4，求所有實根","options":["±1、±2","±1","±2","無實根"],"answer":0,"explanation":"令 y=x²，得 y²-5y+4=(y-1)(y-4)=0，故 y=1 或 4，對應 x=±1、±2。"},
+{"id":"q-poly-06","unit":"polynomials","difficulty":"hard","question":"若 (x-1) 是 f(x) = x³ + ax² + bx - 2 的因式，求 a+b = ?","options":["1","-1","3","-3"],"answer":0,"explanation":"由因式定理 f(1)=0：1+a+b-2=0，解得 a+b=1。"}
+]
