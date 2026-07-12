@@ -1,0 +1,434 @@
+:root {
+--cork: #7c5c3e;
+--cork-dark: #6a4d33;
+--paper: #faf6ec;
+--paper-shadow: rgba(43, 36, 32, 0.35);
+--ink: #2b2420;
+--ink-soft: #5c5347;
+--accent: #8a5a2b;
+--accent-dark: #63401d;
+--pin-gold: #d8a93b;
+--wrong-red: #a6382e;
+--font-display: 'Noto Serif TC', serif;
+--font-body: 'Noto Sans TC', sans-serif;
+--font-mono: 'Courier Prime', monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+margin: 0;
+background: var(--cork);
+color: var(--ink);
+font-family: var(--font-body);
+min-height: 100vh;
+}
+
+.v-header {
+max-width: 900px;
+margin: 0 auto;
+padding: 2rem 1.5rem 1.2rem;
+display: flex;
+flex-direction: column;
+border-bottom: 2px dashed rgba(250,246,236,0.35);
+}
+
+.back-link {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+color: rgba(250,246,236,0.7);
+text-decoration: none;
+margin-bottom: 0.6rem;
+border-bottom: 1px dotted rgba(250,246,236,0.4);
+width: fit-content;
+}
+.back-link:hover { color: var(--paper); }
+
+.eyebrow {
+font-family: var(--font-mono);
+font-size: 0.7rem;
+letter-spacing: 0.2em;
+color: var(--pin-gold);
+margin-bottom: 0.4rem;
+}
+
+.v-header h1 {
+font-family: var(--font-display);
+font-weight: 900;
+font-size: clamp(1.8rem, 5vw, 2.6rem);
+color: var(--paper);
+margin: 0;
+}
+
+.mode-tabs {
+max-width: 900px;
+margin: 0 auto;
+padding: 1.2rem 1.5rem 0.5rem;
+display: flex;
+gap: 0.6rem;
+flex-wrap: wrap;
+}
+
+.tab {
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 0.9rem;
+color: var(--paper);
+background: rgba(43,36,32,0.28);
+border: 1px solid rgba(250,246,236,0.3);
+border-radius: 6px;
+padding: 0.55rem 1rem;
+cursor: pointer;
+}
+
+.tab.active {
+background: var(--paper);
+color: var(--ink);
+border-color: var(--paper);
+}
+
+.stage {
+max-width: 900px;
+margin: 0 auto;
+padding: 1.5rem;
+min-height: 40vh;
+}
+
+.state-message {
+color: var(--paper);
+font-family: var(--font-mono);
+text-align: center;
+padding: 3rem 1rem;
+opacity: 0.85;
+}
+
+/* ---- 朝代分支選單 ---- */
+.branch-tabs {
+display: flex;
+gap: 0.5rem;
+margin-bottom: 1.4rem;
+flex-wrap: wrap;
+}
+
+.branch-tab {
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 0.85rem;
+color: var(--paper);
+background: rgba(43,36,32,0.2);
+border: 1px solid rgba(250,246,236,0.3);
+border-radius: 999px;
+padding: 0.45rem 1rem;
+cursor: pointer;
+}
+
+.branch-tab.active {
+background: var(--accent);
+border-color: var(--accent);
+color: #fff;
+}
+
+/* ---- 時間軸 ---- */
+.timeline-wrap {
+position: relative;
+padding-left: 1.6rem;
+}
+
+.timeline-wrap::before {
+content: "";
+position: absolute;
+left: 0.42rem;
+top: 0.4rem;
+bottom: 0.4rem;
+width: 2px;
+background: rgba(250,246,236,0.35);
+}
+
+.timeline-item {
+position: relative;
+margin-bottom: 1.1rem;
+}
+
+.timeline-dot {
+position: absolute;
+left: -1.6rem;
+top: 0.35rem;
+width: 12px;
+height: 12px;
+border-radius: 50%;
+background: var(--pin-gold);
+box-shadow: 0 0 0 3px rgba(43,36,32,0.4);
+}
+
+.timeline-card {
+background: var(--paper);
+border-radius: 4px;
+padding: 1rem 1.2rem;
+box-shadow: 0 8px 14px var(--paper-shadow);
+cursor: pointer;
+}
+
+.timeline-year {
+font-family: var(--font-mono);
+font-size: 0.78rem;
+color: var(--accent-dark);
+font-weight: 700;
+}
+
+.timeline-title {
+font-family: var(--font-display);
+font-weight: 900;
+font-size: 1.1rem;
+color: var(--ink);
+margin: 0.3rem 0 0.4rem;
+}
+
+.timeline-summary {
+font-size: 0.9rem;
+color: var(--ink-soft);
+line-height: 1.6;
+}
+
+.timeline-expand-hint {
+font-family: var(--font-mono);
+font-size: 0.72rem;
+color: var(--accent);
+margin-top: 0.5rem;
+}
+
+.timeline-detail {
+margin-top: 0.8rem;
+padding-top: 0.8rem;
+border-top: 1px dashed #c9bfa8;
+font-size: 0.9rem;
+line-height: 1.8;
+color: var(--ink);
+}
+
+.timeline-detail-image {
+width: 100%;
+border-radius: 4px;
+margin-bottom: 0.8rem;
+background: #e8e0cf;
+display: flex;
+align-items: center;
+justify-content: center;
+color: var(--ink-soft);
+font-family: var(--font-mono);
+font-size: 0.75rem;
+min-height: 120px;
+text-align: center;
+padding: 1rem;
+}
+
+/* ---- 單元選單（測驗） ---- */
+.unit-select-label {
+font-family: var(--font-mono);
+font-size: 0.75rem;
+color: rgba(250,246,236,0.7);
+}
+
+/* ---- 測驗設定畫面 ---- */
+.quiz-setup {
+background: var(--paper);
+border-radius: 4px;
+padding: 1.8rem;
+box-shadow: 0 10px 18px var(--paper-shadow);
+max-width: 460px;
+margin: 0 auto;
+}
+
+.quiz-setup h2 {
+font-family: var(--font-display);
+font-size: 1.3rem;
+margin: 0 0 1.2rem;
+text-align: center;
+}
+
+.setup-field {
+margin-bottom: 1.1rem;
+}
+
+.setup-field label {
+display: block;
+font-family: var(--font-mono);
+font-size: 0.75rem;
+color: var(--ink-soft);
+margin-bottom: 0.4rem;
+}
+
+.setup-options {
+display: flex;
+gap: 0.5rem;
+flex-wrap: wrap;
+}
+
+.setup-chip {
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 0.85rem;
+padding: 0.5rem 0.9rem;
+border: 2px solid #c9bfa8;
+border-radius: 999px;
+background: #fff;
+cursor: pointer;
+color: var(--ink);
+}
+
+.setup-chip.active {
+background: var(--accent);
+border-color: var(--accent);
+color: #fff;
+}
+
+.start-quiz-btn {
+display: block;
+width: 100%;
+margin-top: 1.4rem;
+background: var(--accent);
+color: #fff;
+border: none;
+border-radius: 6px;
+padding: 0.8rem 1rem;
+font-family: var(--font-body);
+font-weight: 700;
+font-size: 1rem;
+cursor: pointer;
+}
+.start-quiz-btn:disabled { opacity: 0.5; cursor: default; }
+
+/* ---- 測驗進行中 ---- */
+.quiz-top-bar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 1rem;
+font-family: var(--font-mono);
+font-size: 0.85rem;
+color: var(--paper);
+}
+
+.quiz-timer {
+font-weight: 700;
+font-size: 1.1rem;
+color: var(--pin-gold);
+}
+
+.quiz-card {
+background: var(--paper);
+border-radius: 3px;
+padding: 1.8rem;
+box-shadow: 0 10px 18px var(--paper-shadow);
+}
+
+.quiz-question {
+font-family: var(--font-display);
+font-weight: 700;
+font-size: 1.2rem;
+text-align: center;
+margin-bottom: 1.4rem;
+line-height: 1.7;
+}
+
+.quiz-options {
+display: grid;
+gap: 0.7rem;
+}
+
+.quiz-option {
+font-family: var(--font-body);
+font-size: 1rem;
+padding: 0.8rem 1rem;
+border: 2px solid #c9bfa8;
+border-radius: 6px;
+background: #fff;
+cursor: pointer;
+text-align: left;
+}
+
+.quiz-option:hover { border-color: var(--accent); }
+.quiz-option.correct { background: var(--accent); color: #fff; border-color: var(--accent); }
+.quiz-option.wrong { background: var(--wrong-red); color: #fff; border-color: var(--wrong-red); }
+
+.quiz-actions {
+display: flex;
+gap: 0.7rem;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 1.2rem;
+}
+
+.explain-btn, .next-btn {
+font-family: var(--font-body);
+font-weight: 700;
+border: none;
+border-radius: 6px;
+padding: 0.6rem 1.3rem;
+cursor: pointer;
+}
+
+.explain-btn {
+background: rgba(138,90,43,0.14);
+color: var(--accent-dark);
+border: 1px solid var(--accent);
+}
+
+.next-btn {
+background: var(--accent);
+color: #fff;
+}
+
+.explain-box {
+margin-top: 1rem;
+padding-top: 0.9rem;
+border-top: 1px dashed #c9bfa8;
+font-size: 0.9rem;
+line-height: 1.7;
+color: var(--ink-soft);
+text-align: left;
+}
+.explain-box strong { color: var(--accent-dark); }
+
+/* ---- 測驗結果 ---- */
+.result-card {
+background: var(--paper);
+border-radius: 4px;
+padding: 2rem;
+box-shadow: 0 10px 18px var(--paper-shadow);
+text-align: center;
+max-width: 420px;
+margin: 0 auto;
+}
+
+.result-score {
+font-family: var(--font-display);
+font-weight: 900;
+font-size: 2.2rem;
+color: var(--accent-dark);
+margin: 0.6rem 0;
+}
+
+.result-time {
+font-family: var(--font-mono);
+font-size: 0.95rem;
+color: var(--ink-soft);
+margin-bottom: 1.4rem;
+}
+
+.result-actions {
+display: flex;
+gap: 0.8rem;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.result-btn {
+font-family: var(--font-body);
+font-weight: 700;
+border: none;
+border-radius: 6px;
+padding: 0.65rem 1.3rem;
+cursor: pointer;
+}
+.result-btn.primary { background: var(--accent); color: #fff; }
+.result-btn.secondary { background: rgba(43,36,32,0.12); color: var(--ink); border: 1px solid #c9bfa8; }
