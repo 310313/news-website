@@ -139,8 +139,19 @@ function countAvailable() {
   return filterQuestions().length;
 }
 
+function shuffleQuestionOptions(q) {
+  const order = shuffle(q.options.map((_, i) => i));
+  return {
+    ...q,
+    options: order.map((i) => q.options[i]),
+    answer: order.indexOf(q.answer),
+  };
+}
+
 function startQuiz() {
-  const pool = shuffle(filterQuestions()).slice(0, quizSetup.count);
+  const pool = shuffle(filterQuestions())
+    .slice(0, quizSetup.count)
+    .map(shuffleQuestionOptions);
   quizSession = {
     questions: pool,
     index: 0,
