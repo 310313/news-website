@@ -186,15 +186,15 @@ background: rgba(250,246,236,0.35);
 
 .timeline-item {
 position: relative;
-margin-bottom: 1.1rem;
+margin-bottom: 0.8rem;
 }
 
 .timeline-dot {
 position: absolute;
 left: -1.6rem;
-top: 0.35rem;
-width: 12px;
-height: 12px;
+top: 0.3rem;
+width: 10px;
+height: 10px;
 border-radius: 50%;
 background: var(--pin-gold);
 box-shadow: 0 0 0 3px rgba(43,36,32,0.4);
@@ -203,30 +203,47 @@ box-shadow: 0 0 0 3px rgba(43,36,32,0.4);
 .timeline-card {
 background: var(--paper);
 border-radius: 4px;
-padding: 1rem 1.2rem;
-box-shadow: 0 8px 14px var(--paper-shadow);
+padding: 0.7rem 0.9rem;
+box-shadow: 0 6px 10px var(--paper-shadow);
 cursor: pointer;
 }
 
 .timeline-year {
 font-family: var(--font-mono);
-font-size: 0.78rem;
+font-size: 0.7rem;
 color: var(--accent-dark);
 font-weight: 700;
 }
 
 .timeline-title {
 font-family: var(--font-display);
-font-weight: 900;
-font-size: 1.1rem;
+font-weight: 700;
+font-size: 0.95rem;
 color: var(--ink);
-margin: 0.3rem 0 0.4rem;
+margin: 0.25rem 0 0.35rem;
+}
+
+.timeline-era {
+font-family: var(--font-mono);
+font-size: 0.7rem;
+letter-spacing: 0.1em;
+color: var(--pin-gold);
+margin: 1.2rem 0 0.6rem -1.6rem;
+padding-left: 1.6rem;
+border-top: 1px dashed rgba(250,246,236,0.3);
+padding-top: 0.6rem;
+}
+
+.timeline-era:first-child {
+margin-top: 0;
+border-top: none;
+padding-top: 0;
 }
 
 .timeline-summary {
-font-size: 0.9rem;
+font-size: 0.82rem;
 color: var(--ink-soft);
-line-height: 1.6;
+line-height: 1.55;
 }
 
 .timeline-expand-hint {
@@ -240,25 +257,9 @@ margin-top: 0.5rem;
 margin-top: 0.8rem;
 padding-top: 0.8rem;
 border-top: 1px dashed #c9bfa8;
-font-size: 0.9rem;
-line-height: 1.8;
+font-size: 0.85rem;
+line-height: 1.75;
 color: var(--ink);
-}
-
-.timeline-detail-image {
-width: 100%;
-border-radius: 4px;
-margin-bottom: 0.8rem;
-background: #e8e0cf;
-display: flex;
-align-items: center;
-justify-content: center;
-color: var(--ink-soft);
-font-family: var(--font-mono);
-font-size: 0.75rem;
-min-height: 120px;
-text-align: center;
-padding: 1rem;
 }
 
 /* ---- 單元選單（測驗） ---- */
