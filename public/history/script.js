@@ -35,51 +35,14 @@ function shuffle(arr) {
   return a;
 }
 
-/* ---------- 時間軸 ---------- */
+/* ---------- 時間軸（台灣／中國／世界 三欄並排對照） ---------- */
 function renderTimeline() {
-  const items = TIMELINE.filter((t) => t.branch === selectedBranch).sort((a, b) => a.yearValue - b.yearValue);
-
   stage.innerHTML = `
-    <div class="branch-tabs" id="branchTabs">
-      ${BRANCHES.map((b) => `<button class="branch-tab ${selectedBranch === b.value ? "active" : ""}" data-branch="${b.value}">${b.label}</button>`).join("")}
+    <p class="unit-select-label" style="margin-bottom:0.8rem;">左右滑動可以看三個分域的時間軸，同一橫向大致對應相近的年代。</p>
+    <div class="timeline-columns" id="timelineColumns">
+      ${BRANCHES.map((b) => renderTimelineColumn(b)).join("")}
     </div>
-    ${
-      items.length === 0
-        ? `<div class="state-message">這條時間軸還沒有收錄內容，日月教育學習網正在持續擴充中，敬請期待。</div>`
-        : `<div class="timeline-wrap">
-      ${items
-        .map(
-          (t) => `
-        <div class="timeline-item">
-          <span class="timeline-dot"></span>
-          <div class="timeline-card" data-id="${t.id}">
-            <p class="timeline-year">${t.year}</p>
-            <p class="timeline-title">${t.title}</p>
-            <p class="timeline-summary">${t.summary}</p>
-            <p class="timeline-expand-hint">${expandedIds.has(t.id) ? "▲ 收合" : "▼ 點擊看詳細內容"}</p>
-            ${
-              expandedIds.has(t.id)
-                ? `<div class="timeline-detail">
-                    <div class="timeline-detail-image">${t.image ? `<img src="${t.image}" alt="${t.title}" style="width:100%;border-radius:4px;" />` : "（圖片待補充）"}</div>
-                    ${t.detail}
-                  </div>`
-                : ""
-            }
-          </div>
-        </div>
-      `
-        )
-        .join("")}
-    </div>`
-    }
   `;
-
-  document.getElementById("branchTabs").querySelectorAll(".branch-tab").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      selectedBranch = btn.dataset.branch;
-      renderTimeline();
-    });
-  });
 
   stage.querySelectorAll(".timeline-card").forEach((card) => {
     card.addEventListener("click", () => {
@@ -89,6 +52,44 @@ function renderTimeline() {
       renderTimeline();
     });
   });
+}
+
+function renderTimelineColumn(branch) {
+  const items = TIMELINE.filter((t) => t.branch === branch.value).sort((a, b) => a.yearValue - b.yearValue);
+  return `
+    <div class="timeline-column">
+      <p class="timeline-column-title branch-${branch.value}">${branch.label}</p>
+      ${
+        items.length === 0
+          ? `<div class="timeline-column-empty">還沒有收錄內容，持續擴充中。</div>`
+          : `<div class="timeline-wrap">
+        ${items
+          .map(
+            (t) => `
+          <div class="timeline-item">
+            <span class="timeline-dot"></span>
+            <div class="timeline-card" data-id="${t.id}">
+              <p class="timeline-year">${t.year}</p>
+              <p class="timeline-title">${t.title}</p>
+              <p class="timeline-summary">${t.summary}</p>
+              <p class="timeline-expand-hint">${expandedIds.has(t.id) ? "▲ 收合" : "▼ 點擊看詳細內容"}</p>
+              ${
+                expandedIds.has(t.id)
+                  ? `<div class="timeline-detail">
+                      <div class="timeline-detail-image">${t.image ? `<img src="${t.image}" alt="${t.title}" style="width:100%;border-radius:4px;" />` : "（圖片待補充）"}</div>
+                      ${t.detail}
+                    </div>`
+                  : ""
+              }
+            </div>
+          </div>
+        `
+          )
+          .join("")}
+      </div>`
+      }
+    </div>
+  `;
 }
 
 /* ---------- 測驗設定 ---------- */
