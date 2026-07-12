@@ -1,0 +1,12 @@
+[
+{"id":"hq-01","branch":"world","difficulty":"basic","question":"古埃及文明主要發源於哪一條河流？","options":["尼羅河","幼發拉底河","恆河","黃河"],"answer":0,"explanation":"尼羅河定期氾濫帶來肥沃土壤，是古埃及農業與文明發展的基礎。"},
+{"id":"hq-02","branch":"world","difficulty":"basic","question":"世界上第一屆有紀錄的奧林匹克運動會源自哪個文明？","options":["古希臘","古羅馬","古埃及","古中國"],"answer":0,"explanation":"西元前776年，古希臘人在奧林匹亞舉辦競技活動，是現代奧運的起源。"},
+{"id":"hq-03","branch":"world","difficulty":"basic","question":"羅馬由共和轉為帝制，是在哪位人物掌權之後？","options":["屋大維（奧古斯都）","凱撒","君士坦丁","尼祿"],"answer":0,"explanation":"西元前27年，元老院尊屋大維為「奧古斯都」，羅馬正式進入帝制。"},
+{"id":"hq-04","branch":"world","difficulty":"medium","question":"西羅馬帝國滅亡的年代，通常被視為哪個時代的開端？","options":["中世紀","文藝復興","啟蒙時代","工業革命"],"answer":0,"explanation":"西元476年西羅馬帝國滅亡，史學家常以此作為歐洲進入中世紀的分界點。"},
+{"id":"hq-05","branch":"world","difficulty":"medium","question":"哥倫布在哪一年抵達美洲？","options":["1492年","1517年","1453年","1789年"],"answer":0,"explanation":"哥倫布於1492年率船隊橫渡大西洋，抵達加勒比海一帶島嶼。"},
+{"id":"hq-06","branch":"world","difficulty":"medium","question":"馬丁路德發起宗教改革，主要挑戰的是哪個機構？","options":["羅馬天主教會","東正教會","伊斯蘭教","猶太教"],"answer":0,"explanation":"馬丁路德質疑天主教會販售贖罪券的作法，進而引發宗教改革運動。"},
+{"id":"hq-07","branch":"world","difficulty":"medium","question":"東羅馬（拜占庭）帝國滅亡的關鍵事件是？","options":["君士坦丁堡陷落","巴士底監獄被攻陷","十字軍東征","柏林圍牆倒塌"],"answer":0,"explanation":"1453年鄂圖曼土耳其攻陷君士坦丁堡，拜占庭帝國正式終結。"},
+{"id":"hq-08","branch":"world","difficulty":"hard","question":"法國大革命爆發的年代是？","options":["1789年","1776年","1804年","1815年"],"answer":0,"explanation":"1789年7月巴黎民眾攻陷巴士底監獄，法國大革命就此爆發。"},
+{"id":"hq-09","branch":"world","difficulty":"hard","question":"第一次世界大戰爆發的導火線事件是？","options":["塞拉耶佛事件","珍珠港事變","九一八事變","柏林危機"],"answer":0,"explanation":"奧匈帝國王儲斐迪南大公在塞拉耶佛遇刺，成為引爆一戰的導火線。"},
+{"id":"hq-10","branch":"world","difficulty":"hard","question":"柏林圍牆倒塌發生於哪一年？","options":["1989年","1991年","1961年","1975年"],"answer":0,"explanation":"1989年11月柏林圍牆被民眾拆除，象徵冷戰即將結束。"}
+]
