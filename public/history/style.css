@@ -128,6 +128,46 @@ border-color: var(--accent);
 color: #fff;
 }
 
+/* ---- 時間軸：三欄並排 ---- */
+.timeline-columns {
+display: flex;
+gap: 1.2rem;
+overflow-x: auto;
+padding-bottom: 0.6rem;
+-webkit-overflow-scrolling: touch;
+}
+
+.timeline-column {
+flex: 0 0 260px;
+min-width: 260px;
+}
+
+.timeline-column-title {
+font-family: var(--font-display);
+font-weight: 900;
+font-size: 1.05rem;
+color: var(--paper);
+background: rgba(43,36,32,0.35);
+border-radius: 6px;
+padding: 0.5rem 0.8rem;
+margin: 0 0 1rem;
+text-align: center;
+position: sticky;
+top: 0;
+}
+
+.timeline-column-title.branch-world { border-bottom: 3px solid #6f8db3; }
+.timeline-column-title.branch-china { border-bottom: 3px solid #bf5b2e; }
+.timeline-column-title.branch-taiwan { border-bottom: 3px solid #57724f; }
+
+.timeline-column-empty {
+font-family: var(--font-mono);
+font-size: 0.75rem;
+color: rgba(250,246,236,0.6);
+padding: 1rem 0.5rem;
+line-height: 1.7;
+}
+
 /* ---- 時間軸 ---- */
 .timeline-wrap {
 position: relative;
