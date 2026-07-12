@@ -10,5 +10,17 @@
 {"id":"q-poly-03","unit":"polynomials","difficulty":"medium","question":"若 f(x) = x³ - 3x² + k 可被 (x - 1) 整除，求 k = ?","options":["2","-2","3","0"],"answer":0,"explanation":"由因式定理 f(1)=0：1-3+k=0，解得 k=2。"},
 {"id":"q-poly-04","unit":"polynomials","difficulty":"medium","question":"(2x³+3x²-x+5) 除以 (x+2) 的餘式為？","options":["3","-3","5","11"],"answer":0,"explanation":"由餘式定理，餘式 = f(-2) = 2(-8)+3(4)-(-2)+5 = -16+12+2+5 = 3。"},
 {"id":"q-poly-05","unit":"polynomials","difficulty":"hard","question":"已知 f(x) = x⁴ - 5x² + 4，求所有實根","options":["±1、±2","±1","±2","無實根"],"answer":0,"explanation":"令 y=x²，得 y²-5y+4=(y-1)(y-4)=0，故 y=1 或 4，對應 x=±1、±2。"},
-{"id":"q-poly-06","unit":"polynomials","difficulty":"hard","question":"若 (x-1) 是 f(x) = x³ + ax² + bx - 2 的因式，求 a+b = ?","options":["1","-1","3","-3"],"answer":0,"explanation":"由因式定理 f(1)=0：1+a+b-2=0，解得 a+b=1。"}
+{"id":"q-poly-06","unit":"polynomials","difficulty":"hard","question":"若 (x-1) 是 f(x) = x³ + ax² + bx - 2 的因式，求 a+b = ?","options":["1","-1","3","-3"],"answer":0,"explanation":"由因式定理 f(1)=0：1+a+b-2=0，解得 a+b=1。"},
+{"id":"q-line-01","unit":"linear-equations","difficulty":"basic","question":"通過 (1,2) 與 (3,6) 兩點的直線斜率為？","options":["2","4","1/2","-2"],"answer":0,"explanation":"m = (6-2)/(3-1) = 4/2 = 2。"},
+{"id":"q-line-02","unit":"linear-equations","difficulty":"basic","question":"直線 y = 3x - 5 的斜率為？","options":["3","-5","-3","5"],"answer":0,"explanation":"y=mx+b 形式中，x 的係數即為斜率，故斜率為 3。"},
+{"id":"q-line-03","unit":"linear-equations","difficulty":"medium","question":"通過點 (2,-1)、斜率為 3 的直線一般式為？","options":["3x - y - 7 = 0","3x - y + 7 = 0","3x + y - 7 = 0","x - 3y - 7 = 0"],"answer":0,"explanation":"點斜式 y-(-1)=3(x-2) 展開得 y+1=3x-6，整理為 3x-y-7=0。"},
+{"id":"q-line-04","unit":"linear-equations","difficulty":"medium","question":"若兩直線 2x+3y=6 與 4x+ky=10 互相平行，求 k = ?","options":["6","3","-6","12"],"answer":0,"explanation":"平行條件 A₁B₂=A₂B₁：2k=4×3=12，解得 k=6。"},
+{"id":"q-line-05","unit":"linear-equations","difficulty":"hard","question":"求點 (3,4) 到直線 3x+4y-10=0 的距離","options":["3","5","15","1"],"answer":0,"explanation":"d=|3×3+4×4-10|/√(3²+4²)=|9+16-10|/5=15/5=3。"},
+{"id":"q-line-06","unit":"linear-equations","difficulty":"hard","question":"兩平行線 3x+4y-5=0 與 3x+4y+10=0 之間的距離為？","options":["3","5","1","15"],"answer":0,"explanation":"d=|C₁-C₂|/√(A²+B²)=|-5-10|/5=15/5=3。"},
+{"id":"q-seq-01","unit":"sequences-series","difficulty":"basic","question":"等差數列 2, 5, 8, 11, ... 的第10項為？","options":["29","27","32","23"],"answer":0,"explanation":"a₁₀=2+(10-1)×3=2+27=29。"},
+{"id":"q-seq-02","unit":"sequences-series","difficulty":"basic","question":"等比數列 3, 6, 12, 24, ... 的公比為？","options":["2","3","4","1/2"],"answer":0,"explanation":"後項除以前項：6/3=2，公比為 2。"},
+{"id":"q-seq-03","unit":"sequences-series","difficulty":"medium","question":"等差數列首項2、公差3，求前10項和","options":["155","150","145","160"],"answer":0,"explanation":"Sₙ=n·a₁+n(n-1)d/2=10×2+10×9×3/2=20+135=155。"},
+{"id":"q-seq-04","unit":"sequences-series","difficulty":"medium","question":"等比數列首項2、公比3，求前4項和","options":["80","78","82","84"],"answer":0,"explanation":"S₄=2(1-3⁴)/(1-3)=2(1-81)/(-2)=(-160)/(-2)=80。"},
+{"id":"q-seq-05","unit":"sequences-series","difficulty":"hard","question":"求無窮等比級數 4 + 4/3 + 4/9 + ... 的和","options":["6","8","12","4"],"answer":0,"explanation":"a₁=4、r=1/3，S=a₁/(1-r)=4/(2/3)=6。"},
+{"id":"q-seq-06","unit":"sequences-series","difficulty":"hard","question":"若 b 是 4 與 9 的等比中項（取正值），求 b = ?","options":["6","6.5","5","6.5"],"answer":0,"explanation":"b²=4×9=36，取正值 b=6。"}
 ]
