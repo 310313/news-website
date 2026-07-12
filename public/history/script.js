@@ -56,6 +56,7 @@ function renderTimeline() {
 
 function renderTimelineColumn(branch) {
   const items = TIMELINE.filter((t) => t.branch === branch.value).sort((a, b) => a.yearValue - b.yearValue);
+  let lastEra = null;
   return `
     <div class="timeline-column">
       <p class="timeline-column-title branch-${branch.value}">${branch.label}</p>
@@ -64,8 +65,14 @@ function renderTimelineColumn(branch) {
           ? `<div class="timeline-column-empty">還沒有收錄內容，持續擴充中。</div>`
           : `<div class="timeline-wrap">
         ${items
-          .map(
-            (t) => `
+          .map((t) => {
+            const eraHeader =
+              t.era && t.era !== lastEra
+                ? `<p class="timeline-era">${t.era}</p>`
+                : "";
+            lastEra = t.era || lastEra;
+            return `
+          ${eraHeader}
           <div class="timeline-item">
             <span class="timeline-dot"></span>
             <div class="timeline-card" data-id="${t.id}">
@@ -75,16 +82,13 @@ function renderTimelineColumn(branch) {
               <p class="timeline-expand-hint">${expandedIds.has(t.id) ? "▲ 收合" : "▼ 點擊看詳細內容"}</p>
               ${
                 expandedIds.has(t.id)
-                  ? `<div class="timeline-detail">
-                      <div class="timeline-detail-image">${t.image ? `<img src="${t.image}" alt="${t.title}" style="width:100%;border-radius:4px;" />` : "（圖片待補充）"}</div>
-                      ${t.detail}
-                    </div>`
+                  ? `<div class="timeline-detail">${t.detail}</div>`
                   : ""
               }
             </div>
           </div>
-        `
-          )
+        `;
+          })
           .join("")}
       </div>`
       }
